@@ -74,7 +74,7 @@
       {
         "id": "06c74982f0b50892",
         "type": "tabs",
-        "dimension": 50,
+        "dimension": 25.023169601482852,
         "children": [
           {
             "id": "0e966e6a5851fc63",
@@ -115,14 +115,6 @@
             }
           },
           {
-            "id": "9551bbb3b450d220",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {}
-            }
-          },
-          {
             "id": "51c9d27308ce3f86",
             "type": "leaf",
             "state": {
@@ -131,12 +123,27 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
+      },
+      {
+        "id": "47db007cef3e0e47",
+        "type": "tabs",
+        "dimension": 38.09082483781279,
+        "children": [
+          {
+            "id": "9551bbb3b450d220",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
       },
       {
         "id": "1e4288f3ed67c550",
         "type": "tabs",
-        "dimension": 50,
+        "dimension": 36.886005560704355,
         "children": [
           {
             "id": "37481c89d5bd8242",
