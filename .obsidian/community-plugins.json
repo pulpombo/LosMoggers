@@ -1,7 +1,4 @@
 [
-  "table-editor-obsidian",
-  "calendar",
-  "dataview",
   "cm-editor-syntax-highlight-obsidian",
   "obsidian-excalidraw-plugin",
   "homepage",
@@ -13,12 +10,13 @@
   "obsidian-icon-folder",
   "obsidian-excel-to-markdown-table",
   "obsidian-image-auto-upload-plugin",
-  "markdown-prettifier",
-  "markdown-table-editor",
-  "note-refactor-obsidian",
   "obsidian-enhancing-export",
   "supercharged-links-obsidian",
-  "obsidian-projects",
+  "folder-note-plugin",
   "obsidian-outliner",
-  "folder-note-plugin"
+  "obsidian-projects",
+  "note-refactor-obsidian",
+  "markdown-table-editor",
+  "markdown-prettifier",
+  "dataview"
 ]

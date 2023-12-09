@@ -121,7 +121,7 @@
             }
           },
           {
-            "id": "51c9d27308ce3f86",
+            "id": "4807df6c71da7b2e",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -129,7 +129,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       },
       {
         "id": "47db007cef3e0e47",
@@ -175,12 +175,13 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "homepage:Open homepage": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-projects:Open projects": false,
+      "markdown-table-editor:Open Markdown Table Editor": false
     }
   },
-  "active": "fc7486028fa0a1f2",
+  "active": "0c1523d200a85d8f",
   "lastOpenFiles": [
     "Untitled",
     "README.md",
