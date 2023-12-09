@@ -1,3 +1,1 @@
-# LosMoggers
- Nosotros somos los Moggers.
- En este repositorio ponemos absolutamente todo 
+Aca voy a poner todo el contenido que quiero hacer
