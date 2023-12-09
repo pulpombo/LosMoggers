@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Videos/Home Page de Videos.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
@@ -180,8 +180,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "fc7486028fa0a1f2",
+  "active": "0c1523d200a85d8f",
   "lastOpenFiles": [
+    "Untitled",
     "README.md",
     "Videos/Home Page de Videos.md",
     "wsp.md",
