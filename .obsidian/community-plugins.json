@@ -1,14 +1,9 @@
 [
-  "cm-editor-syntax-highlight-obsidian",
-  "obsidian-excalidraw-plugin",
   "homepage",
   "obsidian-kanban",
   "obsidian-tasks-plugin",
   "obsidian-git",
-  "obsidian-banners",
-  "drawio-obsidian",
   "obsidian-icon-folder",
-  "obsidian-excel-to-markdown-table",
   "obsidian-image-auto-upload-plugin",
   "obsidian-enhancing-export",
   "supercharged-links-obsidian",
@@ -18,5 +13,11 @@
   "note-refactor-obsidian",
   "markdown-table-editor",
   "markdown-prettifier",
-  "dataview"
+  "calendar",
+  "obsidian-banners",
+  "dataview",
+  "drawio-obsidian",
+  "cm-editor-syntax-highlight-obsidian",
+  "obsidian-excalidraw-plugin",
+  "obsidian-excel-to-markdown-table"
 ]
