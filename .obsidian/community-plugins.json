@@ -9,5 +9,16 @@
   "obsidian-tasks-plugin",
   "obsidian-git",
   "obsidian-banners",
-  "drawio-obsidian"
+  "drawio-obsidian",
+  "obsidian-icon-folder",
+  "obsidian-excel-to-markdown-table",
+  "obsidian-image-auto-upload-plugin",
+  "markdown-prettifier",
+  "markdown-table-editor",
+  "note-refactor-obsidian",
+  "obsidian-enhancing-export",
+  "supercharged-links-obsidian",
+  "obsidian-projects",
+  "obsidian-outliner",
+  "folder-note-plugin"
 ]
