@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "876b364689fae810",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "wsp.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -99,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "wsp.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "wsp.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "wsp.md"
+                "file": "README.md"
               }
             }
           }
@@ -193,10 +180,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "876b364689fae810",
+  "active": "fc7486028fa0a1f2",
   "lastOpenFiles": [
-    "README.md",
     "wsp.md",
+    "README.md",
     "Videos/Juegos/Minecraft.md",
     "Videos/Untitled",
     "Videos/Criticas",
