@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "e634af1aae4e84a6",
+        "id": "ee9eb3708e374ae5",
         "type": "tabs",
         "children": [
           {
-            "id": "fc7486028fa0a1f2",
+            "id": "7772ff1cb5104d3a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Videos/Home Page de Videos.md",
+                "file": "Home.md",
                 "mode": "source",
                 "source": false
               }
@@ -78,7 +78,7 @@
       {
         "id": "06c74982f0b50892",
         "type": "tabs",
-        "dimension": 25.023169601482852,
+        "dimension": 25.02316960148285,
         "children": [
           {
             "id": "0e966e6a5851fc63",
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Videos/Home Page de Videos.md",
+                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Videos/Home Page de Videos.md",
+                "file": "Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Videos/Home Page de Videos.md"
+                "file": "Home.md"
               }
             }
           }
@@ -182,8 +182,9 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "fc7486028fa0a1f2",
+  "active": "7772ff1cb5104d3a",
   "lastOpenFiles": [
+    "Home.md",
     "Videos/Juegos/Minecraft.md",
     "Videos/Home Page de Videos.md",
     "Untitled",
