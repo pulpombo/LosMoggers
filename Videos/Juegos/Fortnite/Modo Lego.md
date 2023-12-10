@@ -1,1 +1,2 @@
-Cambiar todas las construcciones antiguas por modernas
+- [ ] Cambiar todas las construcciones antiguas por modernas
+- [ ] Crear una instalacion de edificaciones para meter npc que trabajen 📅 2023-12-12
