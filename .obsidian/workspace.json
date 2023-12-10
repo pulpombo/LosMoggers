@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Videos/Juegos/Fortnite/Modo Lego.md",
+                "file": "Videos/Home Page de Videos.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Videos/Juegos/Fortnite/Modo Lego.md",
+                "file": "Videos/Home Page de Videos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Videos/Juegos/Fortnite/Modo Lego.md",
+                "file": "Videos/Home Page de Videos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Videos/Juegos/Fortnite/Modo Lego.md"
+                "file": "Videos/Home Page de Videos.md"
               }
             }
           }
@@ -184,8 +184,9 @@
   },
   "active": "f9abedec45fca40e",
   "lastOpenFiles": [
-    "Home.md",
+    "Videos/Untitled.md",
     "Videos/Juegos/Fortnite/Modo Lego.md",
+    "Home.md",
     "Videos/Juegos/Fortnite",
     "Videos/Juegos/Minecraft.md",
     "Videos/Home Page de Videos.md",
