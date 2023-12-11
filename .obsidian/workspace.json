@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "46e3ab54b913b9a9",
+        "id": "6c5b3ddba61710be",
         "type": "tabs",
         "children": [
           {
-            "id": "f9abedec45fca40e",
+            "id": "17134791eba3a421",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Videos/Home Page de Videos.md",
+                "file": "Home.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Videos/Home Page de Videos.md",
+                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Videos/Home Page de Videos.md",
+                "file": "Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Videos/Home Page de Videos.md"
+                "file": "Home.md"
               }
             }
           }
@@ -182,16 +182,16 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "f9abedec45fca40e",
+  "active": "17134791eba3a421",
   "lastOpenFiles": [
+    "README.md",
+    "Home.md",
     "Videos/Juegos/Fortnite/Modo Lego.md",
     "Videos/Home Page de Videos.md",
     "Videos/Untitled.md",
-    "Home.md",
     "Videos/Juegos/Fortnite",
     "Videos/Juegos/Minecraft.md",
     "Untitled",
-    "README.md",
     "wsp.md",
     "Videos/Untitled",
     "Videos/Criticas",
