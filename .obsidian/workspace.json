@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "6c5b3ddba61710be",
+        "id": "b6ff46e77a81ccb1",
         "type": "tabs",
         "children": [
           {
-            "id": "17134791eba3a421",
+            "id": "55876e8e09b56fa9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Videos/Home Page de Videos.md",
+                "file": "Home.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Videos/Home Page de Videos.md",
+                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Videos/Home Page de Videos.md",
+                "file": "Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Videos/Home Page de Videos.md"
+                "file": "Home.md"
               }
             }
           }
@@ -182,7 +182,7 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "17134791eba3a421",
+  "active": "55876e8e09b56fa9",
   "lastOpenFiles": [
     "Videos/Edicion.md",
     "Videos/Home Page de Videos.md",
