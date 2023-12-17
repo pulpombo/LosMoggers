@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "9fe29d400d1a406b",
+        "id": "d913e79133012d59",
         "type": "tabs",
         "children": [
           {
-            "id": "3620c21350c89ce6",
+            "id": "363b3719f69b75f0",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -182,7 +182,7 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "3620c21350c89ce6",
+  "active": "363b3719f69b75f0",
   "lastOpenFiles": [
     "Videos/Edicion.md",
     "Videos/Home Page de Videos.md",
