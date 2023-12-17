@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
+                "file": "Videos/Juegos/Minecraft.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "Videos/Juegos/Minecraft.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
+                "file": "Videos/Juegos/Minecraft.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.md"
+                "file": "Videos/Juegos/Minecraft.md"
               }
             }
           }
@@ -184,10 +184,10 @@
   },
   "active": "363b3719f69b75f0",
   "lastOpenFiles": [
+    "Home.md",
     "Videos/Edicion.md",
     "Videos/Home Page de Videos.md",
     "Reels - Tiktoks/Home Page de Reels-Tiktok.md",
-    "Home.md",
     "README.md",
     "Videos/Juegos/Fortnite/Modo Lego.md",
     "Videos/Untitled.md",
