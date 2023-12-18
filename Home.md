@@ -1,5 +1,5 @@
 ---
-banner_icon: 🏠 YEAH
+banner_icon: 🏠
 banner: "![[Life is Strange png cd.jpg]]"
 ---
 ## 1. AJAJAJAJA HOLAAAA que tal
