@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.md"
+                "file": "README.md"
               }
             }
           }
@@ -184,15 +184,15 @@
   },
   "active": "fcc187f22d435585",
   "lastOpenFiles": [
+    "README.md",
+    "README.md",
     "Life is Strange png cd.jpg",
-    "Home.md",
     "Life.md",
     "().md",
     "Videos/Juegos/Minecraft.md",
     "Videos/Edicion.md",
     "Videos/Home Page de Videos.md",
     "Reels - Tiktoks/Home Page de Reels-Tiktok.md",
-    "README.md",
     "Videos/Juegos/Fortnite/Modo Lego.md",
     "Videos/Untitled.md",
     "Videos/Juegos/Fortnite",
