@@ -4,8 +4,8 @@
 
 ## 2. Menú de Navegación
 
-- **Contenido**: Acceso directo a tu creación de contenido.
-- **Redes Sociales**: Enlaces a tus perfiles en redes sociales.
+- **Contenido**: [[Home Page de Videos]]
+- **Redes Sociales**: 
 - **Calendario Editorial**: Planificación de contenido fututo.
 - **Estadísticas**: Seguimiento del rendimiento en redes sociales y contenido.
 - **Recursos**: Enlaces a herramientas, imágenes, fuentes, etc.
