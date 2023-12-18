@@ -4,7 +4,6 @@
 
 ## 2. Menú de Navegación
 
-- **Inicio**: Enlace rápido a la página principal.
 - **Contenido**: Acceso directo a tu creación de contenido.
 - **Redes Sociales**: Enlaces a tus perfiles en redes sociales.
 - **Calendario Editorial**: Planificación de contenido fututo.
