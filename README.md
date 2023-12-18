@@ -13,8 +13,9 @@ https://i.pinimg.com/564x/b7/cc/b6/b7ccb6578012496302dcab78b4c3fe97.jpg
 - **Calendario Editorial**: Planificación de contenido fututo.
 - **Estadísticas**: 
 	- [Youtube](https://studio.youtube.com/channel/UC6u4HsXy_mKJ0tRIuPyfWmA/analytics/tab-overview/period-default)
-	- [Twitch]()
-- **Recursos**: Mi storage de recursos esta en 
+	- [Twitch](https://www.twitch.tv/lattevnla)
+- **Recursos**: Mi storage de recursos esta en [Storage](https://drive.google.com/drive/u/4/folders/1SbFb8ooWdQJj_QFGBOY0DkUAhyf-TKDg)
+	- Organizado por 
 - **Contacto**: 
 	- latttevnla@gmail.com (Gmail)
 	- lattevnla (Discord)
