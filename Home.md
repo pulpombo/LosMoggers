@@ -5,7 +5,7 @@
 ## 2. Menú de Navegación
 
 - **Contenido**: [[Home Page de Videos]]
-- **Redes Sociales**: https://www.youtube.com/channel/UC6u4HsXy_mKJ0tRIuPyfWmA
+- **Redes Sociales**: 
 - **Calendario Editorial**: Planificación de contenido fututo.
 - **Estadísticas**: Seguimiento del rendimiento en redes sociales y contenido.
 - **Recursos**: Enlaces a herramientas, imágenes, fuentes, etc.
