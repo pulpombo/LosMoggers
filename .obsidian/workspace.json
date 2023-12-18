@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.md"
+                "file": "README.md"
               }
             }
           }
@@ -184,6 +184,7 @@
   },
   "active": "ff3d0d87fcc2490c",
   "lastOpenFiles": [
+    "Videos/Home Page de Videos.md",
     "Home.md",
     "Videos/Organizacion/ZZZ (Logistica)/Edicion.md",
     "Videos/Organizacion/ZZZ (Logistica)/Planificación de contenido futuro..md",
@@ -191,7 +192,6 @@
     "Videos/Organizacion/ZZZ (Logistica)",
     "Videos/Organizacion",
     "README.md",
-    "Videos/Home Page de Videos.md",
     "944384937690292295.md",
     "Life is Strange png cd.jpg",
     "Life.md",
