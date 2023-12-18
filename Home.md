@@ -24,7 +24,7 @@ banner: "![[Life is Strange png cd.jpg]]"
 - **Ideas para Contenido**: [[Ideas de Videos]]
 - **Contenido Reciente**: Lista de las publicaciones más recientes.
 	- [[Contenido creado]]
-- : [Añade aquí lo que quieras personalizar]
+- **Programas**: [[Davinci Resolve]]; [[Photoshop]]; [[Auto-Editor]]; [[OBS]]; 
 
 ### b. Redes Sociales
 
