@@ -13,7 +13,7 @@ https://i.pinimg.com/564x/b7/cc/b6/b7ccb6578012496302dcab78b4c3fe97.jpg
 - **Calendario Editorial**: Planificación de contenido fututo.
 - **Estadísticas**: 
 	- [Youtube](https://studio.youtube.com/channel/UC6u4HsXy_mKJ0tRIuPyfWmA/analytics/tab-overview/period-default)
-	- [Instagram]()
+	- [Twitch]()
 - **Recursos**: Mi storage de recursos esta en 
 - **Contacto**: 
 	- latttevnla@gmail.com (Gmail)
