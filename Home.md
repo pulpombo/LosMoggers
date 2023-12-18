@@ -1,3 +1,7 @@
+---
+banner_icon: 🏠 YEAH
+banner: "![[Life is Strange png cd.jpg]]"
+---
 ## 1. AJAJAJAJA HOLAAAA que tal
 - **Nombre/Logo**: Capuccino
 ![[Life is Strange png cd.jpg]]
