@@ -20,6 +20,7 @@ banner: "![[Life is Strange png cd.jpg]]"
 ### a. Creación de Contenido
 
 - **Calendario Editorial**: Planificación de publicaciones.
+	- Alrededor de 2 veces
 - **Ideas para Contenido**: Espacio para nuevas ideas.
 - **Contenido Reciente**: Lista de las publicaciones más recientes.
 - **Jeje**: [Añade aquí lo que quieras personalizar]
