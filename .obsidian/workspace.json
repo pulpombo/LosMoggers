@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "506bb660a547a74c",
+        "id": "15343d52eb3eea65",
         "type": "tabs",
         "children": [
           {
-            "id": "fcc187f22d435585",
+            "id": "ff3d0d87fcc2490c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Videos/Organizacion/ZZZ (Logistica)/Planificación de contenido futuro..md",
+                "file": "Home.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Videos/Organizacion/ZZZ (Logistica)/Planificación de contenido futuro..md",
+                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Videos/Organizacion/ZZZ (Logistica)/Planificación de contenido futuro..md",
+                "file": "Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Videos/Organizacion/ZZZ (Logistica)/Planificación de contenido futuro..md"
+                "file": "Home.md"
               }
             }
           }
@@ -182,8 +182,9 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "fcc187f22d435585",
+  "active": "ff3d0d87fcc2490c",
   "lastOpenFiles": [
+    "Home.md",
     "Videos/Organizacion/ZZZ (Logistica)/Edicion.md",
     "Videos/Organizacion/ZZZ (Logistica)/Planificación de contenido futuro..md",
     "Videos/Organizacion/ZZZ (Logistica)/Storage de recursos!!.md",
