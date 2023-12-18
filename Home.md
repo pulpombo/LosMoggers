@@ -4,7 +4,7 @@ banner: "![[Life is Strange png cd.jpg]]"
 ---
 ## 1. AJAJAJAJA HOLAAAA que tal
 - **Nombre/Logo**: Capuccino
-![[Life is Strange png cd.jpg]]
+![[Life is Strange png cd.jpg]][]
 
 ## 2. Menú de Navegación
 
@@ -24,7 +24,7 @@ banner: "![[Life is Strange png cd.jpg]]"
 - **Ideas para Contenido**: [[Ideas de Videos]]
 - **Contenido Reciente**: Lista de las publicaciones más recientes.
 	- [[Contenido creado]]
-- **Programas**: [[Davinci Resolve]]; [[Photoshop]]; [[Auto-Editor]]; [[OBS]]; 
+- **Programas**: [[Davinci Resolve]]; [[Photoshop]]; [[Auto-Editor]]; [[OBS]]; [[Filmora]]
 
 ### b. Redes Sociales
 
