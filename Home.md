@@ -1,6 +1,6 @@
 ## 1. AJAJAJAJA HOLAAAA que tal
-- **Nombre/Logo**:
-
+- **Nombre/Logo**: Capuccino
+![[Life is Strange png cd.jpg]]
 
 ## 2. Menú de Navegación
 
