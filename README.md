@@ -13,7 +13,7 @@ https://i.pinimg.com/564x/b7/cc/b6/b7ccb6578012496302dcab78b4c3fe97.jpg
 - **Calendario Editorial**: Planificación de contenido fututo.
 - **Estadísticas**: Seguimiento del rendimiento en redes sociales y contenido.
 - **Recursos**: Enlaces a herramientas, imágenes, fuentes, etc.
-- **Contacto**: latttevnla@gmail.com; lattev
+- **Contacto**: latttevnla@gmail.com (Gmail); lattevnla (Discord); Cappucino (@Exprougart)
 
 ## 3. Secciones Principales
 
