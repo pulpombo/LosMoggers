@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "217233aa94da84fd",
+        "id": "fe76de9a118a3d8d",
         "type": "tabs",
         "children": [
           {
-            "id": "2bb634851afe0204",
+            "id": "4d48a642a4487766",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -182,7 +182,7 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "2bb634851afe0204",
+  "active": "4d48a642a4487766",
   "lastOpenFiles": [
     "Home.md",
     "Videos/Juegos/Minecraft.md",
