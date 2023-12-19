@@ -3,8 +3,9 @@ banner: "https://i.pinimg.com/564x/82/aa/1a/82aa1acfa9c16c0ebe6b48712a84e121.jpg
 ---
 # Home page sisi
 ## 1. AJAJAJAJA HOLAAAA que tal
-- **Nombre/Logo**: Capuccino (lattevnla)
-
+- **Nombre/Logo**: 
+## Capuccino (lattevnla)
+<img src=https://i.pinimg.com/564x/06/cc/86/06cc8693165aca2b9a047846a7e43907.jpg> 
 ## 2. Menú de Navegación
 
 - **Contenido**: [[Home Page de Videos]]
