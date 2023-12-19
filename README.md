@@ -10,7 +10,7 @@ banner: "https://i.pinimg.com/564x/82/aa/1a/82aa1acfa9c16c0ebe6b48712a84e121.jpg
 ## 2. Menú de Navegación
 
 - **Contenido**: [[Home Page de Videos]]
-- **Redes Sociales**: [Youtube](https://www.youtube.com/channel/UC6u4HsXy_mKJ0tRIuPyfWmA), [Twitter]()
+- **Redes Sociales**: [Youtube](https://www.youtube.com/channel/UC6u4HsXy_mKJ0tRIuPyfWmA), [Twitter](https://twitter.com/lattevnla), [Twitch](https://www.twitch.tv/lattevnla)
 - **Calendario Editorial**: [[Planificación de contenido futuro.]]
 - **Estadísticas**: 
 	- [Youtube](https://studio.youtube.com/channel/UC6u4HsXy_mKJ0tRIuPyfWmA/analytics/tab-overview/period-default)
@@ -39,6 +39,7 @@ banner: "https://i.pinimg.com/564x/82/aa/1a/82aa1acfa9c16c0ebe6b48712a84e121.jpg
 ### b. Redes Sociales
 
 - **Programación de Publicaciones**: Si programas tus posts, incluye un calendario.
+- **Redes Sociales**: [Youtube](https://www.youtube.com/channel/UC6u4HsXy_mKJ0tRIuPyfWmA), [Twitter](https://twitter.com/lattevnla)
 - **Interacción con Seguidores**: Espacio para responder a comentarios y mensajes directos.
 - **Estadísticas de Redes Sociales**: Seguimiento de métricas importantes.
 
