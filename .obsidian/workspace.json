@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ideas/Videos/Juegos/Roblox/Cosas secretas.md",
+                "file": "Ideas/Videos/Juegos/Roblox/Untitled Boxing Game/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ideas/Videos/Juegos/Roblox/Cosas secretas.md",
+                "file": "Ideas/Videos/Juegos/Roblox/Untitled Boxing Game/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ideas/Videos/Juegos/Roblox/Cosas secretas.md",
+                "file": "Ideas/Videos/Juegos/Roblox/Untitled Boxing Game/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ideas/Videos/Juegos/Roblox/Cosas secretas.md"
+                "file": "Ideas/Videos/Juegos/Roblox/Untitled Boxing Game/Untitled.md"
               }
             }
           }
@@ -184,9 +184,11 @@
   },
   "active": "ff3d0d87fcc2490c",
   "lastOpenFiles": [
-    "Ideas/Videos/Juegos/Roblox/Combat warriors/Comandos.md",
-    "Ideas/Videos/Juegos/Roblox/Cosas secretas.md",
     "Ideas/Videos/Juegos/Roblox/Combat warriors/Primer video.md",
+    "Ideas/Videos/Juegos/Roblox/Untitled Boxing Game/Untitled.md",
+    "Ideas/Videos/Juegos/Roblox/Untitled Boxing Game",
+    "Ideas/Videos/Juegos/Roblox/Cosas secretas.md",
+    "Ideas/Videos/Juegos/Roblox/Combat warriors/Comandos.md",
     "README.md",
     "Ideas/Videos/Juegos/Roblox/Combat warriors",
     "Ideas/Videos/Juegos/Roblox",
@@ -214,7 +216,6 @@
     "Videos/Organizacion/Juegos/Fortnite",
     "Untitled",
     "wsp.md",
-    "Videos/Organizacion/Criticas",
     "Que locura.md",
     "LosMoggers/README.md"
   ]
