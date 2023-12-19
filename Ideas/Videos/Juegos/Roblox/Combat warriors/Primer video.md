@@ -1,3 +1,4 @@
+
 ##### Idea 1: "Los Moggers"  
 En este concepto, puedes presentar a un grupo de jugadores que al principio parecen ser terribles en el combate de "Combat Warriors". Sin embargo, logran ganar batallas mediante métodos no convencionales o pura suerte. Aquí tienes un posible escenario:
 
