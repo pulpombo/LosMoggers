@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Ideas/Videos/Juegos/Roblox/Combat warriors/Primer video.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Ideas/Videos/Juegos/Roblox/Combat warriors/Primer video.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Ideas/Videos/Juegos/Roblox/Combat warriors/Primer video.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Ideas/Videos/Juegos/Roblox/Combat warriors/Primer video.md"
               }
             }
           }
@@ -182,12 +182,16 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "0c1523d200a85d8f",
+  "active": "ff3d0d87fcc2490c",
   "lastOpenFiles": [
-    "Videos/Organizacion/Ideas/Untitled",
-    "Videos/Organizacion/Ideas",
-    "Videos/Organizacion/Juegos/Ideas de Videos.md",
     "README.md",
+    "Ideas/Videos/Juegos/Roblox/Combat warriors/Primer video.md",
+    "Ideas/Videos/Juegos/Roblox/Combat warriors",
+    "Ideas/Videos/Juegos/Roblox",
+    "Ideas/Videos/Juegos",
+    "Ideas/Videos",
+    "Ideas",
+    "Videos/Organizacion/Juegos/Ideas de Videos.md",
     "Videos/Organizacion/Logistica/Guias.md",
     "Videos/Home Page de Videos.md",
     "Videos/Organizacion/Logistica/Edicion.md",
@@ -209,10 +213,6 @@
     "Untitled",
     "wsp.md",
     "Videos/Organizacion/Criticas",
-    "Videos/Organizacion/Guias",
-    "Videos/Organizacion/Juegos",
-    "Redes sociales",
-    "Reels - Tiktoks",
     "Que locura.md",
     "LosMoggers/README.md"
   ]
