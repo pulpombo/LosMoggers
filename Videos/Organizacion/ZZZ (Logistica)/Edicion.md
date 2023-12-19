@@ -1,9 +1,8 @@
 ## Estilo Pyrocynical
 
 
-## ##Estilos de edición
-
-###Estilo: PyroCynical
+## Estilos de edición
+### Estilo: PyroCynical
 
 ##### **1. Montajes:**
 - Pyrocynical es hábil en la rápida transición entre escenas, cambiando clips a una velocidad que captura la atención del espectador y agrega dinamismo.
@@ -34,3 +33,6 @@
 
 ##### **10. Conciencia de Sí Mismo:**
 - Se ríe de sí mismo y de los clichés de YouTube, creando contenido que se burla de las convenciones mientras las utiliza a su favor, gracias a una edición inteligente.
+
+
+### Estilo Magnates Media
