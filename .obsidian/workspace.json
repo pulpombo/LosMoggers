@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reels - Tiktoks/Home Page de Reels-Tiktok.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -78,7 +78,7 @@
       {
         "id": "06c74982f0b50892",
         "type": "tabs",
-        "dimension": 25.02316960148285,
+        "dimension": 37.00873362445415,
         "children": [
           {
             "id": "0e966e6a5851fc63",
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Reels - Tiktoks/Home Page de Reels-Tiktok.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Reels - Tiktoks/Home Page de Reels-Tiktok.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,12 +129,12 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       },
       {
         "id": "47db007cef3e0e47",
         "type": "tabs",
-        "dimension": 38.09082483781279,
+        "dimension": 26.091703056768562,
         "children": [
           {
             "id": "9551bbb3b450d220",
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Reels - Tiktoks/Home Page de Reels-Tiktok.md"
+                "file": "README.md"
               }
             }
           }
@@ -151,7 +151,7 @@
       {
         "id": "1e4288f3ed67c550",
         "type": "tabs",
-        "dimension": 36.886005560704355,
+        "dimension": 36.8995633187773,
         "children": [
           {
             "id": "37481c89d5bd8242",
@@ -184,12 +184,13 @@
   },
   "active": "ff3d0d87fcc2490c",
   "lastOpenFiles": [
+    "Videos/Organizacion/ZZZ (Logistica)/Guias.md",
+    "Videos/Home Page de Videos.md",
+    "Videos/Organizacion/ZZZ (Logistica)/Edicion.md",
+    "Reels - Tiktoks/Home Page de Reels-Tiktok.md",
     "Videos/Organizacion/ZZZ (Logistica)/Storage de recursos!!.md",
     "Videos/Organizacion/ZZZ (Logistica)/Planificación de contenido futuro.md",
-    "Videos/Organizacion/ZZZ (Logistica)/Guias.md",
-    "Videos/Organizacion/ZZZ (Logistica)/Edicion.md",
     "PyroCynical.md",
-    "Videos/Home Page de Videos.md",
     "README.md",
     "Home.md",
     "Videos/Organizacion/ZZZ (Logistica)",
@@ -199,7 +200,6 @@
     "Life.md",
     "().md",
     "Videos/Organizacion/Juegos/Minecraft.md",
-    "Reels - Tiktoks/Home Page de Reels-Tiktok.md",
     "Videos/Organizacion/Juegos/Fortnite/Modo Lego.md",
     "Videos/Untitled.md",
     "Videos/Organizacion/Juegos/Fortnite",
