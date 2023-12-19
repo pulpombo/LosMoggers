@@ -31,8 +31,8 @@
 ##### **10. Conciencia de Sí Mismo:**
 - Se ríe de sí mismo y de los clichés de YouTube, creando contenido que se burla de las convenciones mientras las utiliza a su favor, gracias a una edición inteligente.
 
-
-### Estilo [Magnates Media](https://www.youtube.com/@MagnatesMedia)
+ (Gaming Alto Esfuerzo)
+### Estilo [Magnates Media](https://www.youtube.com/@MagnatesMedia) (Guias/Criticas Alto Esfuerzo)
 
 ##### **1. Montajes:**
 - Magnates Media destaca en la creación de montajes cautivadores que combinan imágenes de manera fluida, brindando una experiencia visual envolvente y atractiva.
