@@ -65,3 +65,32 @@
 - Más allá de la forma, Magnates Media incorpora mensajes inspiradores y motivadores en sus videos, aportando un valor adicional a la experiencia del espectador.
 
 ### Estilo: [MisterCarlos](https://www.youtube.com/@MisterCarlos/videos) (Guias/Gameplay Medio Esfuerzo)
+##### **1. Detalladas Guías de Juego:**
+- MisterCarlos se destaca por la creación de guías de Terraria minuciosas y detalladas, proporcionando a los espectadores una comprensión completa de los elementos del juego.
+
+##### **2. Comunicación Clara y Concisa:**
+- Su estilo de edición se centra en una comunicación clara y concisa, asegurando que la información sea fácil de entender para jugadores de todos los niveles.
+
+##### **3. Destacando Estrategias Efectivas:**
+- Presenta estrategias efectivas de juego de manera visual, utilizando la edición para resaltar tácticas y trucos que pueden mejorar la experiencia del jugador en Terraria.
+
+##### **4. Interacción con la Comunidad:**
+- Fomenta la interacción con la comunidad incorporando comentarios y preguntas de los espectadores en sus videos, creando una experiencia más participativa y personalizada.
+
+##### **5. Gráficos Esclarecedores:**
+- Utiliza gráficos claros y esclarecedores para explicar conceptos complicados, facilitando a los jugadores la comprensión de mecánicas y estrategias avanzadas.
+
+##### **6. Demostraciones Prácticas:**
+- Complementa las explicaciones teóricas con demostraciones prácticas en el juego, permitiendo a los espectadores ver directamente la aplicación de las estrategias compartidas.
+
+##### **7. Estilo Visual Coherente:**
+- Aunque aborda una variedad de temas en Terraria, mantiene un estilo visual coherente que refleja su identidad única como creador de contenido de juegos.
+
+##### **8. Actualizaciones Constantes:**
+- Se mantiene actualizado con las últimas actualizaciones de Terraria, ofreciendo contenido fresco y relevante que coincide con la evolución del juego.
+
+##### **9. Toneladas de Consejos Útiles:**
+- Incluye una abundancia de consejos útiles en cada video, brindando a los espectadores información valiosa que pueden aplicar directamente en su experiencia de juego.
+
+##### **10. Pasión por Terraria:**
+- La pasión de MisterCarlos por Terraria se refleja en sus videos, creando un ambiente acogedor y entusiasta que motiva a los jugadores a explorar y disfrutar del juego.
