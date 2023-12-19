@@ -62,4 +62,7 @@
 [Clip art](https://openclipart.org/) 
 [Sonidos gratis](https://www.freesound.org/)
 [Recursos gratis](https://creativecommons.org/) 
-[Multimedia libre de uso](https://pixabay.com/)
+[Multimedia libre de uso 1](https://pixabay.com/)
+Multimedia libre de uso 2[https://www.pexels.com/es-es/](https://www.pexels.com/es-es/ "https://www.pexels.com/es-es/") 
+Multimedia libre de uso 3(https://www.freepik.es/ "https://www.freepik.es/") 
+Clips libre de uso(https://es.videezy.com/)
