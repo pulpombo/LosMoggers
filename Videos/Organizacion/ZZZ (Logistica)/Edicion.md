@@ -4,7 +4,7 @@
 ##Estilos de edicion
 ---
 ###Estilo: PyroCynical
-##### **1. Montaje Icónico:**
+##### **1. Montajes:**
 - _Cambio Rápido de Escenas:_ Pyrocynical es un mago del montaje rápido. Cambia entre clips a una velocidad que ni siquiera puedes parpadear. Este ritmo rápido mantiene la atención del espectador y añade un toque dinámico.
 
 ##### **2. Humor Sarcástico:**
