@@ -17,7 +17,7 @@ banner: "https://i.pinimg.com/564x/82/aa/1a/82aa1acfa9c16c0ebe6b48712a84e121.jpg
 	- [Twitch](https://www.twitch.tv/lattevnla)
 - **Recursos**: Mi storage de recursos esta en [Storage](https://drive.google.com/drive/u/4/folders/1SbFb8ooWdQJj_QFGBOY0DkUAhyf-TKDg)
 	- Organizado por [[Storage de recursos!!]]
-	- 
+	- Otros lugares para conseguir re
 - **Contacto**: 
 	- latttevnla@gmail.com (Gmail)
 	- lattevnla (Discord)
