@@ -44,8 +44,7 @@ banner: "https://i.pinimg.com/564x/82/aa/1a/82aa1acfa9c16c0ebe6b48712a84e121.jpg
 ## 4. Herramientas y Recursos
 
 - **Herramientas de Edición de Imágenes y Videos**: Enlaces rápidos.
-- **Recursos Gráficos**: Imágenes, fuentes y otros elementos gráficos.
-- **Jeje**: [Añade aquí lo que quieras personalizar]
+- **Recursos Gráficos**: Imágenes, fuentes y otros elementos gráficos. 
 
 ## 5. Estadísticas y Analíticas
 
