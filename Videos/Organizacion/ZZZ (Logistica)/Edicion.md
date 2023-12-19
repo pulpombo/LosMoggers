@@ -32,7 +32,7 @@
 - Se ríe de sí mismo y de los clichés de YouTube, creando contenido que se burla de las convenciones mientras las utiliza a su favor, gracias a una edición inteligente.
 
  (Gaming Alto Esfuerzo)
-### Estilo [Magnates Media](https://www.youtube.com/@MagnatesMedia) (Guias/Criticas Alto Esfuerzo)
+### Estilo: [Magnates Media](https://www.youtube.com/@MagnatesMedia) (Guias/Criticas Alto Esfuerzo)
 
 ##### **1. Montajes:**
 - Magnates Media destaca en la creación de montajes cautivadores que combinan imágenes de manera fluida, brindando una experiencia visual envolvente y atractiva.
@@ -63,3 +63,5 @@
 
 ##### **10. Mensajes Inspiradores:**
 - Más allá de la forma, Magnates Media incorpora mensajes inspiradores y motivadores en sus videos, aportando un valor adicional a la experiencia del espectador.
+
+### Estilo: [MisterCarlos](https://www.youtube.com/@MisterCarlos/videos) (Guias/Gameplay Medio Esfuerzo)
