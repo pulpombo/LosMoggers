@@ -1,0 +1,1 @@
+Modo cinematico: Shift + P
