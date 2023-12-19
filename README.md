@@ -33,6 +33,7 @@ banner: "https://i.pinimg.com/564x/82/aa/1a/82aa1acfa9c16c0ebe6b48712a84e121.jpg
 - **Ideas para Contenido**: [[Ideas de Videos]]
 - **Contenido Reciente**: Lista de las publicaciones más recientes.
 	- [[Contenido creado]]
+	- [[Comunidad y comunicados]]
 - **Programas**: [[Davinci Resolve]]; [[Photoshop]]; [[Auto-Editor]]; [[OBS]]; [[Filmora]]
 
 ### b. Redes Sociales
