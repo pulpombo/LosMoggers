@@ -1,5 +1,5 @@
 ## Estilos de edición
-### Estilo: [[PyroCynical]](https://www.youtube.com/@Pyrocynical)
+### Estilo: [PyroCynical](https://www.youtube.com/@Pyrocynical)
 
 ##### **1. Montajes:**
 - Pyrocynical es hábil en la rápida transición entre escenas, cambiando clips a una velocidad que captura la atención del espectador y agrega dinamismo.
