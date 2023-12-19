@@ -20,7 +20,7 @@
 - _Animaciones Ligeras:_ Introduce animaciones divertidas para resaltar puntos clave o para dar un giro cómico a la narrativa. Estas animaciones, aunque simples, añaden mucho a la experiencia visual.
 
 ##### **6. Edición de Imágenes y Vídeos:**
-- _Overlay de Imágenes y Vídeos:_ Pyrocynical combina imágenes y videos de manera magistral para enfatizar sus puntos o para satirizar situaciones. Este uso creativo de overlays añade profundidad a sus comentarios.
+- _Overlay de Imágenes y Vídeos:_ Pyrocynical combina imágenes y videos para enfatizar sus puntos o para satirizar situaciones. Este uso creativo de overlays añade profundidad a sus comentarios.
 
 ##### **7. Estética Visual Única:**
 - _Estilo Visual Consistente:_ Aunque sus videos abarcan una variedad de temas, mantiene una estética visual coherente. Colores apagados, efectos de glitch y una paleta visual distintiva dan una marca única a sus videos.
