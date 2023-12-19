@@ -1,10 +1,10 @@
 ##### Idea 1: "Los Moggers"  
 En este concepto, puedes presentar a un grupo de jugadores que al principio parecen ser terribles en el combate de "Combat Warriors". Sin embargo, logran ganar batallas mediante métodos no convencionales o pura suerte. Aquí tienes un posible escenario:
 
-Título: "Los Moggers: Maestros del cagos"
+Título: "Los Moggers"
 
 Sinopsis:  
-En el mundo de "Combat Warriors", donde los guerreros habilidosos reinan supremos, un grupo de jugadores aparentemente ineptos se reúne. Cada miembro del grupo posee características cómicas y únicas que los hacen destacar. A pesar de su falta de habilidades en el combate, se les conoce como los "Maestros del Caos".
+En el mundo de "Combat Warriors", donde los guerreros habilidosos reinan supremos, un grupo de jugadores aparentemente ineptos se reúne. Cada miembro del grupo posee características cómicas y únicas que los hacen destacar. A pesar de su falta de habilidades en el combate, se les conoce como los "Los Moggers".
 
 Escena 1: La Introducción  
 Presenta a cada miembro del grupo, resaltando sus características distintivas y cómicas. Por ejemplo, puede haber un jugador torpe que se tropieza con sus propios pies, un jugador con una puntería absurdamente mala o incluso un jugador que constantemente se distrae con mariposas virtuales en el juego.
