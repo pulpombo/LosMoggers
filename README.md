@@ -11,7 +11,7 @@ banner: "https://i.pinimg.com/564x/82/aa/1a/82aa1acfa9c16c0ebe6b48712a84e121.jpg
 
 - **Contenido**: [[Home Page de Videos]]
 - **Redes Sociales**: [Youtube](https://www.youtube.com/channel/UC6u4HsXy_mKJ0tRIuPyfWmA), [Twitter](https://twitter.com/lattevnla), [Twitch](https://www.twitch.tv/lattevnla)
-- **Calendario Editorial**: [[Planificación de contenido futuro.]]
+- **Calendario Editorial**: [[Planificación de contenido futuro]]
 - **Estadísticas**: 
 	- [Youtube](https://studio.youtube.com/channel/UC6u4HsXy_mKJ0tRIuPyfWmA/analytics/tab-overview/period-default)
 	- [Twitch](https://www.twitch.tv/lattevnla)
