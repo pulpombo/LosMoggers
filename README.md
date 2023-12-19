@@ -38,7 +38,7 @@ banner: "https://i.pinimg.com/564x/82/aa/1a/82aa1acfa9c16c0ebe6b48712a84e121.jpg
 ### b. Redes Sociales
 
 - **Programación de Publicaciones**: Cada 2 dias, voy a publicar algo relacionado al contenido que voy a subir, fan-art o demas
-- **Redes Sociales**: [Youtube](https://www.youtube.com/channel/UC6u4HsXy_mKJ0tRIuPyfWmA), [Twitter](https://twitter.com/lattevnla), [Twitch](https://www.twitch.tv/lattevnla)
+- **Redes Sociales**: [Youtube](https://www.youtube.com/channel/UC6u4HsXy_mKJ0tRIuPyfWmA), [Twitter](https://twitter.com/lattevnla), [Twitch](https://www.twitch.tv/lattevnla), [Instagram](https://www.instagram.com/alexisacoutistic/)
 - **Interacción con Seguidores**: Para esto tengo mi server de [Discord](https://discord.gg/Jz7gbzb2)
 
 ## 4. Herramientas y Recursos
@@ -50,7 +50,6 @@ banner: "https://i.pinimg.com/564x/82/aa/1a/82aa1acfa9c16c0ebe6b48712a84e121.jpg
 
 - **Seguimiento de Redes Sociales**: Métricas clave de tus perfiles.
 - **Rendimiento de Contenido**: Analítica de las publicaciones.
-- **Jeje**: [Añade aquí lo que quieras personalizar]
 
 ## 6. Pie de Página
 
