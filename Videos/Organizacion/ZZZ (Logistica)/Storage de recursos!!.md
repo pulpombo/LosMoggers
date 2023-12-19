@@ -8,13 +8,14 @@
             - **1.1.2 Categoría 2**
                 - Subcarpetas específicas.
             - _... y así sucesivamente para cada categoría que necesites._
+    
         - **1.2 Imágenes**
             
             - **1.2.1 Fotografía Personal**
                 - Subcarpetas específicas (por ejemplo, "Viajes," "Eventos," "Familia," etc.).
             - **1.2.2 Diseños Gráficos**
                 - Subcarpetas específicas.
-            - _... y así sucesivamente para cada categoría que necesites._
+            - _... y así sucesivamente para cada categoría que necesito._
     
         - **1.3 Audios**
             
@@ -22,7 +23,7 @@
                 - Subcarpetas específicas (por ejemplo, "Entrevistas," "Episodios Especiales," etc.).
             - **1.3.2 Efectos de Sonido**
                 - Subcarpetas específicas.
-            - _... y así sucesivamente para cada categoría que necesites._
+            - _... y así sucesivamente para cada categoría que necesito._
     
         - **1.4 Proyectos de Edición**
             
@@ -41,12 +42,16 @@
 2. **Carpeta Principal: Documentos**
     
     - _Podrías tener subcarpetas aquí para documentos relacionados con tu contenido multimedia, como guiones, listas de reproducción, ideas, etc._
+    
 3. **Carpeta Principal: Planificación**
     
     - _Para documentos de planificación, estrategias, objetivos, etc._
+    
 4. **Carpeta Principal: Herramientas de Edición**
     
     - _Para almacenar herramientas, plug-ins, o cualquier software relacionado con la edición multimedia._
+    
 5. **Carpeta Principal: Backups**
     
     - _Siempre es bueno tener una carpeta separada para copias de seguridad regulares de tus archivos multimedia importantes._
+    
