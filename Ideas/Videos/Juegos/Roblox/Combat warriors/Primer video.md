@@ -1,4 +1,4 @@
-Idea 2: "Los Héroes Inesperados"  
+##### Idea 1: "Los Héroes Inesperados"  
 En este concepto, puedes presentar a un grupo de jugadores que al principio parecen ser terribles en el combate de "Combat Warriors". Sin embargo, logran ganar batallas mediante métodos no convencionales o pura suerte. Aquí tienes un posible escenario:
 
 Título: "Los Héroes Inesperados: Maestros del Caos"
@@ -21,7 +21,7 @@ A pesar de sus peculiaridades individuales, los "Maestros del Caos" aprenden a t
 Escena 5: El Gran Final  
 Llega al enfrentamiento final contra un oponente formidable. A través de una combinación de suerte, incidentes cómicos y su nueva colaboración, los "Maestros del Caos" emergen victoriosos, sorprendiendo a todos.
 
-Idea 4: "La Batalla de los Emoticones"  
+##### Idea 2: "La Batalla de los Emoticones"  
 En este concepto, los jugadores se enfrentan en combates utilizando únicamente emoticones y movimientos de baile en lugar de armas. Aquí tienes un posible escenario:
 
 Título: "La Batalla de los Emoticones: Baila hacia la Victoria"
