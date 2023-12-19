@@ -9,17 +9,21 @@
                 - Subcarpetas específicas.
             - _... y así sucesivamente para cada categoría que necesites._
         - **1.2 Imágenes**
+            
             - **1.2.1 Fotografía Personal**
                 - Subcarpetas específicas (por ejemplo, "Viajes," "Eventos," "Familia," etc.).
             - **1.2.2 Diseños Gráficos**
                 - Subcarpetas específicas.
             - _... y así sucesivamente para cada categoría que necesites._
+    
         - **1.3 Audios**
+            
             - **1.3.1 Podcasts**
                 - Subcarpetas específicas (por ejemplo, "Entrevistas," "Episodios Especiales," etc.).
             - **1.3.2 Efectos de Sonido**
                 - Subcarpetas específicas.
             - _... y así sucesivamente para cada categoría que necesites._
+    
         - **1.4 Proyectos de Edición**
             
             - **1.4.1 Proyecto 1**
