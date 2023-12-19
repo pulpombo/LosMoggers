@@ -57,6 +57,9 @@
 
 
 ## SOURCES
-[_Informacion](https://www.wikipedia.org/) 
+[Informacion](https://www.wikipedia.org/) 
 [Audio libros](https://librivox.org/) 
 [Clip art](https://openclipart.org/) 
+Sonidos gratis[https://www.freesound.org/](https://www.freesound.org/ "https://www.freesound.org/") 
+Recursos gratis [https://creativecommons.org/](https://creativecommons.org/ "https://creativecommons.org/") 
+Multimedia libre de uso(https://pixabay.com/)
