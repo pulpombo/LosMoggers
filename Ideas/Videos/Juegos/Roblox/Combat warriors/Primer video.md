@@ -20,7 +20,7 @@ Escena 4: La Colaboración Inesperada
 A pesar de sus peculiaridades individuales, los "Maestros del Caos" aprenden a trabajar juntos. Muestra momentos en los que sus habilidades únicas se complementan sin querer, lo que resulta en victorias inesperadas.
 
 Escena 5: El Gran Final  
-Llega al enfrentamiento final contra un oponente formidable. A través de una combinación de suerte, incidentes cómicos y su nueva colaboración, los "Maestros del Caos" emergen victoriosos, sorprendiendo a todos.
+Llega al enfrentamiento final contra un oponente formidable. A través de una combinación de suerte, incidentes cómicos y su nueva colaboración, los "Los Moggers" emergen victoriosos, sorprendiendo a todos.
 
 ---
 ##### Idea 2: "La Batalla de los Emoticones"  
