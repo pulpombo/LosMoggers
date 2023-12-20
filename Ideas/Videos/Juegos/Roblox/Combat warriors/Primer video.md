@@ -26,7 +26,7 @@ Llega al enfrentamiento final contra un oponente formidable. A través de una co
 ##### Idea 2: "La Batalla de los Emoticones"  
 En este concepto, los jugadores se enfrentan en combates utilizando únicamente emoticones y movimientos de baile en lugar de armas. Aquí tienes un posible escenario:
 
-Título: "La Batalla de los Emoticones: Baila hacia la Victoria"
+Título: "La Batalla de los Emotes: Baila hacia la Victoria"
 
 Sinopsis:  
 En el mundo de "Combat Warriors", surge una nueva tendencia entre los guerreros habilidosos. En lugar de depender de armas, los guerreros se enfrentan en épicas batallas utilizando solo emoticones y movimientos de baile. Los mejores guerreros de emoticones se reúnen en un torneo extravagante para mostrar sus habilidades de baile y su creatividad.
