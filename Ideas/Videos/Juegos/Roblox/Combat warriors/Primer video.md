@@ -5,13 +5,13 @@ En este concepto, puedes presentar a un grupo de jugadores que al principio pare
 Título: "Los Moggers"
 
 Sinopsis:  
-En el mundo de "Combat Warriors", donde los guerreros habilidosos reinan supremos, un grupo de jugadores aparentemente ineptos se reúne. Cada miembro del grupo posee características cómicas y únicas que los hacen destacar. A pesar de su falta de habilidades en el combate, se les conoce como los "Los Moggers".
+En el mundo de "Combat Warriors", donde los guerreros habilidosos reinan supremos, un grupo de jugadores aparentemente ineptos se reúne. Cada miembro del grupo posee características cómicas y únicas que los hacen destacar. A pesar de su falta de habilidades en el combate, se les conoce como los "Moggers".
 
 Escena 1: La Introducción  
 Presenta a cada miembro del grupo, resaltando sus características distintivas y cómicas. Por ejemplo, puede haber un jugador torpe que se tropieza con sus propios pies, un jugador con una puntería absurdamente mala o incluso un jugador que constantemente se distrae con mariposas virtuales en el juego.
 
 Escena 2: La Primera Batalla  
-Los "Maestros del Caos" se encuentran con una feroz batalla entre dos facciones habilidosas. En lugar de enfrentarse directamente, idean un plan no convencional. Accidentalmente desencadenan una serie de eventos cómicos que desequilibran a los guerreros hábiles y crean caos en el campo de batalla.
+Los "Moggers" se encuentran con una feroz batalla entre dos facciones habilidosas. En lugar de enfrentarse directamente, idean un plan no convencional. Accidentalmente desencadenan una serie de eventos cómicos que desequilibran a los guerreros hábiles y crean caos en el campo de batalla.
 
 Escena 3: Las Estrategias No Convencionales  
 Destaca diversas estrategias hilarantes empleadas por los "Maestros del Caos" durante las batallas. Por ejemplo, podrían utilizar armas no convencionales como pollos de goma o distraer a sus oponentes con movimientos de baile ridículos. Sus oponentes los subestiman, lo que lleva a su derrota.
