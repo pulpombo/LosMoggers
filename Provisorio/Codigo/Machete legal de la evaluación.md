@@ -71,3 +71,38 @@ Diseñar un algoritmo que lea el peso de un envío y que determine, si correspon
 ---
 
 6) Diseñar y codificar un algoritmo que lea dos números enteros y que determine y muestre la suma entre ellos si son de igual signo.
+## DDF 3
+1.- Hacer un diagrama de flujo (DDF) que pida dos números enteros. El programa pedirá de nuevo el segundo número mientras no sea mayor que el primero. El programa terminará escribiendo los dos números.  
+
+---
+
+2.- Hacer un DDF que muestre los primeros 30 naturales.  
+
+---
+
+3.- Escriba un DDF que pida números entero mientras el usuario escriba número mayores que el primero.  
+
+---
+
+4.- Diseñar un DDF que calcule y muestre el promedio de 10 números.  
+
+---
+
+5.- Realizar un DDF que permita el ingreso de 10 números y calcule el mayor y el menor. Los números son todos positivos.  
+
+---
+
+6.- Escriba un DDF que pida números enteros mientras sean cada vez más grandes.  
+
+---
+
+7.- Desarrollar un DDF que permita calcular el área de un triángulo conociendo la base y la altura. Tiene que validar que los valores de los datos tengan sentido.  
+
+---
+
+8.- Escriba un DDF que pida la cantidad de números positivos que se tienen que escribir y a continuación pida números hasta que se haya escrito la cantidad de números positivos indicada.
+
+## DDF 4 
+1) Desarrollar un programa que muestre el listado de números enteros que hay entre otros dos que se ingresan por teclado.  
+2) Diseñar un algoritmo que lea los salarios de los N trabajadores de una empresa y que determine cuántos de ellos ganan más de $ 2.500. El valor de N se debe solicitar al inicio del algoritmo.  
+3) Hacer un algoritmo que pida que se ingrese la edad de un grupo de estudiantes y, al finalizar, muestre la edad del más viejo y la cantidad que hay con esa edad (la del más viejo). El ingreso de datos debe finalizar cuando se ingrese un cero
