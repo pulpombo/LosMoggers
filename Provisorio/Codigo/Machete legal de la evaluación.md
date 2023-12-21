@@ -141,6 +141,33 @@ FinAlgoritmo
 
 7.-  Diseñar y codificar un algoritmo que lea tres números enteros y que calcule e imprima la diferencia entre los dos mayores y el producto de los dos más chicos.  
 
+Algoritmo DiferenciaYProducto
+    Escribir "Ingrese el primer número entero: "
+    Leer num1
+    Escribir "Ingrese el segundo número entero: "
+    Leer num2
+    Escribir "Ingrese el tercer número entero: "
+    Leer num3
+
+    // Ordenar los números de mayor a menor
+    Si num1 < num2 Hacer
+        intercambiar(num1, num2)
+    FinSi
+    Si num2 < num3 Hacer
+        intercambiar(num2, num3)
+    FinSi
+    Si num1 < num2 Hacer
+        intercambiar(num1, num2)
+    FinSi
+
+    diferenciaDosMayores <- num1 - num2
+    productoDosMenores <- num2 * num3
+
+    Escribir "La diferencia entre los dos mayores números es: ", diferenciaDosMayores
+    Escribir "El producto de los dos menores números es: ", productoDosMenores
+FinAlgoritmo
+
+
 ---
 
 
@@ -150,6 +177,26 @@ si 1 < x <= 2,        si d > 100,        sumar a    d     
 si 2 < x <= 3,        si d > 100,        sumar a    d      un 40 %  
 si x > 3, si d > 100,    sumar a    d      un 50 %  
 
+Algoritmo CalculoValorFinalD
+    Escribir "Ingrese el valor de x: "
+    Leer x
+    Escribir "Ingrese el valor de d: "
+    Leer d
+
+    Si x <= 1 y d > 100 Hacer
+        d <- d + (0.2 * d)
+    Sino Si x > 1 y x <= 2 y d > 100 Hacer
+        d <- d + (0.3 * d)
+    Sino Si x > 2 y x <= 3 y d > 100 Hacer
+        d <- d + (0.4 * d)
+    Sino Si x > 3 y d > 100 Hacer
+        d <- d + (0.5 * d)
+    FinSi
+
+    Escribir "El valor final de d es: ", d
+FinAlgoritmo
+
+
 ---
 
 9.-  Una Oficina de Correos aplica la siguiente la siguiente tarifa para sus envíos como cartas:  
@@ -158,20 +205,91 @@ $  2.00          por gramo, para los siguientes 10 gramos.
 $  1.50         por gramo, hasta 200 gramos.  
 Si la carta supera los 200 gramos, no es aceptada como tal.  
 Diseñar un algoritmo que lea el peso de un envío y que determine, si corresponde, el pago que se debe hacer.
+
+Algoritmo TarifaEnviosCartas
+    Escribir "Ingrese el peso del envío en gramos: "
+    Leer peso
+
+    Si peso <= 20 Hacer
+        tarifa <- 10
+    Sino Si peso <= 30 Hacer
+        tarifa <- 10 + 2 * (peso - 20)
+    Sino Si peso <= 200 Hacer
+        tarifa <- 10 + 2 * 10 + 1.5 * (peso - 30)
+    Sino
+        Escribir "El envío no es aceptado, ya que supera los 200 gramos."
+        Terminar
+    FinSi
+
+    Escribir "La tarifa para el envío es: ", tarifa
+FinAlgoritmo
+
+
+
 ## DDF 2 
 1) Convertir en segundos, una hora que viene expresada en horas, minutos y segundos. Ingresar los datos y visualizar por pantallas los segundos totales.  
+
+Algoritmo ConvertirAHorasMinutosSegundos
+    Escribir "Ingrese la cantidad de horas: "
+    Leer horas
+    Escribir "Ingrese la cantidad de minutos: "
+    Leer minutos
+    Escribir "Ingrese la cantidad de segundos: "
+    Leer segundos
+
+    totalSegundos <- segundos + (minutos * 60) + (horas * 3600)
+
+    Escribir "El tiempo total en segundos es: ", totalSegundos
+FinAlgoritmo
+
+
 
 ---
 
 2) Convertir a horas, minutos y segundos, un tiempo que viene expresadao en segundos. Ingresar los datos y visualizar por pantallas los valores obtenidos en formato hh:mm:ss.  
 
+Algoritmo ConvertirASegundos
+    Escribir "Ingrese la cantidad de segundos: "
+    Leer totalSegundos
+
+    horas <- totalSegundos / 3600
+    minutos <- (totalSegundos % 3600) / 60
+    segundos <- totalSegundos % 60
+
+    Escribir "El tiempo en formato hh:mm:ss es: ", horas, ":", minutos, ":", segundos
+FinAlgoritmo
+
+
+
 ---
 
 3) Dados 3 lados de un triángulo, informar si el mismo es equilátero, isósceles o escaleno.  
 
+Algoritmo TipoTriangulo
+    Escribir "Ingrese el lado 1 del triángulo: "
+    Leer lado1
+    Escribir "Ingrese el lado 2 del triángulo: "
+    Leer lado2
+    Escribir "Ingrese el lado 3 del triángulo: "
+    Leer lado3
+
+    Si lado1 = lado2 y lado2 = lado3 Hacer
+        Escribir "El triángulo es equilátero."
+    Sino Si lado1 = lado2 o lado2 = lado3 o lado1 = lado3 Hacer
+        Escribir "El triángulo es isósceles."
+    Sino
+        Escribir "El triángulo es escaleno."
+    FinSi
+FinAlgoritmo
+
+
 ---
 
 4) Diseñar un algoritmo que calcule e imprima la cantidad de dinero que corresponde a cada uno de los tres socios de una empresa conociendo la cantidad de dinero a distribuir y sabiendo que el segundo y el tercero recibirán la mitad de lo que le corresponde al primero.  
+
+
+
+
 
 ---
 
