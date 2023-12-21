@@ -45,8 +45,8 @@ si x > 3, si d > 100,    sumar a    d      un 50 %
 
 9.-  Una Oficina de Correos aplica la siguiente la siguiente tarifa para sus envíos como cartas:  
 $ 10.00           por los primeros 20 gramos.  
-$ 2.00          por gramo, para los siguientes 10 gramos. 
-$ 1.50         por gramo, hasta 200 gramos.  
+$  2.00          por gramo, para los siguientes 10 gramos. 
+$  1.50         por gramo, hasta 200 gramos.  
 Si la carta supera los 200 gramos, no es aceptada como tal.  
 Diseñar un algoritmo que lea el peso de un envío y que determine, si corresponde, el pago que se debe hacer.
 ## DDF 2 
@@ -54,25 +54,20 @@ Diseñar un algoritmo que lea el peso de un envío y que determine, si correspon
 
 ---
 
-
 2) Convertir a horas, minutos y segundos, un tiempo que viene expresadao en segundos. Ingresar los datos y visualizar por pantallas los valores obtenidos en formato hh:mm:ss.  
 
 ---
-
 
 3) Dados 3 lados de un triángulo, informar si el mismo es equilátero, isósceles o escaleno.  
 
 ---
 
-
 4) Diseñar un algoritmo que calcule e imprima la cantidad de dinero que corresponde a cada uno de los tres socios de una empresa conociendo la cantidad de dinero a distribuir y sabiendo que el segundo y el tercero recibirán la mitad de lo que le corresponde al primero.  
 
 ---
 
-
 5) Diseñar un algoritmo que calcule y muestre el salario mensual de un empleado a partir de sus horas trabajadas y del valor hora establecido. La cantidad de horas trabajadas que superen las 160 se pagan a un valor de un 50% adicional. En cambio, las que superen las 200 se abonan al doble de su valor hora original. Al salario mensual calculado se le debe descontar un 5% en concepto de aportes y contribuciones siempre que su sueldo bruto no supere los $5000.  
 
 ---
-
 
 6) Diseñar y codificar un algoritmo que lea dos números enteros y que determine y muestre la suma entre ellos si son de igual signo.
