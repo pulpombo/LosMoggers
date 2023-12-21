@@ -288,6 +288,18 @@ FinAlgoritmo
 4) Diseñar un algoritmo que calcule e imprima la cantidad de dinero que corresponde a cada uno de los tres socios de una empresa conociendo la cantidad de dinero a distribuir y sabiendo que el segundo y el tercero recibirán la mitad de lo que le corresponde al primero.  
 
 
+Algoritmo DistribucionDineroSocios
+    Escribir "Ingrese la cantidad de dinero a distribuir: "
+    Leer dineroTotal
+
+    dineroPrimerSocio <- dineroTotal / 2
+    dineroSegundoSocio <- dineroPrimerSocio / 2
+    dineroTercerSocio <- dineroSegundoSocio
+
+    Escribir "Dinero para el primer socio: ", dineroPrimerSocio
+    Escribir "Dinero para el segundo socio: ", dineroSegundoSocio
+    Escribir "Dinero para el tercer socio: ", dineroTercerSocio
+FinAlgoritmo
 
 
 
@@ -295,15 +307,54 @@ FinAlgoritmo
 
 5) Diseñar un algoritmo que calcule y muestre el salario mensual de un empleado a partir de sus horas trabajadas y del valor hora establecido. La cantidad de horas trabajadas que superen las 160 se pagan a un valor de un 50% adicional. En cambio, las que superen las 200 se abonan al doble de su valor hora original. Al salario mensual calculado se le debe descontar un 5% en concepto de aportes y contribuciones siempre que su sueldo bruto no supere los $5000.  
 
+Algoritmo SalarioMensual
+    Escribir "Ingrese la cantidad de horas trabajadas: "
+    Leer horasTrabajadas
+    Escribir "Ingrese el valor por hora establecido: "
+    Leer valorHora
+
+    Si horasTrabajadas > 200 Hacer
+        salario <- 200 * valorHora + 2 * (horasTrabajadas - 200) * valorHora
+    Sino Si horasTrabajadas > 160 Hacer
+        salario <- horasTrabajadas * valorHora + 0.5 * (horasTrabajadas - 160) * valorHora
+    Sino
+        salario <- horasTrabajadas * valorHora
+    FinSi
+
+    // Aplicar descuentos si el salario bruto no supera $5000
+    Si salario <= 5000 Hacer
+        salario <- salario - 0.05 * salario
+    FinSi
+
+    Escribir "El salario mensual calculado es: ", salario
+FinAlgoritmo
+
+
 ---
 
 6) Diseñar y codificar un algoritmo que lea dos números enteros y que determine y muestre la suma entre ellos si son de igual signo.
+
+
+
+
 ## DDF 3
 1.- Hacer un diagrama de flujo (DDF) que pida dos números enteros. El programa pedirá de nuevo el segundo número mientras no sea mayor que el primero. El programa terminará escribiendo los dos números.  
 
 ---
 
 2.- Hacer un DDF que muestre los primeros 30 naturales.  
+
+
+Algoritmo BucleSegundoMayor
+    Escribir "Ingrese el primer número: "
+    Leer num1
+    Escribir "Ingrese el segundo número (debe ser mayor al primero): "
+    Leer num2
+
+    Mientras num2 <= num1 Hacer
+        Escribir "El segundo número debe ser mayor al primero. Inténtelo de nuevo
+
+
 
 ---
 
