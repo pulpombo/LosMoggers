@@ -5,9 +5,7 @@ banner: "https://i.pinimg.com/564x/82/aa/1a/82aa1acfa9c16c0ebe6b48712a84e121.jpg
 ## 1. Logo y nombre
 - **Nombre/Logo**: 
 ## Capuccino (lattevnla)
-
-
-
+![[1-removebg-preview (1).png]]
 ## 2. Menú de Navegación
 
 - **Contenido**: [[Home Page de Videos]]
