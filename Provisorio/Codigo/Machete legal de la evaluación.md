@@ -385,3 +385,264 @@ Calcula el salario mensual de un empleado considerando horas trabajadas y tarifa
    Imprimir "Salario Mensual: $", salario
    ```
 
+### Temas de Programación: DDF 3
+
+#### 1. Control de Flujo y Bucles:
+
+##### Actividad 1 - Bucle hasta que se Cumpla una Condición:
+**Descripción:**
+Pide dos números enteros. El programa solicitará el segundo número nuevamente mientras no sea mayor que el primero. El programa terminará escribiendo los dos números.
+
+**Pasos:**
+1. **Bucle para Ingresar Números:**
+   - Utiliza un bucle para asegurarse de que el segundo número sea mayor que el primero.
+   ```pseudocode
+   Leer num1
+   Leer num2
+
+   mientras num2 <= num1 hacer
+       Imprimir "El segundo número debe ser mayor que el primero. Inténtalo de nuevo."
+       Leer num2
+   fin_mientras
+
+   Imprimir "Los números ingresados son: ", num1, " y ", num2
+   ```
+
+##### Actividad 2 - Mostrar los Primeros 30 Naturales:
+**Descripción:**
+Muestra los primeros 30 números naturales.
+
+**Pasos:**
+1. **Bucle para Mostrar Números:**
+   - Utiliza un bucle para mostrar los primeros 30 números naturales.
+   ```pseudocode
+   desde i = 1 hasta 30 hacer
+       Imprimir i
+   fin_desde
+   ```
+
+##### Actividad 3 - Bucle mientras se Ingresan Números Mayores:
+**Descripción:**
+Pide números enteros mientras el usuario escriba números mayores que el primero.
+
+**Pasos:**
+1. **Bucle para Ingresar Números:**
+   - Utiliza un bucle para solicitar números mientras sean mayores que el primero.
+   ```pseudocode
+   Leer num1
+   Leer num
+
+   mientras num > num1 hacer
+       Imprimir "Ingresa otro número (o un número menor que el primero para salir): "
+       Leer num
+   fin_mientras
+   ```
+
+##### Actividad 4 - Cálculo y Muestra del Promedio:
+**Descripción:**
+Calcula y muestra el promedio de 10 números.
+
+**Pasos:**
+1. **Bucle para Ingresar Números:**
+   - Utiliza un bucle para ingresar 10 números y calcular la suma.
+   ```pseudocode
+   suma = 0
+   desde i = 1 hasta 10 hacer
+       Imprimir "Ingresa el número ", i, ": "
+       Leer num
+       suma = suma + num
+   fin_desde
+
+   promedio = suma / 10
+   Imprimir "El promedio es: ", promedio
+   ```
+
+##### Actividad 5 - Encontrar el Mayor y Menor:
+**Descripción:**
+Lee 10 números positivos y calcula el mayor y el menor.
+
+**Pasos:**
+1. **Bucle para Ingresar Números:**
+   - Utiliza un bucle para ingresar 10 números y encontrar el mayor y el menor.
+   ```pseudocode
+   mayor = 0
+   menor = infinito
+
+   desde i = 1 hasta 10 hacer
+       Imprimir "Ingresa el número ", i, ": "
+       Leer num
+
+       si num > mayor entonces
+           mayor = num
+       fin_si
+
+       si num < menor entonces
+           menor = num
+       fin_si
+   fin_desde
+
+   Imprimir "El número mayor es: ", mayor
+   Imprimir "El número menor es: ", menor
+   ```
+
+##### Actividad 6 - Bucle hasta que se Ingresen Números cada vez Mayores:
+**Descripción:**
+Pide números enteros mientras sean cada vez mayores.
+
+**Pasos:**
+1. **Bucle para Ingresar Números:**
+   - Utiliza un bucle para solicitar números mientras cada número ingresado sea mayor que el anterior.
+   ```pseudocode
+   Imprimir "Ingresa el primer número: "
+   Leer num_anterior
+
+   mientras verdadero hacer
+       Imprimir "Ingresa otro número (o un número menor para salir): "
+       Leer num
+
+       si num <= num_anterior entonces
+           Imprimir "Fin del programa."
+           romper  // Sale del bucle
+       fin_si
+
+       num_anterior = num
+   fin_mientras
+   ```
+
+##### Actividad 7 - Cálculo de Área de Triángulo con Validación:
+**Descripción:**
+Calcula el área de un triángulo conociendo la base y la altura, validando que los valores tengan sentido.
+
+**Pasos:**
+1. **Entrada de Datos con Validación:**
+   - Utiliza un bucle para solicitar la base y la altura asegurándose de que ambos sean mayores que cero.
+   ```pseudocode
+   Leer base
+   Leer altura
+
+   mientras base <= 0 o altura <= 0 hacer
+       Imprimir "La base y la altura deben ser mayores que cero. Inténtalo de nuevo."
+       Leer base
+       Leer altura
+   fin_mientras
+   ```
+
+2. **Cálculo de Área:**
+   - Calcula el área del triángulo.
+   ```pseudocode
+   area = (base * altura) / 2
+   ```
+
+3. **Impresión de Resultados:**
+   - Muestra el área del triángulo.
+   ```pseudocode
+   Imprimir "Área del triángulo: ", area
+   ```
+
+##### Actividad 8 - Ingreso de Números Positivos según Cantidad Indicada:
+**Descripción:**
+Pide la cantidad de números positivos que se deben escribir y solicita esos números al usuario.
+
+**Pasos:**
+1. **Entrada de Datos:**
+   - Solicita al usuario la cantidad de números positivos que se deben ingresar.
+   ```pseudocode
+   Leer cantidad_a_ingresar
+   ```
+
+2. **Bucle para Ingresar Números:**
+   - Utiliza un bucle para solicitar la cantidad específica de números positivos.
+   ```pseudocode
+   desde i = 1 hasta cantidad_a_ingresar hacer
+       Imprimir "Ingresa el número positivo ", i, ": "
+       Leer num
+       mientras num <= 0 hacer
+           Imprimir "Debes ingresar un número positivo. Inténtalo de nuevo."
+           Leer num
+       fin_mientras
+   fin_desde
+   ```
+
+### Temas de Programación: DDF 4
+
+#### 1. Estructuras de Control y Manejo de Listas:
+
+##### Actividad 1 - Mostrar Números entre Dos Ingresados:
+**Descripción:**
+Muestra el listado de números enteros que hay entre dos números ingresados por teclado.
+
+**Pasos:**
+1. **Entrada de Datos:**
+   - Solicita al usuario ingresar los dos números entre los cuales se mostrarán los enteros.
+   ```pseudocode
+   Leer num1
+   Leer num2
+   ```
+
+2. **Mostrar Números entre Dos Ingresados:**
+   - Utiliza un bucle para mostrar los números enteros entre los dos ingresados.
+   ```pseudocode
+   desde i = num1 hasta num2 hacer
+       Imprimir i
+   fin_desde
+   ```
+
+##### Actividad 2 - Cálculo de Trabajadores que Ganan más de $2,500:
+**Descripción:**
+Lee los salarios de los N trabajadores de una empresa y determina cuántos ganan más de $2,500.
+
+**Pasos:**
+1. **Entrada de Datos:**
+   - Solicita al usuario ingresar la cantidad de trabajadores (N).
+   ```pseudocode
+   Leer N
+   ```
+
+2. **Cálculo de Trabajadores que Ganan más de $2,500:**
+   - Utiliza un bucle para ingresar los salarios y contar cuántos son mayores a $2,500.
+   ```pseudocode
+   contador = 0
+
+   desde i = 1 hasta N hacer
+       Imprimir "Ingresa el salario del trabajador ", i, ": "
+       Leer salario
+
+       si salario > 2500 entonces
+           contador = contador + 1
+       fin_si
+   fin_desde
+
+   Imprimir "Número de trabajadores que ganan más de $2,500: ", contador
+   ```
+
+##### Actividad 3 - Edades de Estudiantes y Encontrar el Más Viejo:
+**Descripción:**
+Pide que se ingrese la edad de un grupo de estudiantes y, al finalizar, muestra la edad del más viejo y cuántos tienen esa edad.
+
+**Pasos:**
+1. **Bucle para Ingresar Edades:**
+   - Utiliza un bucle para ingresar las edades y encontrar la más vieja.
+   ```pseudocode
+   Imprimir "Ingresa la edad del estudiante (o 0 para finalizar): "
+   Leer edad
+
+   mayor_edad = 0
+   cantidad_con_mayor_edad = 0
+
+   mientras edad != 0 hacer
+       si edad > mayor_edad entonces
+           mayor_edad = edad
+           cantidad_con_mayor_edad = 1
+       sino si edad == mayor_edad entonces
+           cantidad_con_mayor_edad = cantidad_con_mayor_edad + 1
+       fin_si
+
+       Imprimir "Ingresa la edad del siguiente estudiante (o 0 para finalizar): "
+       Leer edad
+   fin_mientras
+
+   Imprimir "La edad del estudiante más viejo es: ", mayor_edad
+   Imprimir "Cantidad de estudiantes con esa edad: ", cantidad_con_mayor_edad
+   ```
+
+Esta concluye la explicación detallada de las actividades correspondientes al DDF 4. En el siguiente mensaje, abordaré las actividades del DDF 5.
