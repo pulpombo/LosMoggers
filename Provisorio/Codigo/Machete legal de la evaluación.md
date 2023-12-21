@@ -243,3 +243,145 @@ Lee dos números enteros y muestra la suma solo si ambos tienen el mismo signo.
        Imprimir "Los números no tienen el mismo signo."
    fin_si
    ```
+
+### Temas de Programación: DDF 2
+
+#### 1. Conversión y Manipulación de Tiempo:
+
+##### Actividad 1 - Conversión de Tiempo:
+**Descripción:**
+Convierte una hora de formato horas:minutos:segundos a segundos.
+
+**Pasos:**
+1. **Entrada de Datos:**
+   - Solicita al usuario ingresar las horas, minutos y segundos.
+   ```pseudocode
+   Leer horas
+   Leer minutos
+   Leer segundos
+   ```
+
+2. **Cálculo de Segundos:**
+   - Convierte la hora a segundos.
+   ```pseudocode
+   total_segundos = (horas * 3600) + (minutos * 60) + segundos
+   ```
+
+3. **Impresión de Resultados:**
+   - Muestra los segundos totales.
+   ```pseudocode
+   Imprimir "Segundos totales: ", total_segundos
+   ```
+
+##### Actividad 2 - Conversión a Tiempo:
+**Descripción:**
+Convierte un tiempo dado en segundos a formato horas:minutos:segundos.
+
+**Pasos:**
+1. **Entrada de Datos:**
+   - Solicita al usuario ingresar los segundos.
+   ```pseudocode
+   Leer total_segundos
+   ```
+
+2. **Cálculo de Tiempo:**
+   - Convierte los segundos a formato horas:minutos:segundos.
+   ```pseudocode
+   horas = total_segundos / 3600
+   minutos = (total_segundos % 3600) / 60
+   segundos = total_segundos % 60
+   ```
+
+3. **Impresión de Resultados:**
+   - Muestra el tiempo en formato hh:mm:ss.
+   ```pseudocode
+   Imprimir "Tiempo: ", horas, " horas, ", minutos, " minutos, ", segundos, " segundos"
+   ```
+
+##### Actividad 3 - Clasificación de Triángulos:
+**Descripción:**
+Dados tres lados de un triángulo, determina si es equilátero, isósceles o escaleno.
+
+**Pasos:**
+1. **Entrada de Datos:**
+   - Solicita al usuario ingresar los tres lados del triángulo.
+   ```pseudocode
+   Leer lado1
+   Leer lado2
+   Leer lado3
+   ```
+
+2. **Verificación de Clasificación:**
+   - Verifica si el triángulo es equilátero, isósceles o escaleno.
+   ```pseudocode
+   si lado1 = lado2 y lado2 = lado3 entonces
+       Imprimir "Triángulo Equilátero"
+   sino si lado1 = lado2 o lado1 = lado3 o lado2 = lado3 entonces
+       Imprimir "Triángulo Isósceles"
+   sino
+       Imprimir "Triángulo Escaleno"
+   fin_si
+   ```
+
+#### 2. Operaciones Matemáticas y Distribución de Dinero:
+
+##### Actividad 4 - Distribución de Dinero entre Socios:
+**Descripción:**
+Calcula la cantidad de dinero que corresponde a cada uno de los tres socios de una empresa.
+
+**Pasos:**
+1. **Entrada de Datos:**
+   - Solicita al usuario ingresar la cantidad de dinero a distribuir.
+   ```pseudocode
+   Leer dinero_a_distribuir
+   ```
+
+2. **Cálculo de Distribución:**
+   - Calcula la cantidad de dinero que recibe cada socio.
+   ```pseudocode
+   primer_socio = dinero_a_distribuir / 2
+   segundo_socio = dinero_a_distribuir / 4
+   tercer_socio = dinero_a_distribuir / 4
+   ```
+
+3. **Impresión de Resultados:**
+   - Muestra la cantidad de dinero que recibe cada socio.
+   ```pseudocode
+   Imprimir "Primer Socio: $", primer_socio
+   Imprimir "Segundo Socio: $", segundo_socio
+   Imprimir "Tercer Socio: $", tercer_socio
+   ```
+
+##### Actividad 5 - Cálculo de Salario Mensual:
+**Descripción:**
+Calcula el salario mensual de un empleado considerando horas trabajadas y tarifas específicas.
+
+**Pasos:**
+1. **Entrada de Datos:**
+   - Solicita al usuario ingresar las horas trabajadas y el valor hora.
+   ```pseudocode
+   Leer horas_trabajadas
+   Leer valor_hora
+   ```
+
+2. **Cálculo de Salario:**
+   - Calcula el salario considerando horas extras y descuentos.
+   ```pseudocode
+   si horas_trabajadas > 160 entonces
+       salario = (160 * valor_hora) + ((horas_trabajadas - 160) * valor_hora * 1.5)
+   sino
+       salario = horas_trabajadas * valor_hora
+   fin_si
+
+   si salario > 5000 entonces
+       descuento = 0.05 * salario
+       salario = salario - descuento
+   fin_si
+   ```
+
+3. **Impresión de Resultados:**
+   - Muestra el salario mensual del empleado.
+   ```pseudocode
+   Imprimir "Salario Mensual: $", salario
+   ```
+
