@@ -600,23 +600,23 @@ FinAlgoritmo
 
 3.- Escriba un programa que pida números pares mientras el usuario indique que quiere seguir introduciendo números. Para indicar que quiere seguir escribiendo números, el usuario deberá contestar S o s a la pregunta
 
-Algoritmo PromedioCalificacionesMatematicas
-    sumaCalificaciones <- 0
-    cantidadAlumnos <- 0
 
-    Escribir "Ingrese la cantidad de alumnos en el salón: "
-    Leer cantidadAlumnos
+Algoritmo IngresoNumerosPares
+    respuesta <- "S"
 
-    Para cada alumno desde 1 hasta cantidadAlumnos Hacer
-        Escribir "Ingrese la calificación en Matemáticas del alumno ", alumno
-        Leer calificacion
+    Mientras respuesta = "S" o respuesta = "s" Hacer
+        Escribir "Ingrese un número par: "
+        Leer numero
 
-        sumaCalificaciones <- sumaCalificaciones + calificacion
-    FinPara
+        Si numero % 2 = 0 Hacer
+            // Realizar operaciones con 'numero' aquí si es necesario
 
-    promedioTotal <- sumaCalificaciones / cantidadAlumnos
-
-    Escribir "El promedio general en Matemáticas es: ", promedioTotal
+            Escribir "¿Desea ingresar otro número par? (S/s para sí, cualquier otra tecla para no): "
+            Leer respuesta
+        Sino
+            Escribir "El número ingresado no es par. Inténtelo de nuevo."
+        FinSi
+    FinMientras
 FinAlgoritmo
 
 
