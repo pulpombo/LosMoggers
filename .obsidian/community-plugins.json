@@ -20,5 +20,6 @@
   "cm-editor-syntax-highlight-obsidian",
   "obsidian-excalidraw-plugin",
   "obsidian-excel-to-markdown-table",
-  "obsidian-importer"
+  "obsidian-importer",
+  "obsidian-pandoc"
 ]
