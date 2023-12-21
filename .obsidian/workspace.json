@@ -4,35 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "85a70c2a4bab87a1",
+        "id": "203f82297997dbe1",
         "type": "tabs",
         "children": [
           {
-            "id": "1fff7c9216277abc",
+            "id": "60596ca0eb494ef6",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Videos/Organizacion/Logistica/Guias.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "66cb95a5acffb049",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Provisorio/Codigo/Machete legal de la evaluación.md",
-                "mode": "source",
-                "source": false
-              }
+              },
+              "pinned": true
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -99,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Provisorio/Codigo/Machete legal de la evaluación.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Provisorio/Codigo/Machete legal de la evaluación.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Provisorio/Codigo/Machete legal de la evaluación.md"
+                "file": "README.md"
               }
             }
           }
@@ -195,7 +184,7 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "66cb95a5acffb049",
+  "active": "60596ca0eb494ef6",
   "lastOpenFiles": [
     "Provisorio/Codigo/Actividades grrrrrr.md",
     "Provisorio/Codigo/Machete legal de la evaluación.md",
