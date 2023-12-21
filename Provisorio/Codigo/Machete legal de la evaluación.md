@@ -645,4 +645,98 @@ Pide que se ingrese la edad de un grupo de estudiantes y, al finalizar, muestra 
    Imprimir "Cantidad de estudiantes con esa edad: ", cantidad_con_mayor_edad
    ```
 
-Esta concluye la explicación detallada de las actividades correspondientes al DDF 4. En el siguiente mensaje, abordaré las actividades del DDF 5.
+### Temas de Programación: DDF 5
+
+#### 1. Estructuras de Control y Operaciones Matemáticas:
+
+##### Actividad 1 - Temperatura Promedio al Medio Día:
+**Descripción:**
+Recibe como entrada la temperatura al mediodía de cada uno de los días de una semana determinada. El programa deberá encontrar la temperatura promedio al mediodía, pero solo para aquellos días en que la misma fuera superior a los 10ºC.
+
+**Pasos:**
+1. **Bucle para Ingresar Temperaturas:**
+   - Utiliza un bucle para ingresar las temperaturas y calcular el promedio para los días cuya temperatura es superior a 10ºC.
+   ```pseudocode
+   total_temperaturas = 0
+   cantidad_dias_superior_10C = 0
+
+   desde i = 1 hasta 7 hacer
+       Imprimir "Ingresa la temperatura al mediodía del día ", i, ": "
+       Leer temperatura
+
+       si temperatura > 10 entonces
+           total_temperaturas = total_temperaturas + temperatura
+           cantidad_dias_superior_10C = cantidad_dias_superior_10C + 1
+       fin_si
+   fin_desde
+
+   si cantidad_dias_superior_10C > 0 entonces
+       temperatura_promedio = total_temperaturas / cantidad_dias_superior_10C
+       Imprimir "Temperatura promedio al mediodía para días > 10ºC: ", temperatura_promedio
+   sino
+       Imprimir "No hay días con temperatura superior a 10ºC."
+   fin_si
+   ```
+
+##### Actividad 2 - Promedio de Calificaciones en Matemáticas:
+**Descripción:**
+Lee las calificaciones obtenidas en Matemáticas por los alumnos de un salón; este algoritmo deberá calcular e imprimir el promedio obtenido por el salón y el promedio de los que aprobaron la materia.
+
+**Pasos:**
+1. **Bucle para Ingresar Calificaciones:**
+   - Utiliza un bucle para ingresar las calificaciones y calcular el promedio para todos y solo para los que aprobaron.
+   ```pseudocode
+   total_calificaciones = 0
+   total_aprobados = 0
+   cantidad_alumnos = N  // N se define previamente
+
+   desde i = 1 hasta cantidad_alumnos hacer
+       Imprimir "Ingresa la calificación del alumno ", i, ": "
+       Leer calificacion
+
+       total_calificaciones = total_calificaciones + calificacion
+
+       si calificacion >= 60 entonces
+           total_aprobados = total_aprobados + 1
+       fin_si
+   fin_desde
+
+   promedio_general = total_calificaciones / cantidad_alumnos
+
+   si total_aprobados > 0 entonces
+       promedio_aprobados = total_calificaciones / total_aprobados
+       Imprimir "Promedio general del salón: ", promedio_general
+       Imprimir "Promedio de los que aprobaron: ", promedio_aprobados
+   sino
+       Imprimir "No hay alumnos aprobados."
+   fin_si
+   ```
+
+##### Actividad 3 - Bucle de Ingreso de Números Pares:
+**Descripción:**
+Pide números pares mientras el usuario indique que quiere seguir introduciendo números. Para indicar que quiere seguir escribiendo números, el usuario deberá contestar "S" o "s" a la pregunta.
+
+**Pasos:**
+1. **Bucle para Ingresar Números Pares:**
+   - Utiliza un bucle para ingresar números pares mientras el usuario lo indique.
+   ```pseudocode
+   mientras verdadero hacer
+       Imprimir "Ingresa un número par: "
+       Leer num
+
+       mientras num % 2 != 0 hacer
+           Imprimir "Debes ingresar un número par. Inténtalo de nuevo."
+           Leer num
+       fin_mientras
+
+       Imprimir "¿Quieres ingresar otro número par? (S/s para sí, cualquier otra tecla para no): "
+       Leer respuesta
+
+       si respuesta != "S" y respuesta != "s" entonces
+           Imprimir "Fin del programa."
+           romper  // Sale del bucle
+       fin_si
+   fin_mientras
+   ```
+
+ 
