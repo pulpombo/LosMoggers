@@ -9,4 +9,4 @@ El tamaño del banner tiene que ser 2048 × 1152
 [Banners de canva](https://www.canva.com/templates/?query=banner)
 [Guias de tamaño](https://www.picmaker.com/tutorials/how-to-design-a-youtube-banner-that-fits-all-devices/)
 
-#### 
+#### Machete legal de la eval
