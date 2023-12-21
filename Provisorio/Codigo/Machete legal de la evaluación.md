@@ -521,6 +521,31 @@ FinAlgoritmo
 ---
 
 3) Hacer un algoritmo que pida que se ingrese la edad de un grupo de estudiantes y, al finalizar, muestre la edad del más viejo y la cantidad que hay con esa edad (la del más viejo). El ingreso de datos debe finalizar cuando se ingrese un cero
+
+Algoritmo EstudianteMasViejo
+    edadMasVieja <- 0
+    cantidadEstudiantesMasViejos <- 0
+
+    Escribir "Ingrese la edad del estudiante (ingrese 0 para terminar): "
+    Leer edad
+
+    Mientras edad <> 0 Hacer
+        Si edad > edadMasVieja Hacer
+            edadMasVieja <- edad
+            cantidadEstudiantesMasViejos <- 1
+        Sino Si edad = edadMasVieja Hacer
+            cantidadEstudiantesMasViejos <- cantidadEstudiantesMasViejos + 1
+        FinSi
+
+        Escribir "Ingrese la edad del siguiente estudiante (ingrese 0 para terminar): "
+        Leer edad
+    FinMientras
+
+    Escribir "La edad del estudiante más viejo es: ", edadMasVieja
+    Escribir "La cantidad de estudiantes con esa edad es: ", cantidadEstudiantesMasViejos
+FinAlgoritmo
+
+
 ## DDF 5 
 1.- Diseñar un algoritmo que reciba como entrada la temperatura al medio día de cada uno de los días de una semana determinada. El programa deberá encontrar la temperatura promedio al medio día, pero sólo para aquellos días en que la misma fuera superior a los 10ºC.  
 
@@ -532,7 +557,7 @@ FinAlgoritmo
 
 3.- Escriba un programa que pida números pares mientras el usuario indique que quiere seguir introduciendo números. Para indicar que quiere seguir escribiendo números, el usuario deberá contestar S o s a la pregunta
 
-# MARDITO MACHETE RRR
+# MARDITO MACHETE LEGAL RRR
 
 ### Temas de Programación: DDF 1
 
