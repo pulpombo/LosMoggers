@@ -1,4 +1,11 @@
 Este es un home page del machetito legal que voy a usar en la evaluación jeje estoy re organizado
+
+1. -Primero analizar todas las actividades de mas fácil a mas difícil 
+2. -Hacer de las mas fácil a la mas difícil en una primera pasada donde haga lo principal y mas importante del programa (Ej: El sistema que usa) 
+3. -Volver a dar otra pasada de la mas fácil a la mas difícil pero esta vez donde agregue cosas menos necesarias (Ej: "Escriba su numero el cual va a hacer esto y esto") 
+4. -Repaso 
+5. -Ultimos toques que me haya saltado
+
 ## DDF 1 
 1.-  La calificación final de un estudiante de Informática y Programación se calcula con base a las calificaciones de cuatro aspectos de su rendimiento académico: participación, primer examen parcial, segundo examen parcial y examen final.  
 Sabiendo que las calificaciones anteriores entran a la calificación final con ponderaciones del 10%, 25%, 25% y 40%, diseñar y codificar un algoritmo que calcule e imprima la calificación final obtenida por un estudiante.  
