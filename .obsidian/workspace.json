@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "15343d52eb3eea65",
+        "id": "85a70c2a4bab87a1",
         "type": "tabs",
         "children": [
           {
-            "id": "ff3d0d87fcc2490c",
+            "id": "1fff7c9216277abc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ideas/Videos/Juegos/Roblox/Combat warriors/Primer video.md",
+                "file": "Home.md",
                 "mode": "source",
                 "source": false
               }
@@ -78,7 +78,7 @@
       {
         "id": "06c74982f0b50892",
         "type": "tabs",
-        "dimension": 37.00873362445415,
+        "dimension": 37.008733624454145,
         "children": [
           {
             "id": "0e966e6a5851fc63",
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ideas/Videos/Juegos/Roblox/Combat warriors/Primer video.md",
+                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ideas/Videos/Juegos/Roblox/Combat warriors/Primer video.md",
+                "file": "Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ideas/Videos/Juegos/Roblox/Combat warriors/Primer video.md"
+                "file": "Home.md"
               }
             }
           }
@@ -151,7 +151,7 @@
       {
         "id": "1e4288f3ed67c550",
         "type": "tabs",
-        "dimension": 36.8995633187773,
+        "dimension": 36.89956331877729,
         "children": [
           {
             "id": "37481c89d5bd8242",
@@ -182,8 +182,9 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "ff3d0d87fcc2490c",
+  "active": "1fff7c9216277abc",
   "lastOpenFiles": [
+    "Home.md",
     "Ideas/Videos/Juegos/Roblox/Untitled Boxing Game/Primer video.md",
     "Videos/Organizacion/Juegos/Roblox/Cosas secretas.md",
     "Videos/Organizacion/Logistica/Guias.md",
@@ -207,7 +208,6 @@
     "Videos/Organizacion/Logistica/Storage de recursos!!.md",
     "Videos/Organizacion/Logistica/Planificación de contenido futuro.md",
     "PyroCynical.md",
-    "Home.md",
     "Videos/Organizacion/Logistica",
     "944384937690292295.md",
     "Life is Strange png cd.jpg",
