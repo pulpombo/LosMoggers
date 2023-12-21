@@ -122,3 +122,5 @@ Diseñar un algoritmo que lea el peso de un envío y que determine, si correspon
 ---
 
 3.- Escriba un programa que pida números pares mientras el usuario indique que quiere seguir introduciendo números. Para indicar que quiere seguir escribiendo números, el usuario deberá contestar S o s a la pregunta
+
+MARDITO MACHETE RRR
