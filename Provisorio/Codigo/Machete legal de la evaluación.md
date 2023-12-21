@@ -104,5 +104,21 @@ Diseñar un algoritmo que lea el peso de un envío y que determine, si correspon
 
 ## DDF 4 
 1) Desarrollar un programa que muestre el listado de números enteros que hay entre otros dos que se ingresan por teclado.  
+
+---
+
 2) Diseñar un algoritmo que lea los salarios de los N trabajadores de una empresa y que determine cuántos de ellos ganan más de $ 2.500. El valor de N se debe solicitar al inicio del algoritmo.  
+
+---
+
 3) Hacer un algoritmo que pida que se ingrese la edad de un grupo de estudiantes y, al finalizar, muestre la edad del más viejo y la cantidad que hay con esa edad (la del más viejo). El ingreso de datos debe finalizar cuando se ingrese un cero
+## DDF 5 
+1.- Diseñar un algoritmo que reciba como entrada la temperatura al medio día de cada uno de los días de una semana determinada. El programa deberá encontrar la temperatura promedio al medio día, pero sólo para aquellos días en que la misma fuera superior a los 10ºC.  
+
+---
+  
+2.- Desarrollar un algoritmo que lea las calificaciones obtenidas en Matemática por los alumnos de un salón; este algoritmo deberá calcular e imprimir el promedio obtenido por el salón y el promedio de los que aprobaron la materia. El número de alumnos es conocido.  
+
+---
+
+3.- Escriba un programa que pida números pares mientras el usuario indique que quiere seguir introduciendo números. Para indicar que quiere seguir escribiendo números, el usuario deberá contestar S o s a la pregunta
