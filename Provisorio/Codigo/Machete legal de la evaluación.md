@@ -358,7 +358,25 @@ Algoritmo BucleSegundoMayor
 
 ---
 
-3.- Escriba un DDF que pida números entero mientras el usuario escriba número mayores que el primero.  }
+3.- Escriba un DDF que pida números entero mientras el usuario escriba número mayores que el primero.  
+
+Algoritmo BucleNumerosMayores
+    Escribir "Ingrese el primer número: "
+    Leer num1
+    Escribir "Ingrese un número (ingrese un número menor o igual al primero para detenerse): "
+    Leer num
+
+    Mientras num <= num1 Hacer
+        Escribir "Ingrese un número mayor al primero para continuar o igualarlo para detenerse: "
+        Leer num
+    FinMientras
+FinAlgoritmo
+
+
+
+---
+
+4.- Diseñar un DDF que calcule y muestre el promedio de 10 números.  
 
 Algoritmo PromedioDiezNumeros
     suma <- 0
@@ -375,9 +393,10 @@ Algoritmo PromedioDiezNumeros
 FinAlgoritmo
 
 
+
 ---
 
-4.- Diseñar un DDF que calcule y muestre el promedio de 10 números.  
+5.- Realizar un DDF que permita el ingreso de 10 números y calcule el mayor y el menor. Los números son todos positivos.  
 
 Algoritmo MayorMenorDiezNumeros
     mayor <- 0
@@ -404,23 +423,6 @@ Algoritmo MayorMenorDiezNumeros
     Escribir "El número menor es: ", menor
 FinAlgoritmo
 
-
----
-
-5.- Realizar un DDF que permita el ingreso de 10 números y calcule el mayor y el menor. Los números son todos positivos.  
-
-Algoritmo BucleNumerosCadaVezMasGrandes
-    Escribir "Ingrese el primer número: "
-    Leer num1
-    Escribir "Ingrese un número mayor al primero: "
-    Leer num
-
-    Mientras num > num1 Hacer
-        num1 <- num
-        Escribir "Ingrese un número mayor al último ingresado: "
-        Leer num
-    FinMientras
-FinAlgoritmo
 
 
 ---
@@ -482,9 +484,39 @@ FinAlgoritmo
 ## DDF 4 
 1) Desarrollar un programa que muestre el listado de números enteros que hay entre otros dos que se ingresan por teclado.  
 
+Algoritmo ListadoNumerosEntreDos
+    Escribir "Ingrese el primer número: "
+    Leer num1
+    Escribir "Ingrese el segundo número: "
+    Leer num2
+
+    Desde i <- num1 + 1 Hasta num2 - 1 Con Paso 1 Hacer
+        Escribir i
+    FinDesde
+FinAlgoritmo
+
+
 ---
 
 2) Diseñar un algoritmo que lea los salarios de los N trabajadores de una empresa y que determine cuántos de ellos ganan más de $ 2.500. El valor de N se debe solicitar al inicio del algoritmo.  
+
+Algoritmo SalariosMayores2500
+    Escribir "Ingrese la cantidad de trabajadores: "
+    Leer cantidadTrabajadores
+    contadorSalariosMayores2500 <- 0
+
+    Desde i <- 1 Hasta cantidadTrabajadores Con Paso 1 Hacer
+        Escribir "Ingrese el salario del trabajador ", i, ": "
+        Leer salario
+
+        Si salario > 2500 Hacer
+            contadorSalariosMayores2500 <- contadorSalariosMayores2500 + 1
+        FinSi
+    FinDesde
+
+    Escribir "La cantidad de trabajadores con salario mayor a $2500 es: ", contadorSalariosMayores2500
+FinAlgoritmo
+
 
 ---
 
