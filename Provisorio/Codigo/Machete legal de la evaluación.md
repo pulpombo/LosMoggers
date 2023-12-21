@@ -33,6 +33,8 @@ FinAlgoritmo
 En el día se logran vender todas las sillas fabricadas a un valor de $130 cada una.  
 Diseñar y codificar un algoritmo que lea las cantidades correspondientes y que calcule e imprima el salario diario de un empleado.  
 
+
+
 ---
 
 
