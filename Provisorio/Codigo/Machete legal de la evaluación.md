@@ -358,27 +358,126 @@ Algoritmo BucleSegundoMayor
 
 ---
 
-3.- Escriba un DDF que pida números entero mientras el usuario escriba número mayores que el primero.  
+3.- Escriba un DDF que pida números entero mientras el usuario escriba número mayores que el primero.  }
+
+Algoritmo PromedioDiezNumeros
+    suma <- 0
+
+    Desde i <- 1 Hasta 10 Con Paso 1 Hacer
+        Escribir "Ingrese el número ", i, ": "
+        Leer num
+        suma <- suma + num
+    FinDesde
+
+    promedio <- suma / 10
+
+    Escribir "El promedio de los 10 números es: ", promedio
+FinAlgoritmo
+
 
 ---
 
 4.- Diseñar un DDF que calcule y muestre el promedio de 10 números.  
 
+Algoritmo MayorMenorDiezNumeros
+    mayor <- 0
+    menor <- 0
+
+    Desde i <- 1 Hasta 10 Con Paso 1 Hacer
+        Escribir "Ingrese el número ", i, ": "
+        Leer num
+
+        Si i = 1 Hacer
+            mayor <- num
+            menor <- num
+        Sino
+            Si num > mayor Hacer
+                mayor <- num
+            FinSi
+            Si num < menor Hacer
+                menor <- num
+            FinSi
+        FinSi
+    FinDesde
+
+    Escribir "El número mayor es: ", mayor
+    Escribir "El número menor es: ", menor
+FinAlgoritmo
+
+
 ---
 
 5.- Realizar un DDF que permita el ingreso de 10 números y calcule el mayor y el menor. Los números son todos positivos.  
+
+Algoritmo BucleNumerosCadaVezMasGrandes
+    Escribir "Ingrese el primer número: "
+    Leer num1
+    Escribir "Ingrese un número mayor al primero: "
+    Leer num
+
+    Mientras num > num1 Hacer
+        num1 <- num
+        Escribir "Ingrese un número mayor al último ingresado: "
+        Leer num
+    FinMientras
+FinAlgoritmo
+
 
 ---
 
 6.- Escriba un DDF que pida números enteros mientras sean cada vez más grandes.  
 
+Algoritmo BucleNumerosCadaVezMasGrandes
+    Escribir "Ingrese el primer número: "
+    Leer num1
+    Escribir "Ingrese un número mayor al primero: "
+    Leer num
+
+    Mientras num > num1 Hacer
+        num1 <- num
+        Escribir "Ingrese un número mayor al último ingresado: "
+        Leer num
+    FinMientras
+FinAlgoritmo
+
+
+
 ---
 
 7.- Desarrollar un DDF que permita calcular el área de un triángulo conociendo la base y la altura. Tiene que validar que los valores de los datos tengan sentido.  
 
+Algoritmo AreaTriangulo
+    Escribir "Ingrese la base del triángulo: "
+    Leer base
+    Escribir "Ingrese la altura del triángulo: "
+    Leer altura
+
+    // Validar que los valores tengan sentido
+    Si base <= 0 o altura <= 0 Hacer
+        Escribir "Los valores de base y altura deben ser positivos."
+        Terminar
+    FinSi
+
+    area <- (base * altura) / 2
+
+    Escribir "El área del triángulo es: ", area
+FinAlgoritmo
+
+
 ---
 
 8.- Escriba un DDF que pida la cantidad de números positivos que se tienen que escribir y a continuación pida números hasta que se haya escrito la cantidad de números positivos indicada.
+
+Algoritmo IngresoCantidadNumerosPositivos
+    Escribir "Ingrese la cantidad de números positivos que desea escribir: "
+    Leer cantidadNumeros
+
+    Desde i <- 1 Hasta cantidadNumeros Con Paso 1 Hacer
+        Escribir "Ingrese el número ", i, ": "
+        Leer num
+        // Puedes realizar operaciones con 'num' aquí si lo necesitas
+    FinDesde
+FinAlgoritmo
 
 ## DDF 4 
 1) Desarrollar un programa que muestre el listado de números enteros que hay entre otros dos que se ingresan por teclado.  
