@@ -31,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -98,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Videos/Organizacion/Logistica/Guias.md",
+                "file": "Provisorio/Codigo/Machete legal de la evaluación.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Videos/Organizacion/Logistica/Guias.md",
+                "file": "Provisorio/Codigo/Machete legal de la evaluación.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Videos/Organizacion/Logistica/Guias.md"
+                "file": "Provisorio/Codigo/Machete legal de la evaluación.md"
               }
             }
           }
@@ -194,11 +195,11 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "1fff7c9216277abc",
+  "active": "66cb95a5acffb049",
   "lastOpenFiles": [
+    "Videos/Organizacion/Logistica/Guias.md",
     "Provisorio/Codigo/Machete legal de la evaluación.md",
     "README.md",
-    "Videos/Organizacion/Logistica/Guias.md",
     "Provisorio/Codigo",
     "Provisorio",
     "Ideas/Videos/Juegos/Roblox/Combat warriors/Primer video.md",

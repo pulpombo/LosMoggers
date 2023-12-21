@@ -123,4 +123,123 @@ Diseñar un algoritmo que lea el peso de un envío y que determine, si correspon
 
 3.- Escriba un programa que pida números pares mientras el usuario indique que quiere seguir introduciendo números. Para indicar que quiere seguir escribiendo números, el usuario deberá contestar S o s a la pregunta
 
-MARDITO MACHETE RRR
+# MARDITO MACHETE RRR
+
+### Temas de Programación: DDF 1
+
+#### 1. Cálculos con Ponderaciones:
+
+##### Actividad 1 - Calificación Final de un Estudiante:
+**Descripción:**
+La calificación final de un estudiante se calcula con base en cuatro aspectos de su rendimiento académico, cada uno con una ponderación específica.
+
+**Pasos:**
+1. **Entrada de Datos:**
+   - Solicita al usuario ingresar las calificaciones de participación, primer examen parcial, segundo examen parcial y examen final.
+   ```pseudocode
+   Leer participacion
+   Leer parcial1
+   Leer parcial2
+   Leer final
+   ```
+
+2. **Cálculo de Ponderaciones:**
+   - Aplica las ponderaciones a las calificaciones ingresadas.
+   ```pseudocode
+   ponderacion_participacion = participacion * 0.10
+   ponderacion_parcial1 = parcial1 * 0.25
+   ponderacion_parcial2 = parcial2 * 0.25
+   ponderacion_final = final * 0.40
+   ```
+
+3. **Cálculo de Calificación Final:**
+   - Suma las calificaciones ponderadas para obtener la calificación final.
+   ```pseudocode
+   calificacion_final = ponderacion_participacion + ponderacion_parcial1 + ponderacion_parcial2 + ponderacion_final
+   ```
+
+4. **Impresión de Resultados:**
+   - Muestra la calificación final obtenida por el estudiante.
+   ```pseudocode
+   Imprimir "Calificación Final: ", calificacion_final
+   ```
+
+##### Actividad 2 - Salario Diario de un Empleado:
+**Descripción:**
+Calcula el salario diario de un empleado basado en la cantidad de sillas fabricadas y vendidas.
+
+**Pasos:**
+1. **Entrada de Datos:**
+   - Solicita al usuario ingresar la cantidad de sillas fabricadas por el empleado.
+   ```pseudocode
+   Leer sillas_fabricadas
+   ```
+
+2. **Cálculo de Salario:**
+   - Aplica las condiciones para calcular el salario diario.
+   ```pseudocode
+   si sillas_fabricadas <= 5 entonces
+       salario = sillas_fabricadas * 50
+   sino
+       salario = (sillas_fabricadas * 60) + (0.02 * (sillas_fabricadas * 130))
+   fin_si
+   ```
+
+3. **Impresión de Resultados:**
+   - Muestra el salario diario del empleado.
+   ```pseudocode
+   Imprimir "Salario Diario: $", salario
+   ```
+
+#### 2. Operaciones Básicas y Estructuras Condicionales:
+
+##### Actividad 3 - Diferencia entre Dos Números:
+**Descripción:**
+Calcula e imprime la diferencia entre dos números enteros.
+
+**Pasos:**
+1. **Entrada de Datos:**
+   - Solicita al usuario ingresar dos números enteros.
+   ```pseudocode
+   Leer numero1
+   Leer numero2
+   ```
+
+2. **Cálculo de Diferencia:**
+   - Determina el número más grande y resta el más chico.
+   ```pseudocode
+   si numero1 > numero2 entonces
+       diferencia = numero1 - numero2
+   sino
+       diferencia = numero2 - numero1
+   fin_si
+   ```
+
+3. **Impresión de Resultados:**
+   - Muestra la diferencia entre los dos números.
+   ```pseudocode
+   Imprimir "Diferencia: ", diferencia
+   ```
+
+##### Actividad 4 - Suma de Números de Igual Signo:
+**Descripción:**
+Lee dos números enteros y muestra la suma solo si ambos tienen el mismo signo.
+
+**Pasos:**
+1. **Entrada de Datos:**
+   - Solicita al usuario ingresar dos números enteros.
+   ```pseudocode
+   Leer num1
+   Leer num2
+   ```
+
+2. **Verificación de Signos:**
+   - Determina si ambos números tienen el mismo signo.
+   ```pseudocode
+   si (num1 > 0 y num2 > 0) o (num1 < 0 y num2 < 0) entonces
+       suma = num1 + num2
+       Imprimir "Suma: ", suma
+   sino
+       Imprimir "Los números no tienen el mismo signo."
+   fin_si
+   ```
