@@ -549,13 +549,76 @@ FinAlgoritmo
 ## DDF 5 
 1.- Diseñar un algoritmo que reciba como entrada la temperatura al medio día de cada uno de los días de una semana determinada. El programa deberá encontrar la temperatura promedio al medio día, pero sólo para aquellos días en que la misma fuera superior a los 10ºC.  
 
+Algoritmo TemperaturaPromedio
+    sumaTemperaturas <- 0
+    cantidadDias <- 0
+
+    Para cada día de la semana Hacer
+        Escribir "Ingrese la temperatura al mediodía del ", día
+        Leer temperatura
+
+        Si temperatura > 10 Hacer
+            sumaTemperaturas <- sumaTemperaturas + temperatura
+            cantidadDias <- cantidadDias + 1
+        FinSi
+    FinPara
+
+    Si cantidadDias > 0 Hacer
+        temperaturaPromedio <- sumaTemperaturas / cantidadDias
+        Escribir "La temperatura promedio al mediodía es: ", temperaturaPromedio
+    Sino
+        Escribir "No se ingresaron temperaturas superiores a 10°C."
+    FinSi
+FinAl
+
+
 ---
   
 2.- Desarrollar un algoritmo que lea las calificaciones obtenidas en Matemática por los alumnos de un salón; este algoritmo deberá calcular e imprimir el promedio obtenido por el salón y el promedio de los que aprobaron la materia. El número de alumnos es conocido.  
 
+Algoritmo PromedioCalificacionesMatematicas
+    sumaCalificaciones <- 0
+    cantidadAlumnos <- 0
+
+    Escribir "Ingrese la cantidad de alumnos en el salón: "
+    Leer cantidadAlumnos
+
+    Para cada alumno desde 1 hasta cantidadAlumnos Hacer
+        Escribir "Ingrese la calificación en Matemáticas del alumno ", alumno
+        Leer calificacion
+
+        sumaCalificaciones <- sumaCalificaciones + calificacion
+    FinPara
+
+    promedioTotal <- sumaCalificaciones / cantidadAlumnos
+
+    Escribir "El promedio general en Matemáticas es: ", promedioTotal
+FinAlgoritmo
+
+
 ---
 
 3.- Escriba un programa que pida números pares mientras el usuario indique que quiere seguir introduciendo números. Para indicar que quiere seguir escribiendo números, el usuario deberá contestar S o s a la pregunta
+
+Algoritmo PromedioCalificacionesMatematicas
+    sumaCalificaciones <- 0
+    cantidadAlumnos <- 0
+
+    Escribir "Ingrese la cantidad de alumnos en el salón: "
+    Leer cantidadAlumnos
+
+    Para cada alumno desde 1 hasta cantidadAlumnos Hacer
+        Escribir "Ingrese la calificación en Matemáticas del alumno ", alumno
+        Leer calificacion
+
+        sumaCalificaciones <- sumaCalificaciones + calificacion
+    FinPara
+
+    promedioTotal <- sumaCalificaciones / cantidadAlumnos
+
+    Escribir "El promedio general en Matemáticas es: ", promedioTotal
+FinAlgoritmo
+
 
 # MARDITO MACHETE LEGAL RRR
 
