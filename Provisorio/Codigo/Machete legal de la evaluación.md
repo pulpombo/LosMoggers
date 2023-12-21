@@ -33,6 +33,18 @@ FinAlgoritmo
 En el día se logran vender todas las sillas fabricadas a un valor de $130 cada una.  
 Diseñar y codificar un algoritmo que lea las cantidades correspondientes y que calcule e imprima el salario diario de un empleado.  
 
+Algoritmo SalarioDiario
+    Escribir "Ingrese la cantidad de sillas fabricadas por el obrero: "
+    Leer sillasFabricadas
+
+    Si sillasFabricadas <= 5 Hacer
+        salario <- sillasFabricadas * 50
+    Sino
+        salario <- (sillasFabricadas * 60) + (0.02 * sillasFabricadas * 130)
+    FinSi
+
+    Escribir "El salario diario del empleado es: ", salario
+FinAlgoritmo
 
 
 ---
@@ -40,17 +52,89 @@ Diseñar y codificar un algoritmo que lea las cantidades correspondientes y que 
 
 3.-  Diseñar un algoritmo que calcule e imprima la diferencia entre dos números enteros ingresados por teclado restando siempre del más grande el más chico.  
 
+Algoritmo DiferenciaEntreNumeros
+    Escribir "Ingrese el primer número: "
+    Leer num1
+    Escribir "Ingrese el segundo número: "
+    Leer num2
+
+    Si num1 > num2 Hacer
+        diferencia <- num1 - num2
+    Sino
+        diferencia <- num2 - num1
+    FinSi
+
+    Escribir "La diferencia entre los números es: ", diferencia
+FinAlgoritmo
+
+
 ---
 
 
 4.-  Diseñar y codificar un algoritmo que lea dos números enteros y que determine y muestre la suma entre ellos si son de igual signo.  
+
+Algoritmo SumaIgualSigno
+    Escribir "Ingrese el primer número entero: "
+    Leer num1
+    Escribir "Ingrese el segundo número entero: "
+    Leer num2
+
+    Si (num1 > 0 y num2 > 0) o (num1 < 0 y num2 < 0) Hacer
+        suma <- num1 + num2
+        Escribir "La suma de los números es: ", suma
+    Sino
+        Escribir "Los números no tienen el mismo signo."
+    FinSi
+FinAlgoritmo
+
 
 ---
 
 
 5.- La compañía ABC aplica dos pruebas a cada persona que desea ingresar a la misma. Se la contrata si obtiene un mínimo de 75 puntos en cada de ellas, en caso contrario se le rechaza.  
 Diseñar y codificar un algoritmo que lea las cantidades pertinentes y que determine si una persona es aceptada por la compañía ABC.  
+
+Algoritmo AceptacionEnCompaniaABC
+    Escribir "Ingrese la calificación de la primera prueba: "
+    Leer prueba1
+    Escribir "Ingrese la calificación de la segunda prueba: "
+    Leer prueba2
+
+    Si prueba1 >= 75 y prueba2 >= 75 Hacer
+        Escribir "La persona es aceptada en la compañía ABC."
+    Sino
+        Escribir "La persona es rechazada en la compañía ABC."
+    FinSi
+FinAlgoritmo
+
+
+---
+
 6.-  Hacer un programa que solicite el ingreso de tres números por teclado y calcule y muestre la suma de los dos mayores.  
+
+Algoritmo SumaDosMayores
+    Escribir "Ingrese el primer número: "
+    Leer num1
+    Escribir "Ingrese el segundo número: "
+    Leer num2
+    Escribir "Ingrese el tercer número: "
+    Leer num3
+
+    // Ordenar los números de mayor a menor
+    Si num1 < num2 Hacer
+        intercambiar(num1, num2)
+    FinSi
+    Si num2 < num3 Hacer
+        intercambiar(num2, num3)
+    FinSi
+    Si num1 < num2 Hacer
+        intercambiar(num1, num2)
+    FinSi
+
+    sumaDosMayores <- num1 + num2
+    Escribir "La suma de los dos mayores números es: ", sumaDosMayores
+FinAlgoritmo
+
 
 ---
 
