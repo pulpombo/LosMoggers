@@ -20,8 +20,21 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "d334a1d2736dfc0b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ideas/Videos/Juegos/Roblox/Untitled Boxing Game/Primer video.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -88,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Ideas/Videos/Juegos/Roblox/Untitled Boxing Game/Primer video.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Ideas/Videos/Juegos/Roblox/Untitled Boxing Game/Primer video.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Ideas/Videos/Juegos/Roblox/Untitled Boxing Game/Primer video.md"
               }
             }
           }
@@ -184,13 +197,13 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "60596ca0eb494ef6",
+  "active": "d334a1d2736dfc0b",
   "lastOpenFiles": [
+    "README.md",
     "1-removebg-preview (1).png",
     "Provisorio/Codigo/Actividades grrrrrr.md",
     "Provisorio/Codigo/Machete legal de la evaluación.md",
     "Videos/Organizacion/Logistica/Guias.md",
-    "README.md",
     "Provisorio/Codigo",
     "Provisorio",
     "Ideas/Videos/Juegos/Roblox/Combat warriors/Primer video.md",
