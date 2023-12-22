@@ -25,11 +25,9 @@
             "id": "d334a1d2736dfc0b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Ideas/Videos/Juegos/Roblox/Untitled Boxing Game/Primer video.md",
-                "mode": "source",
-                "source": false
+                "file": "Media/1-removebg-preview (1).png"
               }
             }
           }
@@ -101,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ideas/Videos/Juegos/Roblox/Untitled Boxing Game/Primer video.md",
+                "file": "Media/1-removebg-preview (1).png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ideas/Videos/Juegos/Roblox/Untitled Boxing Game/Primer video.md",
+                "file": "Media/1-removebg-preview (1).png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ideas/Videos/Juegos/Roblox/Untitled Boxing Game/Primer video.md"
+                "file": "Media/1-removebg-preview (1).png"
               }
             }
           }
@@ -197,10 +195,15 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "d334a1d2736dfc0b",
+  "active": "0c1523d200a85d8f",
   "lastOpenFiles": [
+    "Untitled",
+    "Media - Videos",
+    "Media/Media - Imagenes",
+    "Media",
+    "Ideas/Videos/Juegos/Roblox/Untitled Boxing Game/Primer video.md",
     "README.md",
-    "1-removebg-preview (1).png",
+    "Media/1-removebg-preview (1).png",
     "Provisorio/Codigo/Actividades grrrrrr.md",
     "Provisorio/Codigo/Machete legal de la evaluación.md",
     "Videos/Organizacion/Logistica/Guias.md",
@@ -208,7 +211,6 @@
     "Provisorio",
     "Ideas/Videos/Juegos/Roblox/Combat warriors/Primer video.md",
     "Home.md",
-    "Ideas/Videos/Juegos/Roblox/Untitled Boxing Game/Primer video.md",
     "Videos/Organizacion/Juegos/Roblox/Cosas secretas.md",
     "Videos/Organizacion/Juegos/Roblox/Combat Warriors/Comandos.md",
     "Videos/Organizacion/Juegos/Roblox/Untitled.md",
@@ -217,9 +219,6 @@
     "Videos/Organizacion/Juegos/Roblox",
     "Ideas/Videos/Juegos/Roblox/Untitled Boxing Game",
     "Ideas/Videos/Juegos/Roblox/Combat warriors",
-    "Ideas/Videos/Juegos/Roblox",
-    "Ideas/Videos/Juegos",
-    "Ideas/Videos",
     "Videos/Organizacion/Juegos/Ideas de Videos.md",
     "Videos/Home Page de Videos.md",
     "Videos/Organizacion/Logistica/Edicion.md",
