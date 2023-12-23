@@ -20,8 +20,21 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "c989973c4722f8c6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Spaces/Home/Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -66,8 +79,17 @@
               "type": "bookmarks",
               "state": {}
             }
+          },
+          {
+            "id": "ac2565f89f19c7de",
+            "type": "leaf",
+            "state": {
+              "type": "mk-path-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -88,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Spaces/Home/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Spaces/Home/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Spaces/Home/Untitled.md"
               }
             }
           }
@@ -184,9 +206,12 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "0df943ce0f447fa7",
+  "active": "c989973c4722f8c6",
   "lastOpenFiles": [
+    "Spaces/Home/Untitled.md",
     "README.md",
+    "Spaces/Home",
+    "Spaces",
     "Media/Media - Imagenes/cappcno/1-removebg-preview (1).png",
     "Media/Media - Imagenes/cappcno",
     "Media/Media - Documentos",
@@ -200,8 +225,6 @@
     "Provisorio/Codigo/Actividades grrrrrr.md",
     "Provisorio/Codigo/Machete legal de la evaluación.md",
     "Videos/Organizacion/Logistica/Guias.md",
-    "Provisorio/Codigo",
-    "Provisorio",
     "Ideas/Videos/Juegos/Roblox/Combat warriors/Primer video.md",
     "Home.md",
     "Videos/Organizacion/Juegos/Roblox/Cosas secretas.md",
