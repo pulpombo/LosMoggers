@@ -35,7 +35,10 @@
   "showRibbon": true,
   "deleteFileOption": "trash",
   "expandedSpaces": [
-    "/"
+    "/",
+    "//Redes sociales",
+    "//Spaces",
+    "//Spaces"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",

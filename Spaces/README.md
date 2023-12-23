@@ -1,5 +1,6 @@
 ---
-banner: "https://i.pinimg.com/564x/82/aa/1a/82aa1acfa9c16c0ebe6b48712a84e121.jpg"
+banner: https://i.pinimg.com/564x/82/aa/1a/82aa1acfa9c16c0ebe6b48712a84e121.jpg
+sticker: emoji//1f637
 ---
 # Home page GRRRRRRR
 ## 1. Logo y nombre
