@@ -24,13 +24,15 @@
           {
             "id": "c989973c4722f8c6",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Spaces/README.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "pinned": true
             }
           }
         ],
@@ -208,9 +210,10 @@
   },
   "active": "c989973c4722f8c6",
   "lastOpenFiles": [
-    "Untitled.md",
     "Spaces/Home/Untitled.md",
     "Spaces/README.md",
+    "Spaces/Home/Home.md",
+    "Untitled.md",
     "Spaces/Home",
     "Spaces",
     "Spaces/Media/Media - Imagenes/cappcno/1-removebg-preview (1).png",
@@ -244,7 +247,6 @@
     "().md",
     "Videos/Organizacion/Juegos/Minecraft.md",
     "Spaces/Videos/Organizacion/Juegos/Fortnite/Modo Lego.md",
-    "Videos/Untitled.md",
-    "wsp.md"
+    "Videos/Untitled.md"
   ]
 }
