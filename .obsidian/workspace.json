@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "3f10dcb9fe858ff4",
+        "id": "dd7a1636ba96c1be",
         "type": "tabs",
         "children": [
           {
-            "id": "284b6e3cb3d70dea",
+            "id": "0df943ce0f447fa7",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -184,7 +184,7 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "284b6e3cb3d70dea",
+  "active": "0df943ce0f447fa7",
   "lastOpenFiles": [
     "README.md",
     "Media/Media - Imagenes/cappcno/1-removebg-preview (1).png",
