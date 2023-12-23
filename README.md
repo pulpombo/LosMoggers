@@ -23,8 +23,13 @@ sticker: emoji//2b50
 	- [Cappucino](https://www.roblox.com/users/1423426830/profile) (@Exprougart)
 - **Biografia!!**:
 hola grr 
+
 yt: https://www.youtube.com/channel/UC6u4HsXy_mKJ0tRIuPyfWmA
 twtch: https://www.twitch.tv/lattevnla
+twtter: https://twitter.com/lattevnla
+rblx: @Exprougart // @lattevnla
+dscrd: @lattevnla
+
 
 ## 3. Secciones Principales
 
@@ -57,4 +62,4 @@ twtch: https://www.twitch.tv/lattevnla
 
 - **Información de Contacto**: Correo electrónico, redes sociales, etc.
 - **Enlaces Importantes**: Enlaces adicionales relevantes.
-- **Jeje**: [Añade aquí lo que quieras personalizar]
+- **Jeje**: [Añade aquí lo que quieras per
