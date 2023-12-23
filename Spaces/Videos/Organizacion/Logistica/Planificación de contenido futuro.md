@@ -1,3 +1,6 @@
+---
+sticker: emoji//1f5d3-fe0f
+---
 #### **1. Establecer Objetivos a Corto y Largo Plazo:**
 
 - **Corto Plazo (Mes a Mes):**

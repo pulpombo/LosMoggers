@@ -25,11 +25,9 @@
             "id": "c3a9ad316d2b5711",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "mk-space",
               "state": {
-                "file": "Spaces/Videos/Organizacion/Logistica/Storage de recursos!!.md",
-                "mode": "source",
-                "source": false
+                "path": "Spaces/Videos/Organizacion/Logistica"
               }
             }
           }
@@ -110,7 +108,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spaces/Videos/Organizacion/Logistica/Storage de recursos!!.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +124,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spaces/Videos/Organizacion/Logistica/Storage de recursos!!.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,9 +161,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Spaces/Videos/Organizacion/Logistica/Storage de recursos!!.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -208,6 +202,10 @@
   },
   "active": "c3a9ad316d2b5711",
   "lastOpenFiles": [
+    "Spaces/Videos/Organizacion/Logistica/Planificación de contenido futuro.md",
+    "Spaces/Videos/Organizacion/Logistica/Guias.md",
+    "Spaces/Videos/Organizacion/Logistica/Edicion.md",
+    "Spaces/Videos/Organizacion/Logistica/Storage de recursos!!.md",
     "README.md",
     "Spaces/Media/Media - Imagenes/cappcno/Banner de twitter.png",
     "Spaces/Media/Media - Imagenes/cappcno/Logo pequeño.png",
@@ -230,7 +228,6 @@
     "Spaces/Ideas/Videos/Juegos/Roblox/Untitled Boxing Game/Primer video.md",
     "Spaces/Provisorio/Codigo/Actividades grrrrrr.md",
     "Spaces/Provisorio/Codigo/Machete legal de la evaluación.md",
-    "Spaces/Videos/Organizacion/Logistica/Guias.md",
     "Spaces/Ideas/Videos/Juegos/Roblox/Combat warriors/Primer video.md",
     "Home.md",
     "Spaces/Videos/Organizacion/Juegos/Roblox/Cosas secretas.md",
@@ -238,10 +235,7 @@
     "Videos/Organizacion/Juegos/Roblox/Untitled.md",
     "Videos/Organizacion/Juegos/Ideas de Videos.md",
     "Videos/Home Page de Videos.md",
-    "Spaces/Videos/Organizacion/Logistica/Edicion.md",
     "Spaces/Reels - Tiktoks/Home Page de Reels-Tiktok.md",
-    "Spaces/Videos/Organizacion/Logistica/Storage de recursos!!.md",
-    "Spaces/Videos/Organizacion/Logistica/Planificación de contenido futuro.md",
     "PyroCynical.md",
     "944384937690292295.md",
     "Life is Strange png cd.jpg",

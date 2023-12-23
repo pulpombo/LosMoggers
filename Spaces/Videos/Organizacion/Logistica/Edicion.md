@@ -1,3 +1,6 @@
+---
+sticker: emoji//1f5b1-fe0f
+---
 ## Estilos de edición
 ### Estilo: [PyroCynical](https://www.youtube.com/@Pyrocynical)
 

@@ -1,6 +1,6 @@
 ---
 banner: Spaces/Media/Media - Imagenes/cappcno/Banner de twitter.png
-sticker: lucide//vault
+sticker: emoji//1f5c3-fe0f
 ---
 1. **Carpeta Principal: Multimedia**
     
