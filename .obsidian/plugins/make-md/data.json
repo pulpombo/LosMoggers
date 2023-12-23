@@ -39,7 +39,11 @@
     "//Redes sociales",
     "//Spaces",
     "//Spaces",
-    "//Spaces/Spaces/Home"
+    "//Spaces/Spaces/Videos",
+    "//Spaces/Spaces/Videos/Spaces/Videos/Organizacion",
+    "//Spaces/Spaces/Videos/Spaces/Videos/Organizacion/Spaces/Videos/Organizacion/Logistica",
+    "//Spaces/Spaces/Videos/Spaces/Videos/Organizacion/Spaces/Videos/Organizacion/Juegos",
+    "//Spaces/Spaces/Videos/Spaces/Videos/Organizacion/Spaces/Videos/Organizacion/Juegos"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",

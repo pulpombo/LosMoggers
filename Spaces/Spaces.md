@@ -1,8 +1,7 @@
 ---
 _filters: []
 _contexts: []
-_links:
-  - README.md
+_links: []
 _sort:
   field: rank
   asc: false
