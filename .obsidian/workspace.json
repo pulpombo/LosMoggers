@@ -25,9 +25,11 @@
             "id": "33ea0f1fa4904187",
             "type": "leaf",
             "state": {
-              "type": "mk-space",
+              "type": "markdown",
               "state": {
-                "path": "Spaces/Videos/Organizacion/Guias"
+                "file": "README.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -108,6 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,6 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +165,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "README.md"
+              }
             }
           }
         ]
@@ -202,8 +208,8 @@
   },
   "active": "33ea0f1fa4904187",
   "lastOpenFiles": [
-    "Spaces/Videos/Organizacion/Guias/Guias.md",
     "README.md",
+    "Spaces/Videos/Organizacion/Guias/Guias.md",
     "Spaces/Home/Home.md",
     "Spaces/Spaces.md",
     "Spaces/Home/Untitled.md",
