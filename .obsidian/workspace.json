@@ -27,7 +27,7 @@
             "state": {
               "type": "mk-space",
               "state": {
-                "path": "Spaces/Videos/Organizacion/Logistica"
+                "path": "Spaces/Videos/Organizacion/Juegos/Roblox"
               }
             }
           }
@@ -202,6 +202,8 @@
   },
   "active": "c3a9ad316d2b5711",
   "lastOpenFiles": [
+    "Spaces/Videos/Organizacion/Juegos/Juegos.md",
+    "Spaces/Videos/Organizacion/Logistica/Logistica.md",
     "Spaces/Videos/Organizacion/Logistica/Planificación de contenido futuro.md",
     "Spaces/Videos/Organizacion/Logistica/Guias.md",
     "Spaces/Videos/Organizacion/Logistica/Edicion.md",
@@ -238,7 +240,6 @@
     "Spaces/Reels - Tiktoks/Home Page de Reels-Tiktok.md",
     "PyroCynical.md",
     "944384937690292295.md",
-    "Life is Strange png cd.jpg",
-    "Life.md"
+    "Life is Strange png cd.jpg"
   ]
 }

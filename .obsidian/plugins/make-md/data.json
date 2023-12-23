@@ -41,7 +41,6 @@
     "//Spaces",
     "//Spaces/Spaces/Videos",
     "//Spaces/Spaces/Videos/Spaces/Videos/Organizacion",
-    "//Spaces/Spaces/Videos/Spaces/Videos/Organizacion/Spaces/Videos/Organizacion/Logistica",
     "//Spaces/Spaces/Videos/Spaces/Videos/Organizacion/Spaces/Videos/Organizacion/Juegos",
     "//Spaces/Spaces/Videos/Spaces/Videos/Organizacion/Spaces/Videos/Organizacion/Juegos",
     "//Spaces/Spaces/Videos/Spaces/Videos/Organizacion/Spaces/Videos/Organizacion/Guias",
@@ -50,7 +49,8 @@
     "//Spaces/Spaces/Media/Spaces/Media/Media - Imagenes",
     "//Spaces/Spaces/Media/Spaces/Media/Media - Imagenes/Spaces/Media/Media - Imagenes/cappcno",
     "//Spaces/Spaces/Videos/Spaces/Videos/Organizacion/Spaces/Videos/Organizacion/Juegos/Spaces/Videos/Organizacion/Juegos/Roblox/Spaces/Videos/Organizacion/Juegos/Roblox/Untitled Boxing Game",
-    "//Spaces/Spaces/Videos/Spaces/Videos/Organizacion/Spaces/Videos/Organizacion/Logistica"
+    "//Spaces/Spaces/Videos/Spaces/Videos/Organizacion/Spaces/Videos/Organizacion/Juegos",
+    "//Spaces/Spaces/Videos/Spaces/Videos/Organizacion/Spaces/Videos/Organizacion/Juegos/Spaces/Videos/Organizacion/Juegos/Roblox"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",
