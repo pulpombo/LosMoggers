@@ -24,6 +24,7 @@ sticker: emoji//2b50
 - **Biografia!!**:
 hola grr 
 
+tktk: 
 yt: https://www.youtube.com/channel/UC6u4HsXy_mKJ0tRIuPyfWmA
 twtch: https://www.twitch.tv/lattevnla
 twtter: https://twitter.com/lattevnla
@@ -62,4 +63,4 @@ dscrd: @lattevnla
 
 - **Información de Contacto**: Correo electrónico, redes sociales, etc.
 - **Enlaces Importantes**: Enlaces adicionales relevantes.
-- **Jeje**: [Añade aquí lo que quieras per
+- **Jeje**: [Añade aquí lo que quieras personalizar]
