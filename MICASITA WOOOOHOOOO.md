@@ -30,6 +30,17 @@ sticker: emoji//2b50
 	twtter: https://twitter.com/lattevnla
 	rblx: @Exprougart // @lattevnla
 	dscrd: @lattevnla
+	
+	
+- **Biografia con limite!!**:
+	hola grr 
+	
+	tktk: @lattevnla_
+	yt: @lattevnla
+	twtch: https://www.twitch.tv/lattevnla
+	twtter: https://twitter.com/lattevnla
+	rblx: @Exprougart // @lattevnla
+	dscrd: @lattevnla
 
 
 ## 3. Secciones Principales

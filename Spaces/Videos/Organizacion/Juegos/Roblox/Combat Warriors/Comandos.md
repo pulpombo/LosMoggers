@@ -1,3 +1,6 @@
+---
+sticker: lucide//git-commit
+---
 Type /cmds for an always up-to-date list of commands
 
 /airdrops [on/off]
