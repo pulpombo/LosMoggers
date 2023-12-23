@@ -1,3 +1,7 @@
+---
+banner: Spaces/Media/Media - Imagenes/cappcno/Banner de twitter.png
+sticker: lucide//vault
+---
 1. **Carpeta Principal: Multimedia**
     
     - **Subcarpetas:**
