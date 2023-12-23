@@ -37,8 +37,8 @@ sticker: emoji//2b50
 	
 	tktk: @lattevnla_
 	yt: @lattevnla
-	twtch: https://www.twitch.tv/lattevnla
-	twtter: https://twitter.com/lattevnla
+	twtch: lattevnla
+	twtter: lattevnla
 	rblx: @Exprougart // @lattevnla
 	dscrd: @lattevnla
 
@@ -49,29 +49,7 @@ sticker: emoji//2b50
 
 - **Calendario Editorial**: Planificación de publicaciones.
 	- Alrededor de 1 o 2 veces a la semana para videos de menor trabajo y 1 video de mayor esfuerzo al mes
-- **Ideas para Contenido**: [[Ideas de Videos]]
+- **Ideas para Contenido**: [[Ideas]]
 - **Contenido Reciente**: Lista de las publicaciones más recientes.
 	- [[Contenido creado]]
 	- [[Comunidad y comunicados]]
-
-### b. Redes Sociales
-
-- **Programación de Publicaciones**: Cada 2 dias, voy a publicar algo relacionado al contenido que voy a subir, fan-art o demas
-- **Redes Sociales**: [Youtube](https://www.youtube.com/channel/UC6u4HsXy_mKJ0tRIuPyfWmA), [Twitter](https://twitter.com/lattevnla), [Twitch](https://www.twitch.tv/lattevnla), [Instagram](https://www.instagram.com/alexisacoutistic/)
-- **Interacción con Seguidores**: Para esto tengo mi server de [Discord](https://discord.gg/Jz7gbzb2)
-
-## 4. Herramientas y Recursos
-
-- **Herramientas de Edición de Imágenes y Videos**: Enlaces rápidos.
-- **Recursos Gráficos**: Imágenes, fuentes y otros elementos gráficos. 
-
-## 5. Estadísticas y Analíticas
-
-- **Seguimiento de Redes Sociales**: Métricas clave de tus perfiles.
-- **Rendimiento de Contenido**: Analítica de las publicaciones.
-
-## 6. Pie de Página
-
-- **Información de Contacto**: Correo electrónico, redes sociales, etc.
-- **Enlaces Importantes**: Enlaces adicionales relevantes.
-- **Jeje**: [Añade aquí lo que quieras personalizar]
