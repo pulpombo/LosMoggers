@@ -25,11 +25,9 @@
             "id": "33ea0f1fa4904187",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "mk-space",
               "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
+                "path": "Spaces/Videos/Organizacion/Guias"
               }
             }
           }
@@ -110,7 +108,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +124,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,9 +161,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "README.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -208,8 +202,9 @@
   },
   "active": "33ea0f1fa4904187",
   "lastOpenFiles": [
-    "Spaces/Home/Home.md",
+    "Spaces/Videos/Organizacion/Guias/Guias.md",
     "README.md",
+    "Spaces/Home/Home.md",
     "Spaces/Spaces.md",
     "Spaces/Home/Untitled.md",
     "Untitled.md",
@@ -244,7 +239,6 @@
     "Life is Strange png cd.jpg",
     "Life.md",
     "().md",
-    "Videos/Organizacion/Juegos/Minecraft.md",
-    "Spaces/Videos/Organizacion/Juegos/Fortnite/Modo Lego.md"
+    "Videos/Organizacion/Juegos/Minecraft.md"
   ]
 }
