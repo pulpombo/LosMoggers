@@ -22,9 +22,9 @@ sticker: emoji//2b50
 	- lattevnla (Discord)
 	- [Cappucino](https://www.roblox.com/users/1423426830/profile) (@Exprougart)
 - **Biografia!!**:
--  
-
-
+hola grr 
+yt: https://www.youtube.com/channel/UC6u4HsXy_mKJ0tRIuPyfWmA
+twtch: https://www.twitch.tv/lattevnla
 
 ## 3. Secciones Principales
 
