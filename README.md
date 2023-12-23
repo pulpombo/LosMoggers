@@ -17,12 +17,14 @@ sticker: emoji//2b50
 	- [Twitch](https://www.twitch.tv/lattevnla)
 - **Recursos**: Mi storage de recursos esta en [Storage](https://drive.google.com/drive/u/4/folders/1SbFb8ooWdQJj_QFGBOY0DkUAhyf-TKDg)
 	- Organizado por [[Storage de recursos!!]]
-	- Otros lugares para conseguir recursos gratis:
-		- 
 - **Contacto**: 
 	- latttevnla@gmail.com (Gmail)
 	- lattevnla (Discord)
 	- [Cappucino](https://www.roblox.com/users/1423426830/profile) (@Exprougart)
+- **Biografia!!**:
+-  
+
+
 
 ## 3. Secciones Principales
 
