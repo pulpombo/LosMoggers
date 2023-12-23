@@ -25,9 +25,11 @@
             "id": "c3a9ad316d2b5711",
             "type": "leaf",
             "state": {
-              "type": "mk-space",
+              "type": "markdown",
               "state": {
-                "path": "Spaces/Videos/Organizacion/Juegos/Roblox"
+                "file": "README.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -108,6 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,6 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +165,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "README.md"
+              }
             }
           }
         ]
@@ -202,6 +208,12 @@
   },
   "active": "c3a9ad316d2b5711",
   "lastOpenFiles": [
+    "Spaces/Home/Home.md",
+    "Spaces/Videos/Organizacion/Criticas/Criticas.md",
+    "Spaces/Videos/Organizacion/Juegos/Fortnite/Fortnite.md",
+    "Spaces/Videos/Organizacion/Juegos/Roblox/Untitled Boxing Game/Untitled Boxing Game.md",
+    "Spaces/Videos/Organizacion/Juegos/Roblox/Combat Warriors/Combat Warriors.md",
+    "Spaces/Videos/Organizacion/Juegos/Roblox/Roblox.md",
     "Spaces/Videos/Organizacion/Juegos/Juegos.md",
     "Spaces/Videos/Organizacion/Logistica/Logistica.md",
     "Spaces/Videos/Organizacion/Logistica/Planificación de contenido futuro.md",
@@ -213,7 +225,6 @@
     "Spaces/Media/Media - Imagenes/cappcno/Logo pequeño.png",
     "Vault.md",
     "Spaces/Videos/Organizacion/Guias/Guias.md",
-    "Spaces/Home/Home.md",
     "Spaces/Spaces.md",
     "Spaces/Home/Untitled.md",
     "Untitled.md",
@@ -235,11 +246,6 @@
     "Spaces/Videos/Organizacion/Juegos/Roblox/Cosas secretas.md",
     "Spaces/Videos/Organizacion/Juegos/Roblox/Combat Warriors/Comandos.md",
     "Videos/Organizacion/Juegos/Roblox/Untitled.md",
-    "Videos/Organizacion/Juegos/Ideas de Videos.md",
-    "Videos/Home Page de Videos.md",
-    "Spaces/Reels - Tiktoks/Home Page de Reels-Tiktok.md",
-    "PyroCynical.md",
-    "944384937690292295.md",
     "Life is Strange png cd.jpg"
   ]
 }
