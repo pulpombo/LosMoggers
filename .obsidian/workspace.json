@@ -20,8 +20,21 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "c3a9ad316d2b5711",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -193,8 +206,11 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "cc18c26a06a44f97",
+  "active": "c3a9ad316d2b5711",
   "lastOpenFiles": [
+    "Spaces/Media/Media - Imagenes/cappcno/Banner de twitter.png",
+    "Spaces/Media/Media - Imagenes/cappcno/Logo pequeño.png",
+    "Vault.md",
     "README.md",
     "Spaces/Videos/Organizacion/Guias/Guias.md",
     "Spaces/Home/Home.md",
@@ -203,7 +219,6 @@
     "Untitled.md",
     "Spaces/Home",
     "Spaces",
-    "Spaces/Media/Media - Imagenes/cappcno/1-removebg-preview (1).png",
     "Spaces/Media/Media - Imagenes/cappcno",
     "Spaces/Media/Media - Documentos",
     "Spaces/Media/Media - Links",
@@ -230,8 +245,6 @@
     "PyroCynical.md",
     "944384937690292295.md",
     "Life is Strange png cd.jpg",
-    "Life.md",
-    "().md",
-    "Videos/Organizacion/Juegos/Minecraft.md"
+    "Life.md"
   ]
 }

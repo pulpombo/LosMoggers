@@ -1,13 +1,12 @@
 ---
-banner: "Spaces/Media/Media - Imagenes/cappcno/1-removebg-preview (1).png"
+banner: Spaces/Media/Media - Imagenes/cappcno/Banner de twitter.png
 sticker: emoji//2b50
 ---
 # Home page GRRRRRRR
 ## 1. Logo y nombre
 - **Nombre/Logo**: 
-
 ## Capuccino (lattevnla)
-![[1-removebg-preview (1).png]]
+![[Logo pequeño.png]]
 ## 2. Menú de Navegación
 
 - **Contenido**: [[Home Page de Videos]]
