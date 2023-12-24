@@ -53,3 +53,5 @@ sticker: emoji//2b50
 - **Contenido Reciente**: Lista de las publicaciones más recientes.
 	- [[Contenido creado]]
 	- [[Comunidad y comunicados]]
+
+### a. Creación de Contenido
