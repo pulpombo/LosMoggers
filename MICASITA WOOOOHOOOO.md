@@ -57,4 +57,4 @@ sticker: emoji//2b50
 	rblx: @Exprougart // @lattevnla
 	dscrd: @lattevnla****
 	
-- **d**
+- **Descripción de video**:
