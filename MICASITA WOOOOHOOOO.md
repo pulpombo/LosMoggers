@@ -21,26 +21,7 @@ sticker: emoji//2b50
 	- latttevnla@gmail.com (Gmail)
 	- lattevnla (Discord)
 	- [Cappucino](https://www.roblox.com/users/1423426830/profile) (@Exprougart)
-- **Biografia!!**:
-	hola grr 
-	
-	tktk: https://www.tiktok.com/@lattevnla_
-	yt: https://www.youtube.com/channel/UC6u4HsXy_mKJ0tRIuPyfWmA
-	twtch: https://www.twitch.tv/lattevnla
-	twtter: https://twitter.com/lattevnla
-	rblx: @Exprougart // @lattevnla
-	dscrd: @lattevnla
-	
-	
-- **Biografia con limite!!**:
-	hola grr 
-	
-	tktk: @lattevnla_
-	yt: @lattevnla
-	twtch: lattevnla
-	twtter: lattevnla
-	rblx: @Exprougart // @lattevnla
-	dscrd: @lattevnla
+
 
 
 ## 3. Secciones Principales
@@ -54,4 +35,26 @@ sticker: emoji//2b50
 	- [[Contenido creado]]
 	- [[Comunidad y comunicados]]
 
-### a. Creación de Contenido
+### a. Copy Pastes
+
+- **Biografia!!**:
+	hola grr 
+	
+	tktk: https://www.tiktok.com/@lattevnla_
+	yt: https://www.youtube.com/channel/UC6u4HsXy_mKJ0tRIuPyfWmA
+	twtch: https://www.twitch.tv/lattevnla
+	twtter: https://twitter.com/lattevnla
+	rblx: @Exprougart // @lattevnla
+	dscrd: @lattevnla
+	
+- **Biografia con limite!!**:
+	hola grr 
+	
+	tktk: @lattevnla_
+	yt: @lattevnla
+	twtch: lattevnla
+	twtter: lattevnla
+	rblx: @Exprougart // @lattevnla
+	dscrd: @lattevnla****
+	
+- **d**
