@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "7626cdc2ba2c91e1",
+        "id": "fb0c6c2cd657aa53",
         "type": "tabs",
         "children": [
           {
-            "id": "ced51fa2d93e6d3c",
+            "id": "9b900be4161cb0fa",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "README.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "pinned": true
             }
           }
         ]
@@ -191,7 +193,7 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "ced51fa2d93e6d3c",
+  "active": "9b900be4161cb0fa",
   "lastOpenFiles": [
     "README.md",
     "README.md",
