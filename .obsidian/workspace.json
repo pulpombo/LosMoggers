@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "7b9fe52d18d345fc",
+        "id": "7626cdc2ba2c91e1",
         "type": "tabs",
         "children": [
           {
-            "id": "63f1f290d36e2813",
+            "id": "7380177a235df7c1",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MICASITA WOOOOHOOOO.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MICASITA WOOOOHOOOO.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MICASITA WOOOOHOOOO.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MICASITA WOOOOHOOOO.md"
+                "file": "README.md"
               }
             }
           }
@@ -193,11 +193,11 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "63f1f290d36e2813",
+  "active": "7380177a235df7c1",
   "lastOpenFiles": [
+    "README.md",
     "MICASITA WOOOOHOOOO.md",
     "Spaces/Ideas/Videos/Juegos/Roblox/Untitled Boxing Game/Untitled Boxing Game.md",
-    "README.md",
     "Spaces/Ideas/Videos/Juegos/Roblox/Untitled Boxing Game/Primer video.md",
     "Spaces/Ideas/Videos/Juegos/Roblox/Roblox.md",
     "Spaces/Ideas/Videos/Juegos/Juegos.md",
