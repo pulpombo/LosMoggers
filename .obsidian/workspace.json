@@ -20,8 +20,21 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "d836471341bde330",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Spaces/Provisorio/Codigo/Codigo.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -74,9 +87,17 @@
               "type": "mk-path-view",
               "state": {}
             }
+          },
+          {
+            "id": "85931aba4374b9ba",
+            "type": "leaf",
+            "state": {
+              "type": "mk-path-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -97,6 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Spaces/Provisorio/Codigo/Codigo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,6 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Spaces/Provisorio/Codigo/Codigo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +173,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Spaces/Provisorio/Codigo/Codigo.md"
+              }
             }
           }
         ]
@@ -181,15 +206,24 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "homepage:Open homepage": false,
+      "obsidian-projects:Open projects": false,
+      "markdown-table-editor:Open Markdown Table Editor": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-importer:Open Importer": false
     }
   },
-  "active": "ac2565f89f19c7de",
+  "active": "d836471341bde330",
   "lastOpenFiles": [
-    "README.md",
-    "README.md",
-    "Spaces/Ideas/Videos/Juegos/Roblox/Untitled Boxing Game/Untitled Boxing Game.md",
+    "Spaces/Provisorio/Provisorio.md",
+    "Spaces/Provisorio/Codigo/Codigo.md",
+    "Spaces/Videos/Organizacion/Juegos/Roblox/Combat Warriors/Comandos.md",
     "Spaces/Ideas/Videos/Juegos/Roblox/Untitled Boxing Game/Primer video.md",
+    "README.md",
+    "Spaces/Home/Home.md",
+    "Spaces/Media/Media - Illustrator/Media - Illustrator.md",
+    "Spaces/Ideas/Videos/Juegos/Roblox/Untitled Boxing Game/Untitled Boxing Game.md",
     "Spaces/Ideas/Videos/Juegos/Roblox/Roblox.md",
     "Spaces/Ideas/Videos/Juegos/Juegos.md",
     "Spaces/Ideas/Videos/Videos.md",
@@ -198,20 +232,16 @@
     "Spaces/Redes sociales/Redes sociales.md",
     "Spaces/Reels - Tiktoks/Reels - Tiktoks.md",
     "Spaces/Media/Media - Documentos/Media - Documentos.md",
-    "Spaces/Media/Media - Illustrator/Media - Illustrator.md",
     "Spaces/Media/Media.md",
     "Spaces/Media/Media - Imagenes/Media - Imagenes.md",
     "Spaces/Media/Media - Imagenes/cappcno/cappcno.md",
     "Spaces/Media/Media - Gif/Media - Gif.md",
     "Spaces/Media/Media - Links/Media - Links.md",
     "Spaces/Media/Media - Videos/Media - Videos.md",
-    "Spaces/Provisorio/Provisorio.md",
     "Spaces/Videos/Videos.md",
     "Spaces/Videos/Organizacion/Organizacion.md",
-    "Spaces/Home/Home.md",
     "Spaces/Videos/Organizacion/Criticas/Criticas.md",
     "Spaces/Videos/Organizacion/Juegos/Fortnite/Fortnite.md",
-    "Spaces/Videos/Organizacion/Juegos/Roblox/Untitled Boxing Game/Untitled Boxing Game.md",
     "Spaces/Media/Media - Imagenes/cappcno/Banner de twitter.png",
     "Spaces/Media/Media - Imagenes/cappcno/Logo pequeño.png",
     "Spaces/Home",
