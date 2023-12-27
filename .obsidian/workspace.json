@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "fb0c6c2cd657aa53",
+        "id": "ea346244d870d55b",
         "type": "tabs",
         "children": [
           {
-            "id": "9b900be4161cb0fa",
+            "id": "37b8c18798716464",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -20,21 +20,8 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "d836471341bde330",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Spaces/Ideas/Videos/Juegos/Roblox/Untitled Boxing Game/Primer video.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -118,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spaces/Ideas/Videos/Juegos/Roblox/Untitled Boxing Game/Primer video.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spaces/Ideas/Videos/Juegos/Roblox/Untitled Boxing Game/Primer video.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spaces/Ideas/Videos/Juegos/Roblox/Untitled Boxing Game/Primer video.md"
+                "file": "README.md"
               }
             }
           }
@@ -214,7 +201,7 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "d836471341bde330",
+  "active": "37b8c18798716464",
   "lastOpenFiles": [
     "Spaces/Ideas/Videos/Juegos/Roblox/Combat warriors/Combat warriors.md",
     "Spaces/Ideas/Videos/Juegos/Roblox/Untitled Boxing Game/Primer video.md",
