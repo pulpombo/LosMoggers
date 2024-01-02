@@ -61,3 +61,18 @@ Furthermore, I'll share a series of tips and tricks designed to help players cou
 Finally, in the closing part of the video, I'll offer a conclusion that summarizes the key points and encourages viewers to put the shared tips and strategies into practice. By providing this comprehensive guide, my goal is to help players better understand "Untitled Boxing Game" and improve their performance as they explore and master the various fighting styles available.
 
 Now, keep in mind that this guide isn't set in stone, as the game is constantly evolving. However, it provides a solid foundation for players to enhance their understanding of the game and their fighting skills, allowing them to adapt to future updates and challenges within "Untitled Boxing Game."
+
+
+¡Bienvenidos a "Untitled Boxing Game" en Roblox! En este video, te brindaré una guía detallada sobre cómo mejorar tu experiencia en este juego. Comenzaremos con una introducción sobre el juego y sus mecánicas básicas. Luego, nos adentraremos en cada uno de los 19 estilos de boxeo disponibles en el juego, los cuales están inspirados en los personajes de "Hajime No Ippo".
+
+Cada estilo de boxeo, desde el "basic" hasta el "hitman", tiene sus propias fortalezas y debilidades. Te explicaré las características de cada uno y cómo se relacionan con los personajes de "Hajime No Ippo", para que puedas comprender mejor sus habilidades y estrategias.
+
+Es común que los nuevos jugadores cometan ciertos errores al comenzar a jugar "Untitled Boxing Game". Identificar y corregir estos errores es fundamental para mejorar. Algunos de los errores más comunes incluyen una mala gestión de la resistencia, falta de conocimiento sobre los controles y una comprensión limitada de los estilos de combate. Te proporcionaré consejos específicos para abordar estos problemas comunes y ayudarte a superar las dificultades iniciales.
+
+También abordaré los errores comunes asociados con cada estilo de boxeo. Por ejemplo, los jugadores que utilizan el estilo "slugger" tienden a ser predecibles, mientras que aquellos que optan por el estilo "counter" a menudo tienen dificultades con el tiempo de sus contraataques. Te ofreceré recomendaciones específicas para corregir estos errores y mejorar tu rendimiento en cada estilo de combate.
+
+Además, compartiré una serie de consejos y trucos diseñados para ayudarte a contrarrestar cada estilo de boxeo. Estos consejos abarcarán estrategias ofensivas y defensivas, así como técnicas específicas para contrarrestar las fortalezas de cada estilo. Al proporcionar esta información detallada, podrás mejorar tu capacidad para adaptarte y competir eficazmente en el juego.
+
+Finalmente, en la parte de cierre del video, ofreceré una conclusión que resume los puntos clave y anima a los espectadores a poner en práctica los consejos y estrategias compartidos. Con esta guía completa, mi objetivo es ayudarte a comprender mejor "Untitled Boxing Game" y mejorar tu rendimiento mientras exploras y dominas los diferentes estilos de combate disponibles.
+
+Recuerda que esta guía no es definitiva, ya que el juego está en constante evolución. Sin embargo, proporciona una base sólida para mejorar tu comprensión del juego y tus habilidades de combate, lo que te permitirá adaptarte a futuras actualizaciones y desafíos dentro de "Untitled Boxing Game".
