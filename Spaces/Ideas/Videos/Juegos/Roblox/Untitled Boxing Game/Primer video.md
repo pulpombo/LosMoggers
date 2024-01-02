@@ -48,3 +48,16 @@ Creo que voy a recaer en el absurdismo y la supersaturacion
 
 ### Script
 
+"Untitled Boxing Game" is a boxing game on Roblox that offers a variety of fighting styles, each with its own unique techniques and strategies. As a player, it's crucial to understand these styles in order to up your game.
+
+Now, let's dive into each of the 19 boxing styles in the game. From "basic" to "hitman," each one has its own strengths and weaknesses. I'll break down the characteristics of each style and how they relate to the characters from "Hajime No Ippo," giving players a deeper understanding of their abilities.
+
+It's common for new players to make certain mistakes when starting to play "Untitled Boxing Game." Identifying and correcting these mistakes is crucial for improvement. Some of these mistakes include poor stamina management, lack of knowledge about the controls, and a limited understanding of the fighting styles. I'll provide specific tips to address these common issues and help new players overcome their initial difficulties.
+
+I'll also address the common mistakes associated with each fighting style. For example, players using the "slugger" style may fall into the trap of being predictable, while those opting for the "counter" style often struggle with the timing of their counterattacks. I'll offer specific recommendations to correct these mistakes and improve performance in each fighting style.
+
+Furthermore, I'll share a series of tips and tricks designed to help players counter each boxing style. These tips will cover offensive and defensive strategies, as well as specific techniques to counter the strengths of each style. By providing this detailed information, players will be able to enhance their ability to adapt and compete effectively in the game.
+
+Finally, in the closing part of the video, I'll offer a conclusion that summarizes the key points and encourages viewers to put the shared tips and strategies into practice. By providing this comprehensive guide, my goal is to help players better understand "Untitled Boxing Game" and improve their performance as they explore and master the various fighting styles available.
+
+Now, keep in mind that this guide isn't set in stone, as the game is constantly evolving. However, it provides a solid foundation for players to enhance their understanding of the game and their fighting skills, allowing them to adapt to future updates and challenges within "Untitled Boxing Game."
