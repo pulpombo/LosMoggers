@@ -63,6 +63,8 @@ Finally, in the closing part of the video, I'll offer a conclusion that summariz
 Now, keep in mind that this guide isn't set in stone, as the game is constantly evolving. However, it provides a solid foundation for players to enhance their understanding of the game and their fighting skills, allowing them to adapt to future updates and challenges within "Untitled Boxing Game."
 
 
+
+#### Introduccion 
 ¡Bienvenidos a "Untitled Boxing Game" en Roblox! En este video, te brindaré una guía detallada sobre cómo mejorar tu experiencia en este juego. Comenzaremos con una introducción sobre el juego y sus mecánicas básicas. Luego, nos adentraremos en cada uno de los 19 estilos de boxeo disponibles en el juego, los cuales están inspirados en los personajes de "Hajime No Ippo".
 
 Cada estilo de boxeo, desde el "basic" hasta el "hitman", tiene sus propias fortalezas y debilidades. Te explicaré las características de cada uno y cómo se relacionan con los personajes de "Hajime No Ippo", para que puedas comprender mejor sus habilidades y estrategias.
