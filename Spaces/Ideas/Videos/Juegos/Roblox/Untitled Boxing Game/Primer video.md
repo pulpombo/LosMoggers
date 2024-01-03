@@ -56,25 +56,33 @@ Creo que voy a recaer en el absurdismo y la supersaturacion
 "Antes de adentrarnos en los diferentes estilos de boxeo, es fundamental comprender las mecánicas básicas del juego, como el movimiento, los ataques y la defensa. Dominar estos aspectos es esencial para mejorar en 'Untitled Boxing Game'."
 
 1. **Movimiento**: Los jugadores pueden moverse utilizando las teclas W, A, S y D. El movimiento es crucial para eludir ataques y posicionarse correctamente para atacar a los oponentes, ademas se cuentan con Dashes, los cuales son movimientos rapidos, que consumen fatiga y sirven para esquivar normalmente, moverse o hacer Perfect Dodge, el perfect dodge es un estado en el cual despues de que esquivar hacia adentro del ataque de un oponente, y terminar en su punto ciego, la pantalla pierde su color y todo se vuelve lento por uno o dos segundos, para un M2, M1 o Ultimate gratis.
-    
+   
 2. **Ataque**: Los jugadores pueden atacar a sus oponentes utilizando el botón izquierdo del mouse o el derecho, el botón izquierdo tira Jabs, los cuales pueden cambiar de estilo a estilo pero siguen las líneas de que son rápidos y útiles para ejercer presión, además de que su daño no es permanente y puede ser regenerado dentro de los confines de la vida oscura. El derecho, tira ataques fuertes, que causan daño permanente, pero se les puede hacer Perfect Dodge
-    
+   
 3. **Defensa**: Los jugadores pueden bloquear los ataques de sus oponentes usando la F, y la durabilidad de la defensa depende del estilo, obtienes un bonus de dinero segun cuantos golpes bloqueas
-    
+   
 4. **Habilidades especiales**: Algunos estilos de lucha tienen habilidades especiales que pueden ser activadas durante el combate. Estas habilidades pueden incluir bonuses de daño, aumento de la velocidad de ataque, reducción de la fatiga, entre otros. Las habilidades especiales suelen estar disponibles en los menús de pelea o de estilo, y pueden ser activadas durante el combate
-    
+   
 5. **Fatiga**: Los jugadores experimentan fatiga al usar habilidades especiales y realizar ataques combinados. La fatiga se recarga automáticamente con el tiempo, y los jugadores pueden usar habilidades especiales y ataques combinados mientras la fatiga está completa o casi completa
+   
 6. **Estilos de lucha**: Los jugadores pueden elegir diferentes estilos de lucha para mejorar sus habilidades en el combate. Cada estilo de lucha tiene sus propias características y ventajas, y los jugadores pueden practicar y mejorar sus habilidades en diferentes estilos para adaptarse a sus oponentes y situaciones específicas
 
 #### Estilos de Boxeo
 
 "A continuación, vamos a explorar cada uno de los 19 estilos de boxeo presentes en el juego, desde el 'Basic' hasta el 'Hitman'. Analizaremos las características distintivas de cada estilo y cómo se relacionan con los personajes de 'Hajime No Ippo'."
+
 1. **Basic**: Estilo básico y fácil de aprender, ideal para principiantes. No tiene habilidades especiales, pero es una buena opción para familiarizarse con el juego. Además tiene un gran damage Output para romper guardias fácilmente
+   
 2. **Corkscrew**: Con lenta movilidad y velocidad de boxeo, pero con mucha vida y daño. Es un estilo fuerte y con una regeneración aumentada, perfecto para tanquear ataques y capitalizar la baja estamina del oponente.
+   
 3. **Ghost**: Este estilo es rápido y de alto daño, con buena durabilidad. Es excelente en todo sentido, aunque sus jabs son un poco mas débiles a cambio de tener un jab instantánea el cual se usa con la tecla R, y tiene un cooldown corto.
+   
 4. **Shotgun**: Además de su muy rápida velocidad de golpes, inflige un gran daño y tiene una habilidad especial, la cual es su "Shotgun" con un cooldown semilargo la cual es una ráfaga de golpes que rompen fácilmente la guardia del oponente y hace daño permanente como un M2. Es un buen counter a estilos con mucho daño y poca guardia si es usado correctamente.
+   
 5. **Freedom**: Este estilo combina movilidad y daño, haciendo que el jugador sea capaz de elegir un estado entre: "WhirlWind", "Smash" y "Hitman". Whirlwind es el estilo nato de Freedom, es muy rápido en todo sentido, de los mas rápidos y con walkspeed mas alta. Smash es una versión del estilo Smash que puede usar el golpe que lo caracteriza pero de los dos lados y Hitman al igual que Smash, es como una copia del estilo Hitman pero con peor movimiento. Es versátil y eficaz contra diferentes tipos de oponentes. Pero con una clara debilidad, la cual es una vida mas pequeña.
+   
 6. **Hands Low**: Con movilidad y daño de counter mejorados, es un estilo sólido y difícil de predecir. Es bueno para esquivar y hacerle counter a oponentes con ataques lentos ya que tiene los mejores dashes del juego. Tambien toma mas daño de counter
+   
 7. **Hawk**: Este estilo es un glass cannon con la habilidad "Sway Back" que reemplaza el dash hacia atrás con una inclinación hacia atrás la cual garantiza un perfect dodge con cualquier golpe pero es mas difícil de conseguir dicho perfect dodge, tiene un mal dash, mala guardia y toma mucho daño de counter
 8. **Turtle**: A pesar de su lenta velocidad y movilidad, tiene una alta vida y daño. Es un buen estilo para bloquear y conseguir la Ultimate rapidamente sin tanto riesgo.
 9. **Smash**: Este estilo es duro y de alto daño, pero con baja movilidad. Es un buen estilo para contraer a oponentes rápidos y rompe la guardia muy facilmente, pues hace daño extra a la guardia, y es difícil de hacerle Perfect Dodge
