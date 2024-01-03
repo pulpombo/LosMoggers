@@ -75,7 +75,7 @@ Creo que voy a recaer en el absurdismo y la supersaturacion
 15. **Slugger**: Este estilo es LENTO, pero fuerte, es del mismo estilo que Iron Fist o Smash, pero puede cargar su M2, lo cual lo vuelve bastante impredecible, puede tener un Damage Output muy grande pero tiene malos dashes, guardia y estamina 
 16. **Counter**: Este estilo es muy solido, no es nada loco pero es confiable, es bastante rapido, tiene daño mejorado de Counter y toma un poco mas de daño de Counter el mismo, tiene dashes buenos asi que es facil hacer Perfect Dodge
 17. **Hitman**: Este estilo combina velocidad, daño y largo rango, haciendo que el jugador sea un sniper con sus jabs, los cuales hacen bastante daño, puedes lanzar muchos y puedes lockear gente en combos de predicciones
-18. **Kimura**: Este estilo cuenta con much
+18. **Kimura**: Este estilo cuenta con stats promedio, y la particularidad 
 19. **Ippo**: Este estilo combina velocidad, daño y habilidades de control de distancia, haciendo que el jugador sea capaz de esquivar y atacar al mismo tiempo. Es versátil eficaz contra diferentes tipos de oponentes.
 
 #### Errores Comunes y Cómo Corregirlos
