@@ -76,7 +76,7 @@ Creo que voy a recaer en el absurdismo y la supersaturacion
 16. **Counter**: Este estilo es muy solido, no es nada loco pero es confiable, es bastante rapido, tiene daño mejorado de Counter y toma un poco mas de daño de Counter el mismo, tiene dashes buenos asi que es facil hacer Perfect Dodge
 17. **Hitman**: Este estilo combina velocidad, daño y largo rango, haciendo que el jugador sea un sniper con sus jabs, los cuales hacen bastante daño, puedes lanzar muchos y puedes lockear gente en combos de predicciones
 18. **Kimura**: Este estilo cuenta con stats promedio, y la particularidad de que con varios M2, puede llegar a relentizar los dashes del oponente
-19. **Ippo**: Este estilo combina velocidad, daño, 
+19. **Ippo**: Este estilo combina velocidad, daño, durabilidad, es el Jack of all Trades, tiene los M1 con mas daño del juego, M2 alternantes, muy buenos dashes, y una g
 
 #### Errores Comunes y Cómo Corregirlos
 
