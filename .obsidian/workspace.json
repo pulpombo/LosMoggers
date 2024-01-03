@@ -20,8 +20,21 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "bf147815e3f2e4f0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Spaces/Ideas/Videos/Juegos/Roblox/Untitled Boxing Game/Primer video.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -105,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Spaces/Ideas/Videos/Juegos/Roblox/Untitled Boxing Game/Primer video.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Spaces/Ideas/Videos/Juegos/Roblox/Untitled Boxing Game/Primer video.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Spaces/Ideas/Videos/Juegos/Roblox/Untitled Boxing Game/Primer video.md"
               }
             }
           }
@@ -201,13 +214,13 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "ff90dbbf6632d5f1",
+  "active": "bf147815e3f2e4f0",
   "lastOpenFiles": [
+    "README.md",
     "Spaces/Ideas/Videos/Juegos/Roblox/Untitled Boxing Game/2023-12-25 Primer dia de trabajo del video.md",
     "Spaces/Ideas/Videos/Juegos/Roblox/Untitled Boxing Game/Primer video.md",
     "Spaces/Ideas/Videos/Juegos/Roblox/Untitled Boxing Game/Untitled Boxing Game.md",
     "Spaces/Ideas/Videos/Juegos/Roblox/Combat warriors/Primer video.md",
-    "README.md",
     "Spaces/Media/Media - Links/Free .psd resources.md",
     "Spaces/Media/Media - Links/Media - Links.md",
     "Spaces/Ideas/Videos/Juegos/Roblox/Combat warriors/Combat warriors.md",
