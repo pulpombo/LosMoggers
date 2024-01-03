@@ -55,6 +55,17 @@ Creo que voy a recaer en el absurdismo y la supersaturacion
 
 "Antes de adentrarnos en los diferentes estilos de boxeo, es fundamental comprender las mecánicas básicas del juego, como el movimiento, los ataques y la defensa. Dominar estos aspectos es esencial para mejorar en 'Untitled Boxing Game'."
 
+1. **Movimiento**: Los jugadores pueden moverse utilizando las teclas W, A, S y D. El movimiento es crucial para eludir ataques y posicionarse correctamente para atacar a los oponentes, ademas se cuentan con Dashes, los cuales son movimientos rapidos, que consumen fatiga y sirven para esquivar normalmente, moverse o hacer Perfect Dodge, el perfect dodge es un estado en el cual despues de que esquivar hacia adentro del ataque de un oponente, y terminar en su punto ciego, la pantalla pierde su color y todo se vuelve lento por uno o dos segundos, para un M2, M1 o Ultimate gratis.
+    
+2. **Ataque**: Los jugadores pueden atacar a sus oponentes utilizando el botón izquierdo del mouse o el derecho, el botón izquierdo tira Jabs, los cuales pueden cambiar de estilo a estilo pero siguen las líneas de que son rápidos y útiles para ejercer presión, además de que su daño no es permanente y puede ser regenerado dentro de los confines de la vida oscura. El derecho, tira ataques fuertes, que causan daño permanente, pero se les puede hacer Perfect Dodge
+    
+3. **Defensa**: Los jugadores pueden bloquear los ataques de sus oponentes usando la F, y la durabilidad de la defensa depende del estilo, obtienes un bonus de dinero segun cuantos golpes bloqueas
+    
+4. **Habilidades especiales**: Algunos estilos de lucha tienen habilidades especiales que pueden ser activadas durante el combate. Estas habilidades pueden incluir bonuses de daño, aumento de la velocidad de ataque, reducción de la fatiga, entre otros. Las habilidades especiales suelen estar disponibles en los menús de pelea o de estilo, y pueden ser activadas durante el combate
+    
+5. **Fatiga**: Los jugadores experimentan fatiga al usar habilidades especiales y realizar ataques combinados. La fatiga se recarga automáticamente con el tiempo, y los jugadores pueden usar habilidades especiales y ataques combinados mientras la fatiga está completa o casi completa
+6. **Estilos de lucha**: Los jugadores pueden elegir diferentes estilos de lucha para mejorar sus habilidades en el combate. Cada estilo de lucha tiene sus propias características y ventajas, y los jugadores pueden practicar y mejorar sus habilidades en diferentes estilos para adaptarse a sus oponentes y situaciones específicas
+
 #### Estilos de Boxeo
 
 "A continuación, vamos a explorar cada uno de los 19 estilos de boxeo presentes en el juego, desde el 'Basic' hasta el 'Hitman'. Analizaremos las características distintivas de cada estilo y cómo se relacionan con los personajes de 'Hajime No Ippo'."
