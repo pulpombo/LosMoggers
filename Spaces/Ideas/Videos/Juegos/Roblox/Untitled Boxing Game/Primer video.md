@@ -73,7 +73,7 @@ Creo que voy a recaer en el absurdismo y la supersaturacion
 13. **Trickster**: Este estilo tiene una particularidad, sus dashes son instantaneos pero recorrern poca distancia, es bastante impredecible y tiene stats promedio
 14. **Long Guard**: Este estilo tiene una alto rango, velocidad pero poco daño de M1, ademas de su movilidad mediocre, pero es una version mas facil de conseguir de Hitman
 15. **Slugger**: Este estilo es LENTO, pero fuerte, es del mismo estilo que Iron Fist o Smash, pero puede cargar su M2, lo cual lo vuelve bastante impredecible, puede tener un Damage Output muy grande pero tiene malos dashes, guardia y estamina 
-16. **Counter**: Este estilo
+16. **Counter**: Este estilo es muy solido, no es nada loco pero es confiable, es bastante rapido, tiene daño mejorado de Counter y toma un poco mas de daño de Counter el mismo, tiene dashes buenos, daño normal, velocidad buena 
 17. **Hitman**: Este estilo combina velocidad, daño y habilidades de control de distancia, haciendo que el jugador sea capaz de esquivar y atacar al mismo tiempo. Es versátil eficaz contra diferentes tipos de oponentes.
 18. **Kimura**: Este estilo combina velocidad, daño y habilidades de control de distancia, haciendo que el jugador sea capaz de esquivar y atacar al mismo tiempo. Es versátil eficaz contra diferentes tipos de oponentes.
 19. **Ippo**: Este estilo combina velocidad, daño y habilidades de control de distancia, haciendo que el jugador sea capaz de esquivar y atacar al mismo tiempo. Es versátil eficaz contra diferentes tipos de oponentes.
