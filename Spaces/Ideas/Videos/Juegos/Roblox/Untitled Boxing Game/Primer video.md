@@ -72,7 +72,7 @@ Creo que voy a recaer en el absurdismo y la supersaturacion
 12. **Wolf**: Este estilo es rápido, fuerte, con vida normal y ademas tiene un M2 especial, el cual se divide en dos partes, la primera mas lenta y la segunda mas rapida y con daño agregado a la guardia del oponente pero que tiene mas endlag. Es un buen estilo para contraer a cualquier oponente.
 13. **Trickster**: Este estilo tiene una particularidad, sus dashes son instantaneos pero recorrern poca distancia, es bastante impredecible y tiene stats promedio
 14. **Long Guard**: Este estilo tiene una alto rango, velocidad pero poco daño de M1, ademas de su movilidad mediocre, pero es una version mas facil de conseguir de Hitman
-15. **Slugger**: Este estilo combina velocidad, daño y habilidades de control de distancia, haciendo que el jugador sea capaz de esquivar y atacar al mismo tiempo. Es versátil eficaz contra diferentes tipos de oponentes.
+15. **Slugger**: Este estilo es LENTO, pero fuerte, es del mismo estilo que Iron Fist o Smash, pero puede cargar su M2
 16. **Counter**: Este estilo se centra en bloquear y contraer a oponentes, con habilidades de movilidad y daño mejoradas. Es un buen estilo para contraer a oponentes con habilidades rápidas y de alto daño.
 17. **Hitman**: Este estilo combina velocidad, daño y habilidades de control de distancia, haciendo que el jugador sea capaz de esquivar y atacar al mismo tiempo. Es versátil eficaz contra diferentes tipos de oponentes.
 18. **Kimura**: Este estilo combina velocidad, daño y habilidades de control de distancia, haciendo que el jugador sea capaz de esquivar y atacar al mismo tiempo. Es versátil eficaz contra diferentes tipos de oponentes.
