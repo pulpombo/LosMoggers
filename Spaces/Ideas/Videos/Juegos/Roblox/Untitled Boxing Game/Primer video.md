@@ -61,7 +61,7 @@ Creo que voy a recaer en el absurdismo y la supersaturacion
 1. **Basic**: Estilo básico y fácil de aprender, ideal para principiantes. No tiene habilidades especiales, pero es una buena opción para familiarizarse con el juego. Además tiene un gran damage Output para romper guardias fácilmente
 2. **Corkscrew**: Con lenta movilidad y velocidad de boxeo, pero con mucha vida y daño. Es un estilo fuerte y con una regeneración aumentada, perfecto para tanquear ataques y capitalizar la baja estamina del oponente.
 3. **Ghost**: Este estilo es rápido y de alto daño, con buena durabilidad. Es excelente en todo sentido, aunque sus jabs son un poco mas debiles a cambio de tener un jab instantánea el cual se usa con la tecla R, y tiene un cooldown corto.
-4. **Shotgun**: A pesar de su lento movimiento y baja movilidad, inflige un gran daño y tiene una vida más larga que la mayoría de los estilos. Es un buen contraer oponentes a distancia.
+4. **Shotgun**: Ademas de su muy rapidas animacion, inflige un gran daño y tiene una . Es un buen .
 5. **Freedom**: Este estilo combina movilidad y daño, haciendo que el jugador sea capaz de esquivar y atacar al mismo tiempo. Es versátil y eficaz contra diferentes tipos de oponentes.
 6. **Hands Low**: Con movilidad y defensa mejorados, es un estilo sólido y dependable. Es bueno para bloquear y contraer a oponentes con habilidades rápidas y de alto daño.
 7. **Hawk**: Este estilo combina velocidad, daño y movilidad, haciendo que el jugador sea capaz de esquivar y atacar con facilidad. Es excelente para contraer a oponentes rápidos y de baja vida.
