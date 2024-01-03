@@ -62,7 +62,7 @@ Creo que voy a recaer en el absurdismo y la supersaturacion
    
 4. **Habilidades especiales**: Algunos estilos de lucha tienen habilidades especiales que pueden ser activadas durante el combate. Estas habilidades pueden incluir bonuses de daño, aumento de la velocidad de ataque, reducción de la fatiga, entre otros. Las habilidades especiales suelen estar disponibles en los menús de pelea o de estilo, y pueden ser activadas durante el combate
    
-5. **Fatiga**: Los jugadores experimentan fatiga al usar habilidades especiales y realizar ataques combinados. La fatiga se recarga automáticamente con el tiempo, y los jugadores pueden usar habilidades especiales y ataques combinados mientras la fatiga está completa o casi completa. Cuando se acaba la fatiga, el usuario queda cansado e inutil por uno o dos seg
+5. **Fatiga**: Los jugadores experimentan fatiga al usar habilidades especiales y realizar ataques combinados. La fatiga se recarga automáticamente con el tiempo, y los jugadores pueden usar habilidades especiales y ataques combinados mientras la fatiga está completa o casi completa. Cuando se acaba la fatiga, el usuario queda cansado e inutil por uno o dos segundos sin posibilidad de defenderse, es un poco mas corto que el Perfect Dodge
    
 6. **Estilos de lucha**: Los jugadores pueden elegir diferentes estilos de lucha para mejorar sus habilidades en el combate. Cada estilo de lucha tiene sus propias características y ventajas, y los jugadores pueden practicar y mejorar sus habilidades en diferentes estilos para adaptarse a sus oponentes y situaciones específicas
 
