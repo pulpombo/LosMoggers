@@ -52,7 +52,6 @@ Creo que voy a recaer en el absurdismo y la supersaturacion
 "¡Hola a todos los jugadores de Roblox! En el día de hoy, vamos a sumergirnos en el apasionante mundo de 'Untitled Boxing Game'. Este juego ofrece una amplia variedad de estilos de boxeo inspirados en los personajes de 'Hajime No Ippo', lo que lo hace emocionante y desafiante a la vez."
 
 #### Mecánicas Básicas
-
 "Antes de adentrarnos en los diferentes estilos de boxeo, es fundamental comprender las mecánicas básicas del juego, como el movimiento, los ataques y la defensa. Dominar estos aspectos es esencial para mejorar en 'Untitled Boxing Game'."
 
 1. **Movimiento**: Los jugadores pueden moverse utilizando las teclas W, A, S y D. El movimiento es crucial para eludir ataques y posicionarse correctamente para atacar a los oponentes, ademas se cuentan con Dashes, los cuales son movimientos rapidos, que consumen fatiga y sirven para esquivar normalmente, moverse o hacer Perfect Dodge, el perfect dodge es un estado en el cual despues de que esquivar hacia adentro del ataque de un oponente, y terminar en su punto ciego, la pantalla pierde su color y todo se vuelve lento por uno o dos segundos, para un M2, M1 o Ultimate gratis.
@@ -68,7 +67,6 @@ Creo que voy a recaer en el absurdismo y la supersaturacion
 6. **Estilos de lucha**: Los jugadores pueden elegir diferentes estilos de lucha para mejorar sus habilidades en el combate. Cada estilo de lucha tiene sus propias características y ventajas, y los jugadores pueden practicar y mejorar sus habilidades en diferentes estilos para adaptarse a sus oponentes y situaciones específicas
 
 #### Estilos de Boxeo
-
 "A continuación, vamos a explorar cada uno de los 19 estilos de boxeo presentes en el juego, desde el 'Basic' hasta el 'Hitman'. Analizaremos las características distintivas de cada estilo y cómo se relacionan con los personajes de 'Hajime No Ippo'."
 
 1. **Basic**: Estilo básico y fácil de aprender, ideal para principiantes. No tiene habilidades especiales, pero es una buena opción para familiarizarse con el juego. Además tiene un gran damage Output para romper guardias fácilmente
@@ -84,17 +82,29 @@ Creo que voy a recaer en el absurdismo y la supersaturacion
 6. **Hands Low**: Con movilidad y daño de counter mejorados, es un estilo sólido y difícil de predecir. Es bueno para esquivar y hacerle counter a oponentes con ataques lentos ya que tiene los mejores dashes del juego. Tambien toma mas daño de counter
    
 7. **Hawk**: Este estilo es un glass cannon con la habilidad "Sway Back" que reemplaza el dash hacia atrás con una inclinación hacia atrás la cual garantiza un perfect dodge con cualquier golpe pero es mas difícil de conseguir dicho perfect dodge, tiene un mal dash, mala guardia y toma mucho daño de counter
+   
 8. **Turtle**: A pesar de su lenta velocidad y movilidad, tiene una alta vida y daño. Es un buen estilo para bloquear y conseguir la Ultimate rapidamente sin tanto riesgo.
+   
 9. **Smash**: Este estilo es duro y de alto daño, pero con baja movilidad. Es un buen estilo para contraer a oponentes rápidos y rompe la guardia muy facilmente, pues hace daño extra a la guardia, y es difícil de hacerle Perfect Dodge
+   
 10. **Bullet**: Este estilo se basa completamente en predicciones, mucho. Es un buen estilo para contraer a oponentes lentos o predecibles, lo que lo caracteriza es que tiene un M1 especial, el cual, después del primer M1, activa los Gun Jabs, los cuales son muy rapidos pero hacen poco daño y se activan cuando el oponente usa un dash, el daño que tiene es aumentado cuando realizas un counter, y el M2 hace MUCHO mas daño si se realiza un counter.
+    
 11. **Iron Fist**: Este estilo tiene una vida media y daño exagerado, pero con lenta velocidad y movilidad. Es un buen estilo para contraer a oponentes de rapidos y de poca vida, pero puede ser difícil de dominar debido a su lenta velocidad. Hace tanto daño, que no se lo reserva solo al oponente, cada M2 hace daño al usuario que lo esta usando, pero el daño es GIGANTE, su Ultimate y Damage Output es el mas alto del juego POR LEJOS pero viene al costo de que se hace daño a si mismo
+    
 12. **Wolf**: Este estilo es rápido, fuerte, con vida normal y ademas tiene un M2 especial, el cual se divide en dos partes, la primera mas lenta y la segunda mas rapida y con daño agregado a la guardia del oponente pero que tiene mas endlag. Es un buen estilo para contraer a cualquier oponente.
+    
 13. **Trickster**: Este estilo tiene una particularidad, sus dashes son instantáneos pero recorrern poca distancia, es bastante impredecible y tiene stats promedio
+    
 14. **Long Guard**: Este estilo tiene una alto rango, velocidad pero poco daño de M1, además de su movilidad mediocre, pero es una versión mas fácil de conseguir de Hitman
+    
 15. **Slugger**: Este estilo es LENTO, pero fuerte, es del mismo estilo que Iron Fist o Smash, pero puede cargar su M2, lo cual lo vuelve bastante impredecible, puede tener un Damage Output muy grande pero tiene malos dashes, guardia y estamina 
+    
 16. **Counter**: Este estilo es muy solido, no es nada loco pero es confiable, es bastante rapido, tiene daño mejorado de Counter y toma un poco mas de daño de Counter el mismo, tiene dashes buenos así que es facil hacer Perfect Dodge
+    
 17. **Hitman**: Este estilo combina velocidad, daño y largo rango, haciendo que el jugador sea un sniper con sus jabs, los cuales hacen bastante daño, puedes lanzar muchos y puedes lockear gente en combos de predicciones
+    
 18. **Kimura**: Este estilo cuenta con stats promedio, y la particularidad de que con varios M2, puede llegar a ralentizar los dashes del oponente
+    
 19. **Ippo**: Este estilo combina velocidad, daño, durabilidad, es el Jack of all Trades, tiene los M1 con mas daño del juego, M2 alternantes, muy buenos dashes, y una guardia muy buena, además de una Ultimate con un daño aumentado
 
 #### Errores Comunes y Cómo Corregirlos
