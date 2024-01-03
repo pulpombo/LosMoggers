@@ -69,43 +69,25 @@ Creo que voy a recaer en el absurdismo y la supersaturacion
 #### Estilos de Boxeo
 "A continuación, vamos a explorar cada uno de los 19 estilos de boxeo presentes en el juego, desde el 'Basic' hasta el 'Hitman'. Analizaremos las características distintivas de cada estilo y cómo se relacionan con los personajes de 'Hajime No Ippo'."
 
-1. **Basic**: Estilo básico y fácil de aprender, ideal para principiantes. No tiene habilidades especiales, pero es una buena opción para familiarizarse con el juego. Además tiene un gran damage Output para romper guardias fácilmente
-   
-2. **Corkscrew**: Con lenta movilidad y velocidad de boxeo, pero con mucha vida y daño. Es un estilo fuerte y con una regeneración aumentada, perfecto para tanquear ataques y capitalizar la baja estamina del oponente.
-   
-3. **Ghost**: Este estilo es rápido y de alto daño, con buena durabilidad. Es excelente en todo sentido, aunque sus jabs son un poco mas débiles a cambio de tener un jab instantánea el cual se usa con la tecla R, y tiene un cooldown corto.
-   
-4. **Shotgun**: Además de su muy rápida velocidad de golpes, inflige un gran daño y tiene una habilidad especial, la cual es su "Shotgun" con un cooldown semilargo la cual es una ráfaga de golpes que rompen fácilmente la guardia del oponente y hace daño permanente como un M2. Es un buen counter a estilos con mucho daño y poca guardia si es usado correctamente.
-   
-5. **Freedom**: Este estilo combina movilidad y daño, haciendo que el jugador sea capaz de elegir un estado entre: "WhirlWind", "Smash" y "Hitman". Whirlwind es el estilo nato de Freedom, es muy rápido en todo sentido, de los mas rápidos y con walkspeed mas alta. Smash es una versión del estilo Smash que puede usar el golpe que lo caracteriza pero de los dos lados y Hitman al igual que Smash, es como una copia del estilo Hitman pero con peor movimiento. Es versátil y eficaz contra diferentes tipos de oponentes. Pero con una clara debilidad, la cual es una vida mas pequeña.
-   
-6. **Hands Low**: Con movilidad y daño de counter mejorados, es un estilo sólido y difícil de predecir. Es bueno para esquivar y hacerle counter a oponentes con ataques lentos ya que tiene los mejores dashes del juego. Tambien toma mas daño de counter
-   
-7. **Hawk**: Este estilo es un glass cannon con la habilidad "Sway Back" que reemplaza el dash hacia atrás con una inclinación hacia atrás la cual garantiza un perfect dodge con cualquier golpe pero es mas difícil de conseguir dicho perfect dodge, tiene un mal dash, mala guardia y toma mucho daño de counter
-   
-8. **Turtle**: A pesar de su lenta velocidad y movilidad, tiene una alta vida y daño. Es un buen estilo para bloquear y conseguir la Ultimate rapidamente sin tanto riesgo.
-   
-9. **Smash**: Este estilo es duro y de alto daño, pero con baja movilidad. Es un buen estilo para contraer a oponentes rápidos y rompe la guardia muy facilmente, pues hace daño extra a la guardia, y es difícil de hacerle Perfect Dodge
-   
-10. **Bullet**: Este estilo se basa completamente en predicciones, mucho. Es un buen estilo para contraer a oponentes lentos o predecibles, lo que lo caracteriza es que tiene un M1 especial, el cual, después del primer M1, activa los Gun Jabs, los cuales son muy rapidos pero hacen poco daño y se activan cuando el oponente usa un dash, el daño que tiene es aumentado cuando realizas un counter, y el M2 hace MUCHO mas daño si se realiza un counter.
-
-11. **Iron Fist**: Este estilo tiene una vida media y daño exagerado, pero con lenta velocidad y movilidad. Es un buen estilo para contraer a oponentes de rapidos y de poca vida, pero puede ser difícil de dominar debido a su lenta velocidad. Hace tanto daño, que no se lo reserva solo al oponente, cada M2 hace daño al usuario que lo esta usando, pero el daño es GIGANTE, su Ultimate y Damage Output es el mas alto del juego POR LEJOS pero viene al costo de que se hace daño a si mismo
-
-12. **Wolf**: Este estilo es rápido, fuerte, con vida normal y ademas tiene un M2 especial, el cual se divide en dos partes, la primera mas lenta y la segunda mas rapida y con daño agregado a la guardia del oponente pero que tiene mas endlag. Es un buen estilo para contraer a cualquier oponente.
-
-13. **Trickster**: Este estilo tiene una particularidad, sus dashes son instantáneos pero recorrern poca distancia, es bastante impredecible y tiene stats promedio
-
-14. **Long Guard**: Este estilo tiene una alto rango, velocidad pero poco daño de M1, además de su movilidad mediocre, pero es una versión mas fácil de conseguir de Hitman
-
-15. **Slugger**: Este estilo es LENTO, pero fuerte, es del mismo estilo que Iron Fist o Smash, pero puede cargar su M2, lo cual lo vuelve bastante impredecible, puede tener un Damage Output muy grande pero tiene malos dashes, guardia y estamina 
-
-16. **Counter**: Este estilo es muy solido, no es nada loco pero es confiable, es bastante rapido, tiene daño mejorado de Counter y toma un poco mas de daño de Counter el mismo, tiene dashes buenos así que es facil hacer Perfect Dodge
-
-17. **Hitman**: Este estilo combina velocidad, daño y largo rango, haciendo que el jugador sea un sniper con sus jabs, los cuales hacen bastante daño, puedes lanzar muchos y puedes lockear gente en combos de predicciones
-
-18. **Kimura**: Este estilo cuenta con stats promedio, y la particularidad de que con varios M2, puede llegar a ralentizar los dashes del oponente
-
-19. **Ippo**: Este estilo combina velocidad, daño, durabilidad, es el Jack of all Trades, tiene los M1 con mas daño del juego, M2 alternantes, muy buenos dashes, y una guardia muy buena, además de una Ultimate con un daño aumentado
+- **Básico**: Estilo sencillo ideal para principiantes. Provee una base sólida para familiarizarse con el juego. Cuenta con buen daño para romper guardias fácilmente.
+- **Corkscrew**: Con movilidad y velocidad de golpeo lentas, pero mucha vida y daño. Estilo fuerte para tanquear golpes y capitalizar la baja resistencia del oponente. Excelente regeneración.
+- **Ghost**: Rápido y de alto daño. Muy buena durabilidad. Sus jabs instantáneos con la tecla R permiten combos veloces. Versátil y efectivo contra distintos oponentes.
+- **Shotgun**: Velocidad de golpeo muy alta y gran daño. Habilidad especial de ráfaga de golpes que quiebra fácilmente la guardia y causa daño permanente. Buen counter a estilos lentos y con poca defensa.
+- **Freedom**: Combina movilidad y daño. Permite elegir entre 3 estados: Whirlwind de alta velocidad, Smash de daño elevado y Hitman de largo alcance. Debilidad: menor vida.
+- **Hands Low**: Movilidad y daño de counter mejorados. Difícil de predecir y bueno para esquivar y counterear. El mejor dash del juego. Mayor daño recibido de counters.
+- **Hawk**: Glass cannon con técnica Sway Back para esquivar golpes. Mal dash y guardia, recibe mucho daño de counters. Alto riesgo, alta recompensa.
+- **Turtle**: Lento pero con mucha vida y daño. Bloquea bien y obtiene Ultimate rápido y seguro.
+- **Smash**: Duro y de gran daño, pero lento. Contraresta oponentes rápidos. Rompe guardias con facilidad.
+- **Bullet**: Depende de predicciones. Bueno contra oponentes lentos y predecibles. M1 especial dispara ráfagas tras el primer golpe. Mucho daño de counters.
+- **Iron Fist**: Vida media y daño extremo, pero lento. Devastador contra oponentes rápidos y de poca vida. Se autolesiona con sus poderosos golpes.
+- **Wolf**: Rápido, fuerte y de vida normal. M2 de dos partes: lento al principio, luego rápido con daño extra a la guardia. Sólido contra cualquier oponente.
+- **Trickster**: Dashes instantáneos pero cortos. Altamente impredecible. Stats promedio.
+- **Long Guard**: Largo alcance y velocidad pero bajo daño de M1. Versión más accesible de Hitman.
+- **Slugger**: Muy lento pero fuerte. Puede cargar su M2 para imprevisibilidad. Alto daño potencial a costa de mala movilidad y resistencia.
+- **Counter**: Sólido y confiable. Rápido con buenos dashes para esquivar. Daño de counter mejorado pero recibe más.
+- **Hitman**: Velocidad, daño y largo alcance. Sniper con jabs fuertes para locks y combos de predicción.
+- **Kimura**: Stats promedio. Puede ralentizar dashes del oponente con múltiples M2.
+- **Ippo**: Velocidad, daño y durabilidad. M1 con mayor daño del juego y M2 alternantes. Ideal en todo aspecto
 
 #### Errores Comunes y Cómo Corregirlos
 
