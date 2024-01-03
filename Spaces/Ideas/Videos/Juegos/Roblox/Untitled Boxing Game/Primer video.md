@@ -88,23 +88,23 @@ Creo que voy a recaer en el absurdismo y la supersaturacion
 9. **Smash**: Este estilo es duro y de alto daño, pero con baja movilidad. Es un buen estilo para contraer a oponentes rápidos y rompe la guardia muy facilmente, pues hace daño extra a la guardia, y es difícil de hacerle Perfect Dodge
    
 10. **Bullet**: Este estilo se basa completamente en predicciones, mucho. Es un buen estilo para contraer a oponentes lentos o predecibles, lo que lo caracteriza es que tiene un M1 especial, el cual, después del primer M1, activa los Gun Jabs, los cuales son muy rapidos pero hacen poco daño y se activan cuando el oponente usa un dash, el daño que tiene es aumentado cuando realizas un counter, y el M2 hace MUCHO mas daño si se realiza un counter.
-    
+
 11. **Iron Fist**: Este estilo tiene una vida media y daño exagerado, pero con lenta velocidad y movilidad. Es un buen estilo para contraer a oponentes de rapidos y de poca vida, pero puede ser difícil de dominar debido a su lenta velocidad. Hace tanto daño, que no se lo reserva solo al oponente, cada M2 hace daño al usuario que lo esta usando, pero el daño es GIGANTE, su Ultimate y Damage Output es el mas alto del juego POR LEJOS pero viene al costo de que se hace daño a si mismo
-    
+
 12. **Wolf**: Este estilo es rápido, fuerte, con vida normal y ademas tiene un M2 especial, el cual se divide en dos partes, la primera mas lenta y la segunda mas rapida y con daño agregado a la guardia del oponente pero que tiene mas endlag. Es un buen estilo para contraer a cualquier oponente.
-    
+
 13. **Trickster**: Este estilo tiene una particularidad, sus dashes son instantáneos pero recorrern poca distancia, es bastante impredecible y tiene stats promedio
-    
+
 14. **Long Guard**: Este estilo tiene una alto rango, velocidad pero poco daño de M1, además de su movilidad mediocre, pero es una versión mas fácil de conseguir de Hitman
-    
+
 15. **Slugger**: Este estilo es LENTO, pero fuerte, es del mismo estilo que Iron Fist o Smash, pero puede cargar su M2, lo cual lo vuelve bastante impredecible, puede tener un Damage Output muy grande pero tiene malos dashes, guardia y estamina 
-    
+
 16. **Counter**: Este estilo es muy solido, no es nada loco pero es confiable, es bastante rapido, tiene daño mejorado de Counter y toma un poco mas de daño de Counter el mismo, tiene dashes buenos así que es facil hacer Perfect Dodge
-    
+
 17. **Hitman**: Este estilo combina velocidad, daño y largo rango, haciendo que el jugador sea un sniper con sus jabs, los cuales hacen bastante daño, puedes lanzar muchos y puedes lockear gente en combos de predicciones
-    
+
 18. **Kimura**: Este estilo cuenta con stats promedio, y la particularidad de que con varios M2, puede llegar a ralentizar los dashes del oponente
-    
+
 19. **Ippo**: Este estilo combina velocidad, daño, durabilidad, es el Jack of all Trades, tiene los M1 con mas daño del juego, M2 alternantes, muy buenos dashes, y una guardia muy buena, además de una Ultimate con un daño aumentado
 
 #### Errores Comunes y Cómo Corregirlos
