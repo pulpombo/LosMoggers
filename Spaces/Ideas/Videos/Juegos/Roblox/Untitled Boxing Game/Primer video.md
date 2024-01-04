@@ -93,7 +93,7 @@ and it's about boxing
 - ***Ippo**: Velocidad, daño y durabilidad. M1 con mayor daño del juego y M2 alternantes. Ideal en todo aspecto*
 
 
-Los **Outboxers** bailan alrededor del ring como snipers, usando su velocidad y largo alcance para picotear a sus oponentes. Estilos como Freedom, Hands Low, Bullet, Long Guard y Hitman te reici. 
+Los **Outboxers** bailan alrededor del ring como snipers, usando su velocidad y largo alcance para picotear a sus oponentes. Estilos como Freedom, Hands Low, Bullet, Long Guard y Hitman te reinician el cerebro incluso con una orden de restriccion. 
 
 Los **Inboxers** se meten en la trinchera como tanques de guerra, esquivando golpes mientras buscan la oportunidad para hacer explotar su poderoso arsenal. Wolf, Turtle, Smash e Ippo encajan en este molde.
 
