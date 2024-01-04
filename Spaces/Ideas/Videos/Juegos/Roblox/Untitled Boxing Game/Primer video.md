@@ -47,9 +47,12 @@ Pero lo mio no son los colores brillantes para nada, mi estetica favorita es bas
 Creo que voy a recaer en el absurdismo y la supersaturacion 
 
 ### Script
-#### Introducción**
+#### **Introducción**
 
-"¡Hola a todos los jugadores de Roblox! En el día de hoy, vamos a sumergirnos en el apasionante mundo de 'Untitled Boxing Game'. Este juego ofrece una amplia variedad de estilos de boxeo inspirados en los personajes de 'Hajime No Ippo', lo que lo hace emocionante y desafiante a la vez."
+Sup
+Sooo, today we are gonna discuss how to get better at untitled boxing game, it's a roblox game
+it's on roblox
+and it's about boxing
 
 #### **Mecánicas Básicas**
 "Antes de adentrarnos en los diferentes estilos de boxeo, es fundamental comprender las mecánicas básicas del juego, como el movimiento, los ataques y la defensa. Dominar estos aspectos es esencial para mejorar en 'Untitled Boxing Game'."
