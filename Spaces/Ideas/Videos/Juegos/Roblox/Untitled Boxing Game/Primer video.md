@@ -69,7 +69,7 @@ and it's about boxing
    
 6. **Estilos de lucha**: Los jugadores pueden elegir diferentes estilos de lucha para mejorar sus habilidades en el combate. Cada estilo de lucha tiene sus propias características y ventajas, y los jugadores pueden practicar y mejorar sus habilidades en diferentes estilos para adaptarse a sus oponentes y situaciones específicas
    
-#### Estilos de Boxeo
+#### **Estilos de Boxeo**
 "A continuación, vamos a explorar cada uno de los 19 estilos de boxeo presentes en el juego, desde el 'Basic' hasta el 'Hitman'. Analizaremos las características distintivas de cada estilo y cómo se relacionan con los personajes de 'Hajime No Ippo'."
 
 - ***Básico**: Estilo sencillo ideal para principiantes. Provee una base sólida para familiarizarse con el juego. Cuenta con buen daño para romper guardias fácilmente.*
@@ -93,8 +93,6 @@ and it's about boxing
 - ***Ippo**: Velocidad, daño y durabilidad. M1 con mayor daño del juego y M2 alternantes. Ideal en todo aspecto*
 
 
-Aquí está un resumen creativo de los estilos de boxeo:
-
 Los **Outboxers** bailan alrededor del ring como mariposas, usando su velocidad y largo alcance para picotear a sus oponentes. Estilos como Freedom, Hands Low, Bullet, Long Guard y Hitman entran en esta categoría. 
 
 Los **Inboxers** se meten en la trinchera como tanques de guerra, absorbiendo golpes mientras buscan la oportunidad para hacer explotar su poderoso arsenal. Wolf, Turtle, Smash e Ippo encajan en este molde.
@@ -110,14 +108,14 @@ Finalmente están los devastadores **Sluggers** que atacan como bestias salvajes
 "Luego, abordaremos los errores comunes que suelen cometer los nuevos jugadores y proporcionaremos consejos para corregirlos. Es fundamental superar estas dificultades iniciales para progresar en el juego de manera efectiva."
 
 
-#### Errores Comunes en Cada Estilo y Cómo Corregirlos
+#### **Errores Comunes en Cada Estilo y Cómo Corregirlos**
 
 "Posteriormente, nos enfocaremos en los errores específicos asociados con cada estilo de boxeo y brindaremos estrategias para superarlos. Comprender las debilidades y fortalezas de cada estilo es clave para perfeccionar nuestras habilidades."
 
-#### Tips y Trucos para Enfrentar Cada Estilo
+#### **Tips y Trucos para Enfrentar Cada Estilo**
 
 "Además, compartiremos valiosos consejos y trucos que te serán de gran utilidad al enfrentarte a cada estilo de boxeo. Estar preparado para los diferentes desafíos que presentan tus oponentes es esencial para alcanzar la victoria."
 
-#### Outro
+#### **Outro**
 
 "Para concluir, espero que esta guía te haya proporcionado una visión más clara de cómo mejorar en 'Untitled Boxing Game'. Recuerda que la práctica constante y la paciencia son fundamentales para perfeccionar tus habilidades. ¡Nos vemos en el próximo video!"Recuerda adaptar el lenguaje y el contenido a tu estilo personal, y no dudes en incluir ejemplos o anécdotas para hacer el video más entretenido y didáctico. ¡Buena suerte con tu video!
