@@ -47,11 +47,11 @@ Pero lo mio no son los colores brillantes para nada, mi estetica favorita es bas
 Creo que voy a recaer en el absurdismo y la supersaturacion 
 
 ### Script
-#### Introducción
+#### Introducción**
 
 "¡Hola a todos los jugadores de Roblox! En el día de hoy, vamos a sumergirnos en el apasionante mundo de 'Untitled Boxing Game'. Este juego ofrece una amplia variedad de estilos de boxeo inspirados en los personajes de 'Hajime No Ippo', lo que lo hace emocionante y desafiante a la vez."
 
-#### Mecánicas Básicas
+#### **Mecánicas Básicas**
 "Antes de adentrarnos en los diferentes estilos de boxeo, es fundamental comprender las mecánicas básicas del juego, como el movimiento, los ataques y la defensa. Dominar estos aspectos es esencial para mejorar en 'Untitled Boxing Game'."
 
 1. **Movimiento**: Los jugadores pueden moverse utilizando las teclas W, A, S y D. El movimiento es crucial para eludir ataques y posicionarse correctamente para atacar a los oponentes, ademas se cuentan con Dashes, los cuales son movimientos rapidos, que consumen fatiga y sirven para esquivar normalmente, moverse o hacer Perfect Dodge, el perfect dodge es un estado en el cual despues de que esquivar hacia adentro del ataque de un oponente, y terminar en su punto ciego, la pantalla pierde su color y todo se vuelve lento por uno o dos segundos, para un M2, M1 o Ultimate gratis.
@@ -65,7 +65,7 @@ Creo que voy a recaer en el absurdismo y la supersaturacion
 5. **Fatiga**: Los jugadores experimentan fatiga al usar habilidades especiales y realizar ataques combinados. La fatiga se recarga automáticamente con el tiempo, y los jugadores pueden usar habilidades especiales y ataques combinados mientras la fatiga está completa o casi completa. Cuando se acaba la fatiga, el usuario queda cansado e inutil por uno o dos segundos sin posibilidad de defenderse, es un poco mas corto que el Perfect Dodge
    
 6. **Estilos de lucha**: Los jugadores pueden elegir diferentes estilos de lucha para mejorar sus habilidades en el combate. Cada estilo de lucha tiene sus propias características y ventajas, y los jugadores pueden practicar y mejorar sus habilidades en diferentes estilos para adaptarse a sus oponentes y situaciones específicas
-
+   
 #### Estilos de Boxeo
 "A continuación, vamos a explorar cada uno de los 19 estilos de boxeo presentes en el juego, desde el 'Basic' hasta el 'Hitman'. Analizaremos las características distintivas de cada estilo y cómo se relacionan con los personajes de 'Hajime No Ippo'."
 
@@ -102,7 +102,7 @@ Los **Luchadores a Presión** acorralan a sus rivales como rinocerontes enfureci
 
 Finalmente están los devastadores **Sluggers** que atacan como bestias salvajes, buscando noquear de un golpe a sus oponentes. Obviamente Slugger, Smash e Iron Fist encarnan este estilo agresivo.
 
-#### Errores Comunes y Cómo Corregirlos
+#### **Errores Comunes y Cómo Corregirlos**
 
 "Luego, abordaremos los errores comunes que suelen cometer los nuevos jugadores y proporcionaremos consejos para corregirlos. Es fundamental superar estas dificultades iniciales para progresar en el juego de manera efectiva."
 
