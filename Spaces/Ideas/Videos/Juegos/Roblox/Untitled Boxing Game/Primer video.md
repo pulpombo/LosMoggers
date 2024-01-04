@@ -93,11 +93,11 @@ and it's about boxing
 - ***Ippo**: Velocidad, daño y durabilidad. M1 con mayor daño del juego y M2 alternantes. Ideal en todo aspecto*
 
 
-Los **Outboxers** bailan alrededor del ring como mariposas, usando su velocidad y largo alcance para picotear a sus oponentes. Estilos como Freedom, Hands Low, Bullet, Long Guard y Hitman entran en esta categoría. 
+Los **Outboxers** bailan alrededor del ring como snipers, usando su velocidad y largo alcance para picotear a sus oponentes. Estilos como Freedom, Hands Low, Bullet, Long Guard y Hitman te reici. 
 
-Los **Inboxers** se meten en la trinchera como tanques de guerra, absorbiendo golpes mientras buscan la oportunidad para hacer explotar su poderoso arsenal. Wolf, Turtle, Smash e Ippo encajan en este molde.
+Los **Inboxers** se meten en la trinchera como tanques de guerra, esquivando golpes mientras buscan la oportunidad para hacer explotar su poderoso arsenal. Wolf, Turtle, Smash e Ippo encajan en este molde.
 
-Los **Contragolpeadores** son como cobras esperando el momento justo para morder, esquivando y castigando a sus oponentes descuidados. Counter, Bullet, Hands low y Hawk dependen de su timing. 
+Los **Contragolpeadores** son pacientes esperando el momento justo para atacar, esquivando y castigando a sus oponentes descuidados. Counter, Bullet, Hands low y Hawk dependen de su timing. 
 
 Los **Luchadores a Presión** acorralan a sus rivales como rinocerontes enfurecidos, aplicando presión implacable para quebrar sus defensas. Básico, Shotgun, Long guard y Trickster entran en esta categoría.
 
