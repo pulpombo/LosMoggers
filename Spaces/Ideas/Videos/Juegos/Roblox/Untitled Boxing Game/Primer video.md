@@ -69,9 +69,9 @@ Creo que voy a recaer en el absurdismo y la supersaturacion
 #### Estilos de Boxeo
 "A continuación, vamos a explorar cada uno de los 19 estilos de boxeo presentes en el juego, desde el 'Basic' hasta el 'Hitman'. Analizaremos las características distintivas de cada estilo y cómo se relacionan con los personajes de 'Hajime No Ippo'."
 
-- **Básico**: Estilo sencillo ideal para principiantes. Provee una base sólida para familiarizarse con el juego. Cuenta con buen daño para romper guardias fácilmente.
-- **Corkscrew**: Con movilidad y velocidad de golpeo lentas, pero mucha vida y daño. Estilo fuerte para tanquear golpes y capitalizar la baja resistencia del oponente. Excelente regeneración.
-- **Ghost**: Rápido y de alto daño. Muy buena durabilidad. Sus jabs instantáneos con la tecla R permiten combos veloces. Versátil y efectivo contra distintos oponentes.
+- ***Básico**: Estilo sencillo ideal para principiantes. Provee una base sólida para familiarizarse con el juego. Cuenta con buen daño para romper guardias fácilmente.*
+- ***Corkscrew**: Con movilidad y velocidad de golpeo lentas, pero mucha vida y daño. Estilo fuerte para tanquear golpes y capitalizar la baja resistencia del oponente. Excelente regeneración.*
+- ***Ghost**: Rápido y de alto daño. Muy buena durabilidad. Sus jabs instantáneos con la tecla R permiten combos veloces. Versátil y efectivo contra distintos oponentes.*
 - **Shotgun**: Velocidad de golpeo muy alta y gran daño. Habilidad especial de ráfaga de golpes que quiebra fácilmente la guardia y causa daño permanente. Buen counter a estilos lentos y con poca defensa.
 - **Freedom**: Combina movilidad y daño. Permite elegir entre 3 estados: Whirlwind de alta velocidad, Smash de daño elevado y Hitman de largo alcance. Debilidad: menor vida.
 - **Hands Low**: Movilidad y daño de counter mejorados. Difícil de predecir y bueno para esquivar y counterear. El mejor dash del juego. Mayor daño recibido de counters.
