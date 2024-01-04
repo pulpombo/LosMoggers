@@ -89,6 +89,19 @@ Creo que voy a recaer en el absurdismo y la supersaturacion
 - **Kimura**: Stats promedio. Puede ralentizar dashes del oponente con múltiples M2.
 - **Ippo**: Velocidad, daño y durabilidad. M1 con mayor daño del juego y M2 alternantes. Ideal en todo aspecto
 
+
+Aquí está un resumen creativo de los estilos de boxeo:
+
+Los **Outboxers** bailan alrededor del ring como mariposas, usando su velocidad y largo alcance para picotear a sus oponentes. Estilos como Freedom, Hands Low, Hawk, Bullet, Long Guard y Hitman entran en esta categoría. 
+
+Los **Inboxers** se meten en la trinchera como tanques de guerra, absorbiendo golpes mientras buscan la oportunidad para hacer explotar su poderoso arsenal. Wolf, Turtle, Smash e Ippo encajan en este molde.
+
+Los **Contragolpeadores** son como cobras esperando el momento justo para morder, esquivando y castigando a sus oponentes descuidados. Counter, Wolf y Kimura dependen de su timing. 
+
+Los **Luchadores a Presión** acorralan a sus rivales como rinocerontes enfurecidos, aplicando presión implacable para quebrar sus defensas. Básico, Shotgun, Long guard y Trickster entran en esta categoría.
+
+Finalmente están los devastadores **Sluggers** que atacan como bestias salvajes, buscando noquear de un golpe a sus oponentes. Obviamente Slugger, Smash e Iron Fist encarnan este estilo agresivo.
+
 #### Errores Comunes y Cómo Corregirlos
 
 "Luego, abordaremos los errores comunes que suelen cometer los nuevos jugadores y proporcionaremos consejos para corregirlos. Es fundamental superar estas dificultades iniciales para progresar en el juego de manera efectiva."
