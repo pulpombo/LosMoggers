@@ -4,37 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "57d3f4ad75b09798",
+        "id": "3f942faf3ecfcbfa",
         "type": "tabs",
         "children": [
           {
-            "id": "004b45af6087f0df",
+            "id": "d3b0b65d45f6edd7",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "README.md",
                 "mode": "source",
                 "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "e0950f465eb3cef5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Spaces/Ideas/Videos/Juegos/Roblox/Untitled Boxing Game/Primer video.md",
-                "mode": "source",
-                "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -118,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spaces/Ideas/Videos/Juegos/Roblox/Untitled Boxing Game/Primer video.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spaces/Ideas/Videos/Juegos/Roblox/Untitled Boxing Game/Primer video.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spaces/Ideas/Videos/Juegos/Roblox/Untitled Boxing Game/Primer video.md"
+                "file": "README.md"
               }
             }
           }
@@ -214,7 +199,7 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "e0950f465eb3cef5",
+  "active": "d3b0b65d45f6edd7",
   "lastOpenFiles": [
     "README.md",
     "Spaces/Ideas/Videos/Juegos/Roblox/Untitled Boxing Game/2023-12-25 Primer dia de trabajo del video.md",
