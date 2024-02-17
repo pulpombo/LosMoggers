@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "3f942faf3ecfcbfa",
+        "id": "845ae285c90dd59f",
         "type": "tabs",
         "children": [
           {
-            "id": "d3b0b65d45f6edd7",
+            "id": "bd542a747256a0c0",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -201,7 +201,7 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "d3b0b65d45f6edd7",
+  "active": "bd542a747256a0c0",
   "lastOpenFiles": [
     "README.md",
     "Spaces/Ideas/Videos/Juegos/Roblox/Untitled Boxing Game/2023-12-25 Primer dia de trabajo del video.md",
