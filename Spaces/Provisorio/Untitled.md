@@ -20,7 +20,7 @@
    
 6. What kind of people are you attracted to?
    
-   Am mostly 
+   Am mostly attracted to girls 
  
 7. Do you think you'll be in a relationship two months from now?
 8. Who's on your mind? Does talking about sex make you uncomfortable?
