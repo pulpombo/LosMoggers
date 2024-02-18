@@ -27,8 +27,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spaces/Videos/Organizacion/Logistica/Storage de recursos.md",
-                "mode": "source",
+                "file": "README.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spaces/Videos/Organizacion/Logistica/Storage de recursos.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spaces/Videos/Organizacion/Logistica/Storage de recursos.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spaces/Videos/Organizacion/Logistica/Storage de recursos.md"
+                "file": "README.md"
               }
             }
           }
@@ -216,9 +216,11 @@
   },
   "active": "3ea9be8b468c0b32",
   "lastOpenFiles": [
+    "Spaces/Videos/Home Page de Videos.md",
+    "Spaces/Media/Media - Imagenes/Media - Imagenes.md",
+    "Spaces/Videos/Organizacion/Logistica/Storage de recursos.md",
     "Spaces/Videos/Organizacion/Juegos/Minecraft.md",
     "README.md",
-    "Spaces/Videos/Home Page de Videos.md",
     "Spaces/Media/Media - Imagenes/cappcno/Banner de twitter.png",
     "Spaces/Media/Media - Imagenes/cappcno/Logo pequeño.png",
     "Spaces/Ideas/Videos/Juegos/Roblox/Untitled Boxing Game/2023-12-25 Primer dia de trabajo del video.md",
@@ -242,8 +244,6 @@
     "Spaces/Ideas/Videos/Juegos/Juegos.md",
     "Spaces/Ideas/Videos/Videos.md",
     "Spaces/Ideas/Ideas.md",
-    "Spaces/Reels - Tiktoks/Reels - Tiktoks.md",
-    "Spaces/Media/Media - Documentos/Media - Documentos.md",
     "Spaces/Home",
     "Spaces",
     "Spaces/Media/Media - Imagenes/cappcno",
