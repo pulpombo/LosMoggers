@@ -27,8 +27,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
-                "mode": "preview",
+                "file": "Spaces/Provisorio/Untitled.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Spaces/Provisorio/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Spaces/Provisorio/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Spaces/Provisorio/Untitled.md"
               }
             }
           }
@@ -216,11 +216,13 @@
   },
   "active": "3ea9be8b468c0b32",
   "lastOpenFiles": [
+    "Spaces/Provisorio/Untitled.md",
+    "Spaces/Provisorio/Provisorio.md",
+    "README.md",
     "Spaces/Videos/Home Page de Videos.md",
     "Spaces/Media/Media - Imagenes/Media - Imagenes.md",
     "Spaces/Videos/Organizacion/Logistica/Storage de recursos.md",
     "Spaces/Videos/Organizacion/Juegos/Minecraft.md",
-    "README.md",
     "Spaces/Media/Media - Imagenes/cappcno/Banner de twitter.png",
     "Spaces/Media/Media - Imagenes/cappcno/Logo pequeño.png",
     "Spaces/Ideas/Videos/Juegos/Roblox/Untitled Boxing Game/2023-12-25 Primer dia de trabajo del video.md",
@@ -236,14 +238,12 @@
     "Spaces/Redes sociales/Redes sociales.md",
     "Spaces/Provisorio/Codigo/Machete legal de la evaluación.md",
     "Spaces/Videos/Organizacion/Organizacion.md",
-    "Spaces/Provisorio/Provisorio.md",
     "Spaces/Videos/Organizacion/Juegos/Roblox/Combat Warriors/Comandos.md",
     "Spaces/Home/Home.md",
     "Spaces/Media/Media - Illustrator/Media - Illustrator.md",
     "Spaces/Ideas/Videos/Juegos/Roblox/Roblox.md",
     "Spaces/Ideas/Videos/Juegos/Juegos.md",
     "Spaces/Ideas/Videos/Videos.md",
-    "Spaces/Ideas/Ideas.md",
     "Spaces/Home",
     "Spaces",
     "Spaces/Media/Media - Imagenes/cappcno",

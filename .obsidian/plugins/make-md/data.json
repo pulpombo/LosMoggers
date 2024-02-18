@@ -62,7 +62,8 @@
     "//Spaces/Spaces/Videos",
     "//Spaces/Spaces/Videos/Spaces/Videos/Organizacion/Spaces/Videos/Organizacion/Juegos",
     "//Spaces/Spaces/Media",
-    "//Spaces/Spaces/Media/Spaces/Media/Media - Imagenes"
+    "//Spaces/Spaces/Media/Spaces/Media/Media - Imagenes",
+    "//Spaces/Spaces/Provisorio"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",
