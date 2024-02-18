@@ -27,6 +27,9 @@
    Yeah, probably, i think i already am
    
 8. Who's on your mind? Does talking about sex make you uncomfortable?
+   
+   
+   
 9. Who was the last person you had a deep conversation with?
 10. What does the most recent text that you sent say?
 11. What are your 5 favorite songs right now? 13. Do you like it when people play with your hair?
