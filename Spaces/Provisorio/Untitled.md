@@ -16,10 +16,11 @@
    
 5. If you were drunk would the person you like take care of you?
    
+   Yeah, the person i like would come with me and take care of me IF SHE WASN'T BRAZILIAN
    
-   
-6. 7. What kind of people are you attracted to? Do you think you'll be in a relationship two months from now?
-8. 9. Who's on your mind? Does talking about sex make you uncomfortable?
+6. 
+   7. What kind of people are you attracted to? Do you think you'll be in a relationship two months from now?
+8. Who's on your mind? Does talking about sex make you uncomfortable?
 10. Who was the last person you had a deep conversation with?
 11. What does the most recent text that you sent say?
 12. What are your 5 favorite songs right now? 13. Do you like it when people play with your hair?
