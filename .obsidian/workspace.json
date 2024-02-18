@@ -20,19 +20,8 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "d4bdd8e1c3eb8e1e",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Spaces/Media/Media - Imagenes/cappcno/Banner de twitter.png"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -116,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spaces/Media/Media - Imagenes/cappcno/Banner de twitter.png",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spaces/Media/Media - Imagenes/cappcno/Banner de twitter.png",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spaces/Media/Media - Imagenes/cappcno/Banner de twitter.png"
+                "file": "README.md"
               }
             }
           }
@@ -212,10 +201,12 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "85931aba4374b9ba",
+  "active": "bd542a747256a0c0",
   "lastOpenFiles": [
-    "Spaces/Media/Media - Imagenes/cappcno/Logo pequeño.png",
     "README.md",
+    "Spaces/Videos/Home Page de Videos.md",
+    "Spaces/Media/Media - Imagenes/cappcno/Banner de twitter.png",
+    "Spaces/Media/Media - Imagenes/cappcno/Logo pequeño.png",
     "Spaces/Ideas/Videos/Juegos/Roblox/Untitled Boxing Game/2023-12-25 Primer dia de trabajo del video.md",
     "Spaces/Ideas/Videos/Juegos/Roblox/Untitled Boxing Game/Primer video.md",
     "Spaces/Ideas/Videos/Juegos/Roblox/Untitled Boxing Game/Untitled Boxing Game.md",
@@ -240,7 +231,6 @@
     "Spaces/Reels - Tiktoks/Reels - Tiktoks.md",
     "Spaces/Media/Media - Documentos/Media - Documentos.md",
     "Spaces/Media/Media.md",
-    "Spaces/Media/Media - Imagenes/cappcno/Banner de twitter.png",
     "Spaces/Home",
     "Spaces",
     "Spaces/Media/Media - Imagenes/cappcno",
