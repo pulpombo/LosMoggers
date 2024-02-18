@@ -16,7 +16,7 @@ sticker: emoji//2b50
 	- [Youtube](https://studio.youtube.com/channel/UC6u4HsXy_mKJ0tRIuPyfWmA/analytics/tab-overview/period-default)
 	- [Twitch](https://www.twitch.tv/lattevnla)
 - **Recursos**: Mi storage de recursos esta en [Storage](https://drive.google.com/drive/u/4/folders/1SbFb8ooWdQJj_QFGBOY0DkUAhyf-TKDg)
-	- Organizado por [[Storage de recursos!!]]
+	- Organizado por [[Storage de recursos]]
 - **Contacto**: 
 	- latttevnla@gmail.com (Gmail)
 	- lattevnla (Discord)

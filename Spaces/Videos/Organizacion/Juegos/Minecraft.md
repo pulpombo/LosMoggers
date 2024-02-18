@@ -1,9 +1,5 @@
 ### Homepage para videos de minecraft
 
-
-
-
-
 ### Random 
 #### Comandos
 ##### Lista de parámetros
