@@ -3,6 +3,9 @@
    The last person i've held hands with is a friend that was guiding me through a crowd to get to my other friends in a party
    
 2. Are you outgoing or shy?
+   
+   
+   
 3. Who are you looking forward to seeing?
 4. Are you easy to get along with?
 5. If you were drunk would the person you like take care of you?
