@@ -1,6 +1,6 @@
 1. Who's the last person you held hands with?
    
-   
+   The last person i've held hands with is a friend that was guiding me through a crowd to get to my other friends in a party
    
 2. Are you outgoing or shy?
 3. Who are you looking forward to seeing?
