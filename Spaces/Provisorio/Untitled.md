@@ -4,7 +4,7 @@
    
 2. Are you outgoing or shy?
    
-   
+   Am mostly outgoing to male 
    
 3. Who are you looking forward to seeing?
 4. Are you easy to get along with?
