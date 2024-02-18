@@ -20,9 +20,12 @@
    
 6. What kind of people are you attracted to?
    
-   Am mostly attracted to girls 
+   Am mostly attracted to girls that get along with me, and i find interesting, either in looks, interests or maturity, and that understand kind of my background, someone i can connect deeply.
  
 7. Do you think you'll be in a relationship two months from now?
+   
+   Yeah, probably, i think i already am
+   
 8. Who's on your mind? Does talking about sex make you uncomfortable?
 9. Who was the last person you had a deep conversation with?
 10. What does the most recent text that you sent say?
