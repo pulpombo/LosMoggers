@@ -7,6 +7,9 @@
    Am mostly outgoing to male friends and shy to female friends, mostly because am autistic to my male friends
    
 3. Who are you looking forward to seeing?
+   
+   I wanna see my friends in school because they're a lot of fun and always come up with new and fun things to do 
+   
 4. Are you easy to get along with?
 5. If you were drunk would the person you like take care of you?
 6. 7. What kind of people are you attracted to? Do you think you'll be in a relationship two months from now?
