@@ -11,7 +11,13 @@
    I wanna see my friends in school because they're a lot of fun and always come up with new and fun things to do 
    
 4. Are you easy to get along with?
+   
+   Depends on who you are, i don't like annoying people, if i consider you annoying i'll probably confront you at first and then aboid you and get along with you by not letting you get in my head
+   
 5. If you were drunk would the person you like take care of you?
+   
+   
+   
 6. 7. What kind of people are you attracted to? Do you think you'll be in a relationship two months from now?
 8. 9. Who's on your mind? Does talking about sex make you uncomfortable?
 10. Who was the last person you had a deep conversation with?
